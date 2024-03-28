@@ -34,3 +34,81 @@
 .blue-text {
   color: #578aef
 }
+
+/* src/css/custom.css */
+
+/* Adjusted example: src/css/custom.css */
+
+.techLeadsContainer {
+  display: flex;
+  flex-wrap: nowrap; /* Prevents items from wrapping to the next line */
+  overflow-x: auto; /* Allows horizontal scrolling if items overflow the container width */
+  justify-content: center; /* Center items horizontally, if you prefer */
+  gap: 20px;
+}
+
+.techLead {
+  text-align: center;
+  width: 150px; /* Container width, ensuring aspect ratio */
+}
+
+/* Directly style the images */
+.techLead img {
+  border-radius: 50%;
+  width: 150px; /* Match the container width for a 1:1 aspect ratio */
+  height: 150px; /* Explicit height to ensure circular shape */
+  object-fit: cover; /* Adjust if your images are being cropped in an undesired way */
+}
+
+.LeadsContainer {
+  display: flex;
+  flex-wrap: nowrap; /* Prevents items from wrapping to the next line */
+  overflow-x: auto; /* Allows horizontal scrolling if items overflow the container width */
+  justify-content: center; /* Center items horizontally, if you prefer */
+  gap: 20px;
+}
+
+.Lead {
+  text-align: center;
+  width: 150px; /* Container width, ensuring aspect ratio */
+}
+
+/* Directly style the images */
+.Lead img {
+  border-radius: 50%;
+  width: 150px; /* Match the container width for a 1:1 aspect ratio */
+  height: 150px; /* Explicit height to ensure circular shape */
+  object-fit: cover; /* Adjust if your images are being cropped in an undesired way */
+}
+
+.techLeadsRow {
+  display: flex;
+  flex-wrap: nowrap; /* Keep items in a single line */
+  justify-content: center; /* Center items in the container */
+  gap: 20px; /* Adjust the space between items */
+}
+
+.techLeadsGrid {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr); /* 4 items in the first row */
+  gap: 20px; /* Adjust the gap between items */
+}
+
+@media (max-width: 768px) {
+  .techLead, .techLead img {
+    width: 100px; /* Smaller size on smaller screens */
+    height: 100px;
+  }
+}
+
+.flexContainer {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 20px;
+  margin-top: 20px;
+}
+
+.centerText {
+  text-align: center;
+}
