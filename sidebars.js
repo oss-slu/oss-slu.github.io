@@ -49,6 +49,32 @@ const sidebars = {
         },
       ],
     },
+    {
+      type: 'category',
+      label: 'Open',
+      items: [
+        {
+          type: 'doc',
+          id: 'open/open',
+        },
+        {
+          type: 'doc',
+          id: 'open/open-scholarship',
+        },
+        {
+          type: 'doc',
+          id: 'open/open-science',
+        },
+        {
+          type: 'doc',
+          id: 'open/open-data',
+        },
+        {
+          type: 'doc',
+          id: 'open/open-source-software',
+        } 
+      ]
+    },
     'portfolio',
   ],
   //  */
