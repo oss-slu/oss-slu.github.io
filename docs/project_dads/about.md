@@ -20,6 +20,9 @@ The goal of this project is to create a flexible, web-based, search-driven user 
   - Evan Richmond (capstone) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/Evan-Richmond) 
   - Andrew Jelliss (capstone) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/AJelliss) 
   - Louis Rolwes (capstone) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/lRolwes) 
+  - Samuel Kann (capstone) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/dracpak) 
+  - Bradley Sheldon (capstone) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/BradleySheldon) 
+  - Syed Omair (capstone) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/iamsyedomair)   
   - Greih Murray (alumni) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/GreihMurray) 
   - Josiah Glyshaw (alumni) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/jglyshaw) 
   - Thomas McGuigan (alumni) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/thomasmcg77) 
@@ -47,7 +50,7 @@ Overview of the software architecture.
 
 ### Development Priorities
 
-- Complete implememting all the existing flters and statistics
+- Complete implementing all the existing flters and statistics
 - Interact with a larger set of data
 - Improve the Queries and execution time
 - Improve the UI and UX of the application
