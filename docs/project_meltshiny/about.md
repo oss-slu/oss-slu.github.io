@@ -14,13 +14,16 @@ MeltShiny is a software application that automates the analysis and visualizatio
 - **Clients:**
   - [Dr. Brent Znosko](https://www.slu.edu/science-and-engineering/academics/chemistry/faculty/brent-znosko.php)
   - Sebastian Arteaga (Assistant)
-- **Current Tech Lead:** Sailikhita Pulijala [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/LikhitaPulijala)
+- **Current Tech Lead:** Pranitha Bollepalli [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/BollepalliPranitha)
 - **Developers:**
-
-  - Zohaib Ahmed (capstone) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/zohaib-a-ahmed)
-  - Ethan Gray (capstone) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/ethan-gray-01)
-  - Massimo Evelti (capstone) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/Massi-Papi)
-  - Uday Prasad Aitha (alumni, previous tech lead) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/aithaprasad) 
+  - Andrew Vazzano (capstone) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/avazzano7)
+  - Samuel Mercier (capstone) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/Canada101)
+  - Swetha Repalli (capstone) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/srepalli3)
+  - Zohaib Ahmed (alumni) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/zohaib-a-ahmed)
+  - Ethan Gray (alumni) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/ethan-gray-01)
+  - Massimo Evelti (alumni) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/Massi-Papi)
+  - Uday Prasad Aitha (alumni, prior tech lead) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/aithaprasad) 
+  - Sailikhita Pulijala (alumni, prior tech lead) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/LikhitaPulijala) 
   - Shlok Patel (alumni) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/shlokpat6) 
   - Colleen Wade (alumni) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/cwade6) 
   - Anthony Hampton (alumni) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/adhampton110) 
@@ -35,7 +38,30 @@ MeltShiny is a software application that automates the analysis and visualizatio
 
 ### User Guide
 
-MeltShiny has some dependencies which will need to be installed for the program to run. R Package installer files have been included, with the names MeltShinyDependenciesInstaller.command and MeltShinyDependenciesInstaller.bat for MacOS and Windows, respectively. These files are found within the MacOS_Scripts and Windows_Scripts folders found within the MeltShiny application bundle.Note, that in order for the Windows version to work, you must add the R bin folder to your PATH variable. For MacOS, the script can be used without any additional work. Double clicking MeltShinyDependenciesInstaller.command or MeltShinyDependenciesInstaller.bat for Mac and Windows, respectively, will open up a terminal. 
+MeltShiny is a web-based tool designed for researchers to easily analyze and visualize DNA melting curves.
+
+**Access the Web App**: Open the MeltShiny web app on any modern browser.
+
+**Upload Your Data**: Use the "Upload Data" section to upload files in .csv format.
+
+**Visualize Results**: Customize and generate graphs in the "Visualize Data" section to explore melting curves and other data.
+
+**Analyze and Export**: View detailed thermodynamic parameters in the "Analysis" section and export findings in preferred formats.
+
+**Get Help**: Visit the "Help" section for guides and support, or contact our team directly for assistance.
+
+MeltShiny streamlines complex DNA data analysis, allowing researchers to focus on scientific insights.
+
+## Installation
+
+MeltShiny requires specific dependencies to function correctly. Installation files for R packages are included in the application bundle:
+  - **MacOS**: MeltShinyDependenciesInstaller.command (located in the MacOS_Scripts folder)
+  - **Windows**: MeltShinyDependenciesInstaller.bat (located in the Windows_Scripts folder)
+
+**Important Notes:**
+
+  - **Windows Users**: Ensure that the R bin folder is added to your PATH variable for proper execution.
+  - **MacOS Users**: The script can be run directly without additional configuration.
 
 ## Technical Information
 
@@ -45,11 +71,16 @@ MeltShiny has some dependencies which will need to be installed for the program 
 
 ### Development Priorities
 
-- Latest R version required
-- Knowledge on Shiny server
-- Implement user-friendly UI
-- Require automated testing
-- Version Control and Collaboration
+- **Latest R version required** : Ensure compatibility with the most recent version of R.
+- **Knowledge on Shiny server** : Expertise in Shiny server setup and management.
+- **Implement user-friendly UI** : Develop a clean, intuitive interface for ease of use.
+- **Require automated testing** :  Implement comprehensive testing to ensure reliability.
+- **Version Control and Collaboration** : Utilize version control systems and collaboration tools for effective project management.
+
+### Additional Details:
+- **Project Goals**: Improve user experience by continuously incorporating feedback from researchers and addressing emerging needs in DNA melting curve analysis.
+- **Future Enhancements**: Explore integration with additional data formats, enhance error-handling capabilities, and expand visualization options.
+- **Community Engagement**: Actively seek contributions from the open-source community to foster collaboration and innovation.
 
 ## Get Involved
 
