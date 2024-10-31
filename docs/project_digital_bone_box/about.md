@@ -15,17 +15,19 @@ The app will categorize the bones into modules such as the bony pelvis, lower li
 
 ### Information
 
-- **Source Code:** -
+- **Source Code:** -[https://github.com/oss-slu/DigitalBoneBox](https://github.com/oss-slu/DigitalBoneBox) [<img src="/img/git-alt.svg" alt="git" width="25" height="25" />](https://github.com/oss-slu/DigitalBoneBox)
 - **Client** Dr. Brian Elliot - Program Director - Clinical Health Sciences
 - **Current Tech Lead:** Devi Priya Kolla [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/DeviPriya-Kolla)  [<img src="/img/linkedin.svg" alt="linkedin" width="25" height="25" />](https://www.linkedin.com/in/devi-priya-kolla-a95a78174)
 - **Developers:**
-TBD
+  - Burhan Khan [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/Balijah)  [<img src="/img/linkedin.svg" alt="linkedin" width="25" height="25" />](https://www.linkedin.com/in/burhan~khan/)
+  - Luke Tomlinson [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/tluke900)  [<img src="/img/linkedin.svg" alt="linkedin" width="25" height="25" />](https://www.linkedin.com/in/lucas-tomlinson-2677b32ba/)
+  - Josh Budzynski [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/JoshBudzynski)  [<img src="/img/linkedin.svg" alt="linkedin" width="25" height="25" />](https://www.linkedin.com/in/joshua-budzynski-33b06425a/)
 - **Start Date:** Aug, 2024
 - **Technologies Used:**
   - [HTMX](https://htmx.org/)
   - Flask
 - **Type:** Web application
-- **License:** [MIT](https://opensource.org/license/mit)
+- **License:** TBD
 
 
 ## Technical Information
