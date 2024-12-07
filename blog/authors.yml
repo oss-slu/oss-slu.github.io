@@ -29,7 +29,7 @@ ruthvik:
   image_url: /img/ruthvik_avatar.png
 
 Yash Kamal Bhatia:
-  name: Yash Kamal Bhatia 
+  name: Yash Kamal Bhatia
   title: Graduate research assistant at Open Source with SLU
   url: https://github.com/yashb196
   image_url: /img/yash_avatar1.jpg
@@ -39,3 +39,9 @@ maryam:
   title: Graduate research assistant at Saint Louis University
   url: https://github.com/Moshrefi
   image_url: /img/maryam_avatar.jpeg
+
+Pranitha:
+  name: Pranitha Bollepalli
+  title: Tech Lead at Open Source with SLU
+  url: https://github.com/BollepalliPranitha
+  image_url: /img/Pranitha.jpg
