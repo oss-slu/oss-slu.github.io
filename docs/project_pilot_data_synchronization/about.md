@@ -14,7 +14,7 @@ This interdisciplinary project involves collaboration between Aeronautics studen
 ### Information
 - **Source Code:**  https://github.com/oss-slu/PilotDataSynchronization [<img src="/img/git-alt.svg" alt="git" width="25" height="25" />](https://github.com/oss-slu/PilotDataSynchronization)
 - **Client** Gajapriya Tamilselvan - Aviation Science
-- **Current Tech Lead:** Harshitha Thota [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/harshitha-thota)
+- **Current Tech Lead:** Devi Priya Kolla [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/DeviPriya-Kolla)
 - **Developers:**
   - Ali Elnour (capstone) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/aelnourSLU) 
   - Carly Hoover (capstone) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/carlyrhoover)

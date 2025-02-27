@@ -20,9 +20,9 @@ These vanilla default and internally useful interfaces for the TPEN ecosystem th
   - Patrick Cuba (SLU Research Computing Group) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/cubap) 
   - Bryan Haberberger (SLU Research Computing Group) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/thehabes) 
   - Victor Onoja (Web Developer) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/jsvoo) 
-  - Camille Daugherty [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/camilledaugherty)
-  - Matthew Clendenning [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/Matthew-Clendenning)
-  - Sarah Fida Hussain [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/sarah-fidahussain-SLU)
+  - Camille Daugherty (Capstone) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/camilledaugherty)
+  - Matthew Clendenning (Capstone) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/Matthew-Clendenning)
+  - Sarah Fida Hussain (Capstone) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/sarah-fidahussain-SLU)
 - **Start Date:** Jan, 2023 
 - **Adoption Date:** Aug, 2024
 - **Technologies Used:** 
