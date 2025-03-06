@@ -15,11 +15,14 @@ The SLU computational chemistry researchers, working on understanding various pr
 
 - **Source Code:** [https://github.com/oss-slu/esp](https://github.com/oss-slu/esp) [<img src="/img/git-alt.svg" alt="git" width="25" height="25" />](https://github.com/oss-slu/esp)
 - **Client** Dr. Ryan McCulla
-- **Current Tech Lead:** Siri Chandana Garimella [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/SiriChandanaGarimella) [<img src="/img/linkedin.svg" alt="linkedin" width="25" height="25" />](https://www.linkedin.com/in/sirichandana-garimella/)
+- **Current Tech Lead:** Nandini Reddy Bhumula [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/bhumulanandinireddy)
 - **Developers:**
-  - Eric Bruns (capstone) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/Ebruns4)
-  - Medhani Kalal (capstone) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/mkalal6)
   - Sam Lyskawa (capstone) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/Lyskawa-Aonyx)
+  - Haneen Alsewari (capstone) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/haneenalsewari)
+  - Paul Ongkiko (capstone) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/paulongkiko)
+  - Eric Bruns (alumni) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/Ebruns4)
+  - Medhani Kalal (alumni) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/mkalal6)
+  Siri Chandana Garimella (alumni, prior tech lead) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/SiriChandanaGarimella) [<img src="/img/linkedin.svg" alt="linkedin" width="25" height="25" />](https://www.linkedin.com/in/sirichandana-garimella/)
   - Raju Karmuri (alumni, prior tech lead) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/rkarmuri) [<img src="/img/linkedin.svg" alt="linkedin" width="25" height="25" />](https://www.linkedin.com/in/rajukarmuri731/)  
   - Hayden Karl (alumni) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/haydenkarl22)
  
