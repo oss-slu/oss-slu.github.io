@@ -12,7 +12,8 @@ The Material Donor Mutual Assist project by BWorks is designed to streamline the
 
 - **Source Code:** [https://github.com/oss-slu/material-donor-mutual-assist](https://github.com/oss-slu/material-donor-mutual-assist) [<img src="/img/git-alt.svg" alt="git" width="25" height="25" />](https://github.com/oss-slu/material-donor-mutual-assist)
 - **Client:** BWorks Organization
-- **Current Tech Lead:** Anjali Putta [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/Anjali0407-git/) [<img src="/img/linkedin.svg" alt="linkedin" width="25" height="25" />](https://www.linkedin.com/in/anjali-putta-278164227/) [<img src="/img/portfolio.svg" alt="portfolio" width="25" height="25" />](https://anjali-official.netlify.app/)
+- **Current Tech Lead:** Lalith Adithya Reddy Avuthu [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/alar12)[<img src="/img/linkedin.svg" alt="linkedin" width="25" height="25" />](https://www.linkedin.com/in/lalith-adithya-reddy-avuthu-1a409b192/)
+- **Previous Tech Lead:** Anjali Putta [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/Anjali0407-git/) [<img src="/img/linkedin.svg" alt="linkedin" width="25" height="25" />](https://www.linkedin.com/in/anjali-putta-278164227/) [<img src="/img/portfolio.svg" alt="portfolio" width="25" height="25" />](https://anjali-official.netlify.app/)
 - **Developers:**
   - Sai Kiran Reddy Beeram (capstone) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/saikiran0405) [<img src="/img/linkedin.svg" alt="linkedin" width="25" height="25" />](https://www.linkedin.com/in/sai-kiran-reddy-beeram-866075190/)
   - Mahaboob Pasha Mohammad (capstone) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/miabu-pashh) [<img src="/img/linkedin.svg" alt="linkedin" width="25" height="25" />](https://www.linkedin.com/in/mohammad-mahaboob-pasha/)
@@ -40,8 +41,8 @@ The Material Donor Mutual Assist project by BWorks is designed to streamline the
 
 After logging in, users are redirected to the homepage where they are presented with the information about the application. From here, they can navigate to different sections:
 
-- **Donations:** View a list of all donated items. Search and filter options are available to find specific donations easily
-- **Donor Form:** Registers new donor
+- **Donations:** View a list of all donated items. Search and filter options are available to find specific donations easily. Azude storage container is used for storing images.
+- **Donor Form:** Registers new donor(email alerts enabled)
 - **Programs:** Create and manage programs that will utilize the donated items. Each program can be linked to specific donations
 - **Item Details:** By selecting an item, users go to a detailed page where they can update the item’s status, upload photos, and send updates to donors via email
 
