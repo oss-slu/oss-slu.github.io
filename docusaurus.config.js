@@ -128,6 +128,12 @@ const config = {
             position: 'left',
             label: 'Portfolio',
           },
+          {
+            type: 'doc',
+            docId: 'oss-across-slu',
+            position: 'left',
+            label: 'OSS Across SLU',
+          },
           {to: '/news', label: 'News', position: 'left'},
           {
             href: 'https://github.com/oss-slu',
