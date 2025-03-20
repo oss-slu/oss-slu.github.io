@@ -22,7 +22,7 @@ The SLU computational chemistry researchers, working on understanding various pr
   - Paul Ongkiko (capstone) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/paulongkiko)
   - Eric Bruns (alumni) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/Ebruns4)
   - Medhani Kalal (alumni) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/mkalal6)
-  Siri Chandana Garimella (alumni, prior tech lead) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/SiriChandanaGarimella) [<img src="/img/linkedin.svg" alt="linkedin" width="25" height="25" />](https://www.linkedin.com/in/sirichandana-garimella/)
+  - Siri Chandana Garimella (alumni, prior tech lead) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/SiriChandanaGarimella) [<img src="/img/linkedin.svg" alt="linkedin" width="25" height="25" />](https://www.linkedin.com/in/sirichandana-garimella/)
   - Raju Karmuri (alumni, prior tech lead) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/rkarmuri) [<img src="/img/linkedin.svg" alt="linkedin" width="25" height="25" />](https://www.linkedin.com/in/rajukarmuri731/)  
   - Hayden Karl (alumni) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/haydenkarl22)
  

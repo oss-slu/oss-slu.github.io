@@ -13,8 +13,9 @@ The Open Energy Dashboard (OED) is a crucial open-source project that facilitate
 
 - **Source Code:** [https://github.com/oss-slu/OED](https://github.com/oss-slu/OED) [<img src="/img/git-alt.svg" alt="git" width="25" height="25" />](https://github.com/oss-slu/OED)
 - **Client:** Steve Huss-Lederman
-- **Current Tech Lead:** Lakshmi Mamillapalli [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/lmamillapalli786)
+- **Current Tech Lead:** All Tech leads under OSS collaborate on this project
 - **Developers:**
+  - Lakshmi Mamillapalli [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/lmamillapalli786)
   - Colin Seper (capstone) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/colinseper)
   - Thomas Marcus (capstone) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/ThomasMacas)
   - Joijanae  Laws (capstone) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/lawsj)
