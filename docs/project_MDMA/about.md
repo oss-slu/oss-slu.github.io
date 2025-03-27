@@ -12,11 +12,15 @@ The Material Donor Mutual Assist project by BWorks is designed to streamline the
 
 - **Source Code:** [https://github.com/oss-slu/material-donor-mutual-assist](https://github.com/oss-slu/material-donor-mutual-assist) [<img src="/img/git-alt.svg" alt="git" width="25" height="25" />](https://github.com/oss-slu/material-donor-mutual-assist)
 - **Client:** BWorks Organization
-- **Current Tech Lead:** Anjali Putta [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/Anjali0407-git/) [<img src="/img/linkedin.svg" alt="linkedin" width="25" height="25" />](https://www.linkedin.com/in/anjali-putta-278164227/) [<img src="/img/portfolio.svg" alt="portfolio" width="25" height="25" />](https://anjali-official.netlify.app/)
+- **Current Tech Lead:**   - Lalith Adithya Reddy Avuthu [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/alar12)
 - **Developers:**
-  - Sai Kiran Reddy Beeram (capstone) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/saikiran0405) [<img src="/img/linkedin.svg" alt="linkedin" width="25" height="25" />](https://www.linkedin.com/in/sai-kiran-reddy-beeram-866075190/)
-  - Mahaboob Pasha Mohammad (capstone) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/miabu-pashh) [<img src="/img/linkedin.svg" alt="linkedin" width="25" height="25" />](https://www.linkedin.com/in/mohammad-mahaboob-pasha/)
-  - Joseph Hansen (capstone) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/truffer11)
+  - Sam Kann (capstone)[<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/dracpak)
+  - Josheph Hansen (capstone) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/truffer11)
+  - Sai Teja Dugyala (capstone) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/saidugyala)
+  - AJ Ashgari (capstone) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/aasghari01)
+  - Sai Kiran Reddy Beeram (alumni) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/saikiran0405) [<img src="/img/linkedin.svg" alt="linkedin" width="25" height="25" />](https://www.linkedin.com/in/sai-kiran-reddy-beeram-866075190/)
+  - Mahaboob Pasha Mohammad (alumni) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/miabu-pashh) [<img src="/img/linkedin.svg" alt="linkedin" width="25" height="25" />](https://www.linkedin.com/in/mohammad-mahaboob-pasha/)
+  - Anjali Putta (Previous tech lead) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/Anjali0407-git/) [<img src="/img/linkedin.svg" alt="linkedin" width="25" height="25" />](https://www.linkedin.com/in/anjali-putta-278164227/) [<img src="/img/portfolio.svg" alt="portfolio" width="25" height="25" />](https://anjali-official.netlify.app/)
   - Siri Chandana Garimella (proof of concept) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/SiriChandanaGarimella)
   - Manohar Reddy YRL (proof of concept) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/yrlmanoharreddy)
   - Chirag Gupta (proof of concept) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/Chirag2x)
@@ -25,7 +29,7 @@ The Material Donor Mutual Assist project by BWorks is designed to streamline the
   - Brijitha Tialu (proof of concept) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/Brijitha1609)
   - Deepak PVSN (proof of concept) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/deepak-pvsn)
   - Maryam Moshrefizadeh (proof of concept) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/Moshrefi)
-  - Lalith Adithya Reddy Avuthu (proof of concept) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/alar12)
+
 
 - **Start Date:** Mar, 2024
 - **Adoption Date:** Mar, 2024

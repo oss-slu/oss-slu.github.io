@@ -14,9 +14,8 @@ MeltShiny is a software application that automates the analysis and visualizatio
 - **Clients:**
   - [Dr. Brent Znosko](https://www.slu.edu/science-and-engineering/academics/chemistry/faculty/brent-znosko.php)
   - Sebastian Arteaga (Assistant)
-- **Current Tech Lead:** Pranitha Bollepalli [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/BollepalliPranitha)
+- **Current Tech Lead:** Abhilash Kurapati [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/akurapati1)
 - **Developers:**
-
   - Andrew Vazzano (capstone) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/avazzano7)
   - Samuel Mercier (capstone) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/Canada101)
   - Swetha Repalli (capstone) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/srepalli3)
@@ -25,6 +24,7 @@ MeltShiny is a software application that automates the analysis and visualizatio
   - Massimo Evelti (alumni) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/Massi-Papi)
   - Uday Prasad Aitha (alumni, prior tech lead) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/aithaprasad)
   - Sailikhita Pulijala (alumni, prior tech lead) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/LikhitaPulijala)
+  - Pranitha Bollepalli (alumni, prior tech lead) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/BollepalliPranitha)
   - Shlok Patel (alumni) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/shlokpat6)
   - Colleen Wade (alumni) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/cwade6)
   - Anthony Hampton (alumni) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/adhampton110)
