@@ -29,7 +29,7 @@ ruthvik:
   image_url: /img/ruthvik_avatar.png
 
 Yash Kamal Bhatia:
-  name: Yash Kamal Bhatia 
+  name: Yash Kamal Bhatia
   title: Graduate research assistant at Open Source with SLU
   url: https://github.com/yashb196
   image_url: /img/yash_avatar1.jpg
@@ -62,3 +62,19 @@ Ajith Akuthota:
   name: Ajith Akuthota
   title: Tech Lead at Open Source with SLU
   url: https://github.com/AjithAkuthota23
+
+Sowmya:
+  name: Sowmya Mutya
+  title: Tech Lead at Open Source with SLU
+  url: https://github.com/MutyaSowmya123
+
+Santosh:
+  name: Sri Tammiraja Karthikeya Sai Santosh Iragavarapu
+  title: Tech Lead at Open Source with SLU
+  url: https://github.com/jacksayshi
+
+Manohar Reddy:
+  name: Yenkatarajalaxmimanohar Meda
+  title: Tech Lead at Open Source with SLU
+  url: https://github.com/yrlmanoharreddy
+  image_url: /img/manohar_avatar.jpg
