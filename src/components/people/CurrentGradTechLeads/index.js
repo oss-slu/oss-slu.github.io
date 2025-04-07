@@ -6,7 +6,8 @@ function CurrentGradTechLeads() {
   
   return (
       <div className="techLeadsGrid">
-          {currentGradTechLeads.map((techLead, index) => (
+          {currentGradTechLeads.sort((a, b) => (a.name > b.name) ? 1 : (b.name > a.name) ? -1 : 0)
+            .map((techLead, index) => (
               <Profile
               key={`current-grad-tech-lead-${index}`}
               imgSrc={techLead.image}
