@@ -10,9 +10,9 @@ Open Source with SLU is a champion and resource for all things "open" at Saint L
 
 Open source software enables collaborative research and sustainable innovation.
 
-[Open source software is a set of principles and practices](https://aws.amazon.com/what-is/open-source/). The most obvious practice is making the human-readable "source" code for software freely available for use, study, modification, and distribution. This fosters transparency, collaboration, and continuous improvement. Open source principles promote transparency by making code openly accessible, aligning with reproducibility goals in research. Open source solutions provide cost-effective, customizable alternatives to proprietary software, promoting vendor independence and long-term sustainability. The collaborative nature of open source communities drives sustained innovation and robust software development through diverse contributions and knowledge sharing.
+[Open source software is based on a set of principles and practices](https://aws.amazon.com/what-is/open-source/). The most obvious practice is making the human-readable "source" code for software freely available for use, study, modification, and distribution. This fosters transparency, collaboration, and continuous improvement. Open source principles promote transparency by making code openly accessible, aligning with reproducibility goals in research. Open source solutions provide cost-effective, customizable alternatives to proprietary software, promoting vendor independence and long-term sustainability. The collaborative nature of open source communities drives sustained innovation and robust software development through diverse contributions and knowledge sharing.
 
-[Research software](https://open-science-training-handbook.github.io/Open-Science-Training-Handbook_EN/02OpenScienceBasics/03OpenResearchSoftwareAndOpenSource.html), a specific category of open source software, plays a crucial role in enabling open science and open scholarship practices. Research software benefits from open source practices, enabling reproducible research workflows, data analysis tools, and collaborative platforms. The adoption of open source research software facilitates open access, open data, and open educational resource initiatives, fostering an ecosystem of shared knowledge and collaboration across disciplines. By embracing open source software, researchers and scholars can drive innovation, enhance software quality, and contribute to a culture of openness in academia.
+When [research software](https://open-science-training-handbook.github.io/Open-Science-Training-Handbook_EN/02OpenScienceBasics/03OpenResearchSoftwareAndOpenSource.html) is aligned with open source principles, it plays a crucial role in enabling open science and open scholarship practices. Research software benefits from open source practices, enabling reproducible research workflows, data analysis tools, and collaborative platforms. The adoption of open source research software facilitates open access, open data, and open educational resource initiatives, fostering an ecosystem of shared knowledge and collaboration across disciplines. By embracing open source software, researchers and scholars can drive innovation, enhance software quality, and contribute to a culture of openness in academia.
 
 ## Open Science
 
@@ -34,7 +34,10 @@ Open data refers to the practice of making data freely available for everyone to
 
 ## An Interconnected Landscape
 
+![open ecosystem](/img/Open-Ecosystem.png "The 'Open' Ecosystem")
+
 These four concepts are interconnected and mutually reinforcing:
+
 * **Open Science enables Open Data and Open Source Software:** Open science practices, such as preregistration, reproducible research, and open notebooks, promote the sharing and reuse of research data and software, aligning with open data and open source principles.
 * **Open Data and Open Source Software fuel Open Science:** The availability of open data and open source software facilitates new scientific discoveries, enables validation of research findings, and supports the principles of open science, such as transparency and reproducibility.
 * **Open Scholarship integrates Open Science, Open Data, and Open Source Software:** Open scholarship embraces open science principles and practices, while also promoting open data sharing, open source software utilization, and their integration across diverse scholarly activities, including teaching, learning, and public engagement.
@@ -50,68 +53,42 @@ In recent years governmental and private funding agencies have implemented vario
 
 ### Open Data Mandates
 
-* [**NIH Public Access Policy (2008):**](https://sharing.nih.gov/public-access-policy/public-access-policy-overview)
-  * Requires that all peer-reviewed journal articles resulting from NIH-funded research be made publicly available on PubMed Central no later than 12 months after publication.
-* [**OSTP Public Access Memo (2013):**](https://rosap.ntl.bts.gov/view/dot/34953#:~:text=This%20memorandum%2C%20issued%20on%20February,access%20to%20all%20results%20of)
-  * Directed federal agencies with annual extramural research and development expenditures over $100 million to develop plans for increasing public access to publications and digital data resulting from federally funded research.
-* [**DOE Public Access Plan (2014):**](https://www.energy.gov/doe-public-access-plan#:~:text=The%202014%20DOE%20Public%20Access%20Plan%20includes%20requirements%20for%20researchers,within%2012%20months%20of%20publication.)
-  * Requires that accepted peer-reviewed manuscripts resulting from DOE-funded research be made publicly available within 12 months of publication.
-  * Mandates the development of data management plans and encourages the deposition of data in public repositories.
-* [**NSF Public Access Plan (2015):**](https://www.nsf.gov/public-access)
-  * Mandates that either the version of record or the final accepted manuscript of journal articles and juried conference papers resulting from NSF-funded research be made publicly available no later than 12 months after publication.
-  * Requires data management plans for all new proposals and encourages the deposition of data in public repositories.
-* [**NSF Data Sharing Policy (2023):**](https://www.nsf.gov/funding/data-management-plan#:~:text=data%20sharing%20policy-,NSF's%20data%20sharing%20policy,of%20work%20under%20NSF%20awards.)
-  * Establishes requirements for NSF-funded researchers to share data, software, and other digital products of NSF-funded research.
-  * Mandates the deposition of data and other digital products into designated repositories, unless specific exemptions apply.
-  * Encourages the use of open repositories, formats, and licenses to maximize accessibility and reuse.
+* [**OSTP Public Access Memo (2013):**](https://rosap.ntl.bts.gov/view/dot/34953#:~:text=This%20memorandum%2C%20issued%20on%20February,access%20to%20all%20results%20of) Directed federal agencies with annual extramural research and development expenditures over $100 million to develop plans for increasing public access to publications and digital data resulting from federally funded research.
+* [**NASA Plan for Increasing Access to the Results of Scientific Research (2014):**](https://www.nasa.gov/wp-content/uploads/2021/12/206985_2015_nasa_plan-for-web.pdf) Encourages the deposition of research data into publicly accessible repositories and the development of data management plans.
+* [**DOE Public Access Plan (2014):**](https://www.energy.gov/doe-public-access-plan#:~:text=The%202014%20DOE%20Public%20Access%20Plan%20includes%20requirements%20for%20researchers,within%2012%20months%20of%20publication.) Mandates the development of data management plans and encourages the deposition of data in public repositories.
+* [**NSF Public Access Plan (2015):**](https://www.nsf.gov/public-access) Requires data management plans for all new proposals and encourages the deposition of data in public repositories.
+* [**NSF Data Sharing Policy (2023):**](https://www.nsf.gov/funding/data-management-plan#:~:text=data%20sharing%20policy-,NSF's%20data%20sharing%20policy,of%20work%20under%20NSF%20awards.) Establishes requirements for NSF-funded researchers to share data, software, and other digital products of NSF-funded research. Mandates the deposition of data and other digital products into designated repositories, unless specific exemptions apply. Encourages the use of open repositories, formats, and licenses to maximize accessibility and reuse.
+* [**Bill & Melinda Gates Foundation Open Access Policy:**](https://www.gatesfoundation.org/about/policies-and-resources/open-access-policy) Encourages the deposition of data in open repositories and the use of open data standards.
+* [**Wellcome Trust Open Access Policy:**](https://wellcome.org/grant-funding/guidance/open-access-guidance/open-access-policy) Requires the development of data management and sharing plans for all funded projects.
+* [**Ford Foundation Open Licensing Policy:**](https://www.fordfoundation.org/news-and-stories/news-and-press/news/ford-foundation-expands-creative-commons-licensing-for-all-grant-funded-projects/) Requires that all grant-funded work products, including publications, data, and software, be licensed under an open license (e.g., Creative Commons, Open Data Commons) to facilitate reuse and redistribution.
+* [**Arnold Ventures Open Science Initiative:**](https://www.arnoldventures.org/search?q=open+science+initiative)
+  * Supports efforts to promote open science practices, such as preregistration, open data sharing, and research transparency.
 
 ### Open Access Mandates
 
-* [**NASA Plan for Increasing Access to the Results of Scientific Research (2014):**](https://www.nasa.gov/wp-content/uploads/2021/12/206985_2015_nasa_plan-for-web.pdf)
-  * Requires that all NASA-funded authors deposit final peer-reviewed manuscripts into NASA's institutional repository, PubSpace, to be made publicly accessible within one year of publication.
-  * Encourages the deposition of research data into publicly accessible repositories and the development of data management plans.
-* [**Federal Research Public Access Act (FRPAA) (Proposed):**](https://en.wikipedia.org/wiki/Federal_Research_Public_Access_Act)
-  * This proposed legislation would require federal agencies to develop policies ensuring that unclassified research funded by the agency is made publicly accessible online within 12 months of publication.
-* [**Plan S (International):**](https://www.coalition-s.org/)
-  * An initiative from a coalition of research funders, including some U.S. agencies, that requires all scholarly publications resulting from their funded research to be published in open access journals or platforms by 2025.
-* [**Bill & Melinda Gates Foundation Open Access Policy:**](https://www.gatesfoundation.org/about/policies-and-resources/open-access-policy)
-  * Requires that all peer-reviewed publications resulting from foundation-funded research be made openly accessible and available immediately upon publication.
-  * Encourages the deposition of data in open repositories and the use of open data standards.
-* [**Wellcome Trust Open Access Policy:**](https://wellcome.org/grant-funding/guidance/open-access-guidance/open-access-policy)
-  * Mandates that all research publications resulting from Wellcome Trust funding be made freely available through approved open access repositories or journals.
-  * Requires the development of data management and sharing plans for all funded projects.
-* [**Ford Foundation Open Licensing Policy:**](https://www.fordfoundation.org/news-and-stories/news-and-press/news/ford-foundation-expands-creative-commons-licensing-for-all-grant-funded-projects/)
-  * Requires that all grant-funded work products, including publications, data, and software, be licensed under an open license (e.g., Creative Commons, Open Data Commons) to facilitate reuse and redistribution.
-* [**Arnold Ventures Open Science Initiative:**](https://www.arnoldventures.org/search?q=open+science+initiative)
-  * Supports efforts to promote open science practices, such as preregistration, open data sharing, and research transparency.
-  * Funds projects and initiatives that develop tools, resources, and infrastructure to enable open science practices.
+* [**NIH Public Access Policy (2008):**](https://sharing.nih.gov/public-access-policy/public-access-policy-overview) Requires that all peer-reviewed journal articles resulting from NIH-funded research be made publicly available on PubMed Central no later than 12 months after publication.
+* [**NASA Plan for Increasing Access to the Results of Scientific Research (2014):**](https://www.nasa.gov/wp-content/uploads/2021/12/206985_2015_nasa_plan-for-web.pdf) Requires that all NASA-funded authors deposit final peer-reviewed manuscripts into NASA's institutional repository, PubSpace, to be made publicly accessible within one year of publication.
+* [**DOE Public Access Plan (2014):**](https://www.energy.gov/doe-public-access-plan#:~:text=The%202014%20DOE%20Public%20Access%20Plan%20includes%20requirements%20for%20researchers,within%2012%20months%20of%20publication.) Requires that accepted peer-reviewed manuscripts resulting from DOE-funded research be made publicly available within 12 months of publication.
+* [**NSF Public Access Plan (2015):**](https://www.nsf.gov/public-access) Mandates that either the version of record or the final accepted manuscript of journal articles and juried conference papers resulting from NSF-funded research be made publicly available no later than 12 months after publication.
+* [**Federal Research Public Access Act (FRPAA) (Proposed):**](https://en.wikipedia.org/wiki/Federal_Research_Public_Access_Act) This proposed legislation would require federal agencies to develop policies ensuring that unclassified research funded by the agency is made publicly accessible online within 12 months of publication.
+* [**Plan S (International):**](https://www.coalition-s.org/) An initiative from a coalition of research funders, including some U.S. agencies, that requires all scholarly publications resulting from their funded research to be published in open access journals or platforms by 2025.
+* [**Bill & Melinda Gates Foundation Open Access Policy:**](https://www.gatesfoundation.org/about/policies-and-resources/open-access-policy) Requires that all peer-reviewed publications resulting from foundation-funded research be made openly accessible and available immediately upon publication.
+* [**Wellcome Trust Open Access Policy:**](https://wellcome.org/grant-funding/guidance/open-access-guidance/open-access-policy) Mandates that all research publications resulting from Wellcome Trust funding be made freely available through approved open access repositories or journals.
+* [**Ford Foundation Open Licensing Policy:**](https://www.fordfoundation.org/news-and-stories/news-and-press/news/ford-foundation-expands-creative-commons-licensing-for-all-grant-funded-projects/) Requires that all grant-funded work products, including publications, data, and software, be licensed under an open license (e.g., Creative Commons, Open Data Commons) to facilitate reuse and redistribution.
+* [**Arnold Ventures Open Science Initiative:**](https://www.arnoldventures.org/search?q=open+science+initiative) Supports efforts to promote open science practices, such as preregistration, open data sharing, and research transparency.
+
 
 
 ### Additional Policies and Initiatives
 
-* [**OSTP Desirable Characteristics of Data Repositories (2022):**](https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/05/05-2022-Desirable-Characteristics-of-Data-Repositories.pdf)
-  * Provides guidance on desirable characteristics for data repositories used to store and provide access to federal data.
-* [**OSTP Guidance on Improving Rigor and Integrity in Research (2022):**](https://bidenwhitehouse.archives.gov/ostp/news-updates/2023/01/12/ostp-releases-framework-for-strengthening-federal-scientific-integrity-policies-and-practices/)
-  * Encourages the use of open science practices, such as preregistration, transparency in data and code sharing, and open communication.
-*[ **OSTP Nelson Memorandum on Scientific Integrity (2022):**](https://bidenwhitehouse.archives.gov/ostp/ostps-teams/nstc/scientific-integrity-task-force/)
-  * Promotes the open and objective communication of scientific facts and data, emphasizing transparency and public access to federally funded research.
-* [**NASA Scientific Information Policy (2022):**](https://science.nasa.gov/researchers/science-information-policy/)
-  * Establishes principles and requirements for the open dissemination of NASA scientific and technical information, including publications, data, and software.
-  * Mandates that NASA-funded research publications and associated data be made publicly accessible through designated repositories.
-  * Requires the use of open data formats and open-source software when possible.
-* [**NASA's Transform to Open Science (TOPS) Initiative:**](https://science.nasa.gov/open-science/)
-  * A collaborative effort with the scientific community to develop policies, practices, and tools to support open science at NASA.
-  * Aims to promote open data, open-source software, open publications, and open collaborative platforms for NASA-funded research.
-* [**NSF Proposal & Award Policies & Procedures Guide (PAPPG):**](https://www.nsf.gov/policies/pappg)
-  * Includes guidelines and requirements for data management plans, open access publishing, and sharing of other research products.
-  * Encourages the use of open-source software and open data standards to promote transparency and reproducibility.
-* [**NSF Software Sustainability Plans:**](https://www.nsf.gov/funding/opportunities/environmental-sustainability)
-  * Encourages the development of software sustainability plans for research projects involving significant software development efforts.
-  * Promotes the adoption of open source practices, including version control, automated testing, and documentation.
-* [**Alfred P. Sloan Foundation Initiatives:**](https://sloan.org/programs/initiatives)
-  * Supporting open source software projects and infrastructure for scientific research and academic applications.
-  * Funding initiatives for open access publishing platforms and open access in specific fields.
-  * Promoting open data sharing, reproducible research, and computational approaches through data repositories and tool development.
-  * Advocating for open science practices and fostering collaboration among stakeholders from academia, industry, and government.
+* [**OSTP Desirable Characteristics of Data Repositories (2022):**](https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/05/05-2022-Desirable-Characteristics-of-Data-Repositories.pdf) Provides guidance on desirable characteristics for data repositories used to store and provide access to federal data.
+* [**OSTP Guidance on Improving Rigor and Integrity in Research (2022):**](https://bidenwhitehouse.archives.gov/ostp/news-updates/2023/01/12/ostp-releases-framework-for-strengthening-federal-scientific-integrity-policies-and-practices/) Encourages the use of open science practices, such as preregistration, transparency in data and code sharing, and open communication.
+* [ **OSTP Nelson Memorandum on Scientific Integrity (2022):**](https://bidenwhitehouse.archives.gov/ostp/ostps-teams/nstc/scientific-integrity-task-force/) Promotes the open and objective communication of scientific facts and data, emphasizing transparency and public access to federally funded research.
+* [**NASA Scientific Information Policy (2022):**](https://science.nasa.gov/researchers/science-information-policy/) Establishes principles and requirements for the open dissemination of NASA scientific and technical information, including publications, data, and software. Mandates that NASA-funded research publications and associated data be made publicly accessible through designated repositories. Requires the use of open data formats and open-source software when possible.
+* [**NASA's Transform to Open Science (TOPS) Initiative:**](https://science.nasa.gov/open-science/) A collaborative effort with the scientific community to develop policies, practices, and tools to support open science at NASA. Aims to promote open data, open-source software, open publications, and open collaborative platforms for NASA-funded research.
+* [**NSF Proposal & Award Policies & Procedures Guide (PAPPG):**](https://www.nsf.gov/policies/pappg) Includes guidelines and requirements for data management plans, open access publishing, and sharing of other research products. Encourages the use of open-source software and open data standards to promote transparency and reproducibility.
+* [**NSF Software Sustainability Plans:**](https://www.nsf.gov/funding/opportunities/environmental-sustainability) Encourages the development of software sustainability plans for research projects involving significant software development efforts. Promotes the adoption of open source practices, including version control, automated testing, and documentation.
+* [**Alfred P. Sloan Foundation Initiatives:**](https://sloan.org/programs/initiatives) Supporting open source software projects and infrastructure for scientific research and academic applications. Funding initiatives for open access publishing platforms and open access in specific fields. Promoting open data sharing, reproducible research, and computational approaches through data repositories and tool development. Advocating for open science practices and fostering collaboration among stakeholders from academia, industry, and government.
+* [**Arnold Ventures Open Science Initiative:**](https://www.arnoldventures.org/search?q=open+science+initiative) Funds projects and initiatives that develop tools, resources, and infrastructure to enable open science practices.
 
 These mandates and policies reflect a growing commitment from federal funding agencies to foster open scholarship, open science, and data sharing practices, ultimately aiming to enhance research transparency, reproducibility, and public access to federally funded research outputs.

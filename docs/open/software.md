@@ -16,7 +16,7 @@ The open and collaborative nature of open source development allows for rapid in
 
 ## Research Software Engineering
 
-In the realm of research, open source software has become a crucial component of research software engineering. Researchers rely on open source tools and libraries for data analysis, visualization, simulation, and computational workflows. By embracing open source practices, researchers can ensure reproducibility, foster collaboration, leverae community contributions, enable customization and extension, and promote open science. By embracing open source software in research, the scientific community can drive innovation, enhance software quality, and contribute to a culture of openness, collaboration, and reproducibility in academia.
+In the realm of research, open source software has become a crucial component of research software engineering. Researchers rely on open source tools and libraries for data analysis, visualization, simulation, and computational workflows. By embracing open source practices, researchers can ensure reproducibility, foster collaboration, leverage community contributions, enable customization and extension, and promote open science. By embracing open source software in research, the scientific community can drive innovation, enhance software quality, and contribute to a culture of openness, collaboration, and reproducibility in academia.
 
 ## Key Principles of Open Source Software
 
@@ -37,7 +37,7 @@ In the realm of research, open source software has become a crucial component of
 
 ## Key Practices of Research Software Engineering
 
-Research software engineering involves the development, maintenance, and management of software used in academic and scientific research. Research software engineering improves on naive research software development by embracing rigorous software engineering best practices intended to make projects more sustainable, secure, efficient, and adaptable. There are significant overlaps between research software engineering and open source software in both required practices as well as good practices. To ensure high-quality, reproducible, and sustainable research software, the following practices are commonly employed in research software enineering:
+Research software engineering involves the development, maintenance, and management of software used in academic and scientific research. Research software engineering improves on naive research software development by embracing rigorous software engineering best practices intended to make projects more sustainable, secure, efficient, and adaptable. This list is not really unique to research software engineering. These are general good practices of software engineering (with the addition of community engagement, which comes from the open source aspect). There are significant overlaps between research software engineering and open source software in both required practices as well as good practices. To ensure high-quality, reproducible, and sustainable research software, the following practices are commonly employed in research software enineering:
 
 * **Version Control:**
   * Utilizing version control systems (e.g., Git) to track changes, enable collaboration, and manage code revisions.
