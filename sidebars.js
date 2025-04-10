@@ -50,7 +50,8 @@ const sidebars = {
       ],
     },
     'portfolio',
-    'oss-across-slu'
+    'oss-across-slu',
+    'donate',
   ],
   //  */
 };
