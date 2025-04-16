@@ -6,7 +6,8 @@ function PrevStaff() {
   
   return (
       <div className="staffGrid">
-          {prevStaff.sort((a, b) => (a.name > b.name) ? 1 : (b.name > a.name) ? -1 : 0)
+          {prevStaff.slice()
+            .sort((a, b) => (a.name > b.name) ? 1 : (b.name > a.name) ? -1 : 0)
             .map((staff, index) => (
               <Profile
               key={`prev-staff-${index}`}
