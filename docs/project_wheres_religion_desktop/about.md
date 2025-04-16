@@ -18,6 +18,7 @@ Where's Religion? is conceptualized and designed for diverse users with interest
 - **Current Developers:**
   - Amy Chen (capstone) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/amychen108)
   - Justin Wang (capstone) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/jwang-101)
+   - Samuel Sheppard (capstone) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/sesheppard)
 - **Previous Developers:**
   - Stuart Ray (alumni) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/Stuartwastaken)
   - Izak Robles (alumni) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/izakrobles)

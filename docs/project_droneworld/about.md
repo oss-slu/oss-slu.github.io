@@ -17,11 +17,12 @@ Our team at OSS is dedicated to enhancing Drone World’s capabilities, includin
 
 - **Source Code:**  https://github.com/oss-slu/DroneWorld [<img src="/img/git-alt.svg" alt="git" width="25" height="25" />](https://github.com/oss-slu/DroneWorld)
 - **Client:** [Dr. Ankit Agrawal](https://www.slu.edu/science-and-engineering/academics/computer-science/faculty-and-staff/ankit-agrawal.php) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/ankyAgrawal)
-- **Current Tech Lead:** Mohammad Al-Hanoosh [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/mohamdlog)
+- **Current Tech Lead:** Rakesh Ranga Buram [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/Rakesh-Ranga-Buram)
 - **Developers:**
     - Darweshi Amerson (capstone) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/damerson1)
     - Noah Guzinski (capstone) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/nguzinski) 
     - Valerie Galiano (capstone) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/Hoshi-Okami)
+    - Mohammad Al-Hanoosh (prior tech lead) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/mohamdlog)
     - Yashaswini Shivalingaiah (alumni, prior tech lead) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/yashaswini-slu)
     - Hebron Bekele (alumni) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/hebronh)
     - Kaleb Yu (alumni) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/kalyus)

@@ -128,7 +128,19 @@ const config = {
             position: 'left',
             label: 'Portfolio',
           },
+          {
+            type: 'doc',
+            docId: 'oss-across-slu',
+            position: 'left',
+            label: 'OSS Across SLU',
+          },
           {to: '/news', label: 'News', position: 'left'},
+          {
+            type: 'doc',
+            docId: 'donate',
+            label: 'Donate',
+            position: 'right',
+          },
           {
             href: 'https://github.com/oss-slu',
             label: 'GitHub',
@@ -145,6 +157,10 @@ const config = {
               {
                 label: 'About',
                 to: '/docs/about',
+              },
+              {
+                label: 'Make a Gift',
+                to: '/docs/donate',
               },
             ],
           },

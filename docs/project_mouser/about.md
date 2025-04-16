@@ -16,16 +16,16 @@ Created mainly for SLU researchers, this software is used for collecting and ana
 - **Client:** Dr. Karoly Toth
 - **Current Tech Lead:** Jack Belyeu [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/jackbelyeu)
 - **Developers:**
-
-  - Andrew Obermiller (capstone) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/aobermiller)
-  - Cori Diaz (alumni) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/coridiaz)
+  - Eric Bruns (capstone) [<img src="/img/github.svg" alt="github" width="25" height="25" />](http://github.com/Ebruns4)
   - Ibro Kardasevic (capstone) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/ikardasevic)
-  - Logan Wyas (prior tech lead) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/loganwyas)
   - Nicholas Newbauer (capstone) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/NNewbauer)
   - Noah Mosher (capstone) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/moshernoah)
   - Ryan Carmody (capstone) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/rc10283)
+  - Andrew Obermiller (capstone) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/aobermiller)
   - Stanley Yang (capstone) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/stanleyyang2001)
   - Tyler Bush (alumni) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/tbush03)
+  - Cori Diaz (alumni) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/coridiaz)
+  - Logan Wyas (prior tech lead) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/loganwyas)
   - Uday Prasad Aitha (alumni, prior tech lead) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/aithaprasad)
 
 - **Start Date:** July 2022

@@ -29,29 +29,58 @@ ruthvik:
   image_url: /img/ruthvik_avatar.png
 
 Yash Kamal Bhatia:
-  name: Yash Kamal Bhatia 
+  name: Yash Kamal Bhatia
   title: Graduate research assistant at Open Source with SLU
   url: https://github.com/yashb196
   image_url: /img/yash_avatar1.jpg
 
+Zanxiang Wang:
+  name: Zanxiang Wang
+  title: Graduate Student Team Lead at Open Source with SLU
+  url: https://github.com/BaloneyBoy97
+  image_url: /img/zanxiang_avatar.png
+
+Karthik Mangineni:
+  name: Karthik Mangineni
+  title: Graduate Student Team Lead at Open Source with SLU
+  url: https://github.com/rcAsironman
+  image_url: /img/karthikMangineni_avatar.jpg
+  
 maryam:
   name: Maryam Moshrefi
   title: Graduate research assistant at Saint Louis University
   url: https://github.com/Moshrefi
   image_url: /img/maryam_avatar.jpeg
-
+  
 anjali:
   name: Anjali Putta
   title: Graduate research assistant at Saint Louis University
   url: https://anjaliofficial.netlify.app/
   image_url: /img/anjali_avatar.jpeg
-
+  
 Ajith Akuthota:
   name: Ajith Akuthota
   title: Tech Lead at Open Source with SLU
   url: https://github.com/AjithAkuthota23
 
+
 Rakesh Ranga Buram:
   name: Rakesh Ranga Buram
   title: Tech Lead at Open Source with SLU
   url: https://github.com/Rakesh-Ranga-Buram
+  
+Sowmya:
+  name: Sowmya Mutya
+  title: Tech Lead at Open Source with SLU
+  url: https://github.com/MutyaSowmya123
+
+Santosh:
+  name: Sri Tammiraja Karthikeya Sai Santosh Iragavarapu
+  title: Tech Lead at Open Source with SLU
+  url: https://github.com/jacksayshi
+
+Manohar Reddy:
+  name: Yenkatarajalaxmimanohar Meda
+  title: Tech Lead at Open Source with SLU
+  url: https://github.com/yrlmanoharreddy
+  image_url: /img/manohar_avatar.jpg
