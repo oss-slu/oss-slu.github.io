@@ -1,15 +1,16 @@
 import React from 'react';
-import prevStaff from '../../../data/people/prevStaff.json';
+import currentStaff from '../../../data/people/currentStaff.json';
 import Profile from '../Profile';
 
-function PrevStaff() {
+function CurrentStaff() {
   
   return (
       <div className="staffGrid">
-          {prevStaff.sort((a, b) => (a.name > b.name) ? 1 : (b.name > a.name) ? -1 : 0)
+          {currentStaff.slice()
+            .sort((a, b) => (a.name > b.name) ? 1 : (b.name > a.name) ? -1 : 0)
             .map((staff, index) => (
               <Profile
-              key={`prev-staff-${index}`}
+              key={`current-staff-${index}`}
               imgSrc={staff.image}
               name={staff.name}
               profileLink={staff.profileLink}
@@ -19,4 +20,4 @@ function PrevStaff() {
   );
 }
 
-export default PrevStaff;
+export default CurrentStaff;
