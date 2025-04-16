@@ -18,6 +18,12 @@ Saint Louis University is a member of [HELIOS Open](https://www.heliosopen.org/)
 * **Open Collaboration:** Engaging in collaborative scholarly practices, fostering interdisciplinary collaborations, and embracing diverse perspectives to tackle complex challenges.
 * **Open Science:** Applying open science principles, such as preregistration, reproducible research, and open notebooks, to enhance the transparency and reproducibility of scientific research.
 
+[Wikipedia Reference](https://en.wikipedia.org/wiki/Open_science)
+![Taken From Wikipedia](/img/Open_Science_Pillar.png) 
+
+
+
+
 ## Key Practices of Open Scholarship
 
 * **Open Publishing:** Utilizing open access publishing models, such as preprints, open journals, and institutional repositories, to disseminate scholarly work freely and widely.
