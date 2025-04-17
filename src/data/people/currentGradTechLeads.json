@@ -1,15 +1,5 @@
 [
     {
-        "name": "Siri Chandana Garimella",
-        "image": "/img/siri_avatar.jpg",
-        "profileLink": "https://github.com/SiriChandanaGarimella"
-    },
-    {
-        "name": "Anjali Putta",
-        "image": "/img/anjali_avatar.jpeg",
-        "profileLink": "https://anjaliofficial.netlify.app/"
-    },
-    {
         "name": "Yenkatarajalaxmi Manohar Meda",
         "image": "/img/manohar_avatar.jpg",
         "profileLink": "https://github.com/yrlmanoharreddy"
@@ -18,11 +8,6 @@
         "name": "Ajith Akuthota",
         "image": "",
         "profileLink": "https://github.com/AjithAkuthota23"
-    },
-    {
-        "name": "Mohammad Al-Hanoosh",
-        "image": "",
-        "profileLink": "https://github.com/mohamdlog"
     },
     {
         "name": "Lalith Adithya Reddy Avuthu",
@@ -40,17 +25,7 @@
         "profileLink": "https://github.com/jackbelyeu"
     },
     {
-        "name": "Pranitha Bollepalli",
-        "image": "",
-        "profileLink": "https://github.com/BollepalliPranitha"
-    },
-    {
-        "name": "Chirag Gupta",
-        "image": "",
-        "profileLink": "https://github.com/Chirag2x"
-    },
-    {
-        "name": "Sri Tammiraja",
+        "name": "Sanotsh Iragavarapu",
         "image": "",
         "profileLink": "https://github.com/jacksayshi"
     },
@@ -85,18 +60,28 @@
         "profileLink": "https://github.com/Rakesh-Ranga-Buram"
     },
     {
-        "name": "Harshitha Thota",
-        "image": "",
-        "profileLink": "https://github.com/HarshithaThota"
-    },
-    {
-        "name": "Brijitha Tialu",
-        "image": "",
-        "profileLink": "https://github.com/Brijitha1609"
-    },
-    {
         "name": "Zanxiang Wang",
         "image": "",
         "profileLink": "https://github.com/BaloneyBoy97"
+    },
+    {
+        "name": "Nandini Reddy Bhumula",
+        "image": "",
+        "profileLink": "https://github.com/bhumulanandinireddy"
+    },
+    {
+        "name": "Julian Shniter",
+        "image": "",
+        "profileLink": "https://github.com/smallrussian"
+    },
+    {
+        "name": "Lakshmi Mamillipalli",
+        "image": "",
+        "profileLink": "https://github.com/lmamillapalli786"
+    },
+    {
+        "name": "Abhilash Kurapati",
+        "image": "",
+        "profileLink": "https://github.com/kurapati1"
     }
 ]
