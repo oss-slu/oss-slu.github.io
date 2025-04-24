@@ -8,7 +8,7 @@ hide_table_of_contents: false
 ---
 
 
-## Saint Louis Startup Connection: Bridging Startups and Talent with OSS-SLU
+## Saint Louis Startup Connection: Showcasing Open Source SLU’s Value to the Innovation Ecosystem
 
 ![Cover Photo of the Saint Louis Startup Connection Event](RepresentingOpenSourceInStartUpWeek/IMG_7220.jpg "Cover photo of the Saint Louis Startup Connection Event")
 
