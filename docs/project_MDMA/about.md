@@ -45,6 +45,7 @@ After logging in, users are redirected to the homepage where they are presented 
 - **Donor Form:** Registers new donor(email alerts enabled)
 - **Programs:** Create and manage programs that will utilize the donated items. Each program can be linked to specific donations
 - **Item Details:** By selecting an item, users go to a detailed page where they can update the item’s status, upload photos, and send updates to donors via email
+- **Prduction URL:** Product is now deployed and live at "https://oss-slu.github.io/material-donor-mutual-assist/"
 
 ### Development Priorities
 
