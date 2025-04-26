@@ -41,7 +41,7 @@ The Material Donor Mutual Assist project by BWorks is designed to streamline the
 
 After logging in, users are redirected to the homepage where they are presented with the information about the application. From here, they can navigate to different sections:
 
-- **Donations:** View a list of all donated items. Search and filter options are available to find specific donations easily. Azude storage container is used for storing images.
+- **Donations:** View a list of all donated items. Search and filter options are available to find specific donations easily. Azure storage container is used for storing images.
 - **Donor Form:** Registers new donor(email alerts enabled)
 - **Programs:** Create and manage programs that will utilize the donated items. Each program can be linked to specific donations
 - **Item Details:** By selecting an item, users go to a detailed page where they can update the item’s status, upload photos, and send updates to donors via email
