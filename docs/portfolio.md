@@ -26,7 +26,7 @@ We are especially interested in projects supporting researchers, focused on rese
 
 **[Enhancing Bioinformatics Research through LLM](project_enhancing_bioinformatics_research_through_LLM/about.md)** - This project is focused on developing an AI-driven tool that supports bioinformatics research by providing intelligent API recommendations, detecting errors, and offering real-time corrections. The tool leverages large language models trained on bioinformatics codebases to ensure reliable data retrieval and analysis, ultimately improving research accuracy and efficiency.
 
-**[Image Recognition Integration System](project_iris)** - IRIS is a framework for creating custom mobile applications that can handle specialized image search problems. The framework was developed to create an application that uses a custom AI model to identify details about orthopedic screws from x-ray images of a patient. 
+**[Image Recognition Integration System](project_iris/about.md)** - IRIS is a framework for creating custom mobile applications that can handle specialized image search problems. The framework was developed to create an application that uses a custom AI model to identify details about orthopedic screws from x-ray images of a patient. 
   
 **[MeltShiny](project_meltshiny/about.md)** - MeltShiny is a web application that automates the analysis and visualization of DNA melting curves for researchers in chemistry, biology, and genetics.  
   

@@ -17,7 +17,7 @@ IRIS is a framework for creating custom mobile applications that can handle spec
 
   - Karthik (project staff) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/rcAsironman)
   - Mustafa Hashmi (capstone) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/mhashm1)
-  - Ramez Mosad [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/ramezmosad)
+  - Ramez Mosad (capstone) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/ramezmosad)
   - Megh Patel (capstone) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/MeghPatel6)
 
 - **Start Date:** January, 2025
