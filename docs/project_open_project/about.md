@@ -90,7 +90,6 @@ The stack enables fast, modern UI development, reliable unit/integration testing
 
 - **Vitest**  
   Used for unit and integration tests to ensure reliability and correctness.
-
 - **Dockerized PostgreSQL for Testing**  
   Provides an isolated environment for testing, safeguarding production data.
 
@@ -100,10 +99,8 @@ The stack enables fast, modern UI development, reliable unit/integration testing
 
 - **Component-Based Architecture**  
   UI components are organized in `/app/src/components`, grouped by resource (e.g., `User`, `Shop`, `Project`) and follow PascalCase naming conventions.
-
 - **Custom Hooks**  
   Located in `/app/src/hooks`, used for state management and data fetching, promoting code reuse and separation of concerns.
-
 - **Scalability & Adaptability**  
   The modular design enables easy customization and future feature development without disrupting existing functionality.
 
