@@ -10,16 +10,16 @@ SLU Open Project is a web-based work management tool that enables shared service
 
 ## Information
 
- - **Source Code:** [https://github.com/oss-slu/open-project//](https://github.com/oss-slu/open-project/) [<img src="/img/git-alt.svg" alt="git" width="25" height="25" />](https://github.com/oss-slu/open-project/)
+ - **Source Code:** [https://github.com/oss-slu/open-project/](https://github.com/oss-slu/open-project/) [<img src="/img/git-alt.svg" alt="git" width="25" height="25" />](https://github.com/oss-slu/open-project/)
 - **Client** SLU Center for Additive Manufacturing
-- **Current Tech Lead:** Lakshmi Prasanna Mamillapalli [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/lmamillapalli786) (https://www.linkedin.com/in/lakshmiprasana784/)
+- **Current Tech Lead:** Lakshmi Prasanna Mamillapalli (Tech Lead) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/lmamillapalli786) [<img src="/img/linkedin.svg" alt="linkedin" width="25" height="25" /> (https://www.linkedin.com/in/lakshmiprasana784/)
 - **Developers:**
 
-  - Colin Sepher [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/colinseper)  (https://www.linkedin.com/in/colin-seper/)
+  - Colin Sepher (Capstone) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/colinseper) [<img src="/img/linkedin.svg" alt="linkedin" width="25" height="25" />]  (https://www.linkedin.com/in/colin-seper/)
 
-  - Thomas Macas [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/ThomasMacas) (https://www.linkedin.com/in/thomas-macas-3730a7251/)
+  - Thomas Macas (Capstone) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/ThomasMacas) [<img src="/img/linkedin.svg" alt="linkedin" width="25" height="25" />] (https://www.linkedin.com/in/thomas-macas-3730a7251/)
 
-  - Joi Laws [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/lawsj) 
+  - Joi Laws (Capstone) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/lawsj) 
 
 - **Start Date:** Fall, 2025
 - **Adoption Date:** January, 2025
@@ -28,59 +28,101 @@ SLU Open Project is a web-based work management tool that enables shared service
   - Vitest
   - Postgresql
 - **Type:** Web application
-- **License:** [Pick a License](https://opensource.org/license/yadda)
+- **License:** [Pick a License](https://opensource.org/license/lgpl-3-0)
 
 ### User Guide
-SLan open source project management platform for distributed manufacturing, processing, and toolshops within an organization. It was specifically designed for the Saint Louis University Center for Additive Manufacturing, but can be adapted for other organizations.
+SLU open source project management platform is designed for distributed manufacturing, processing, and toolshops within an organization. It was specifically designed for the Saint Louis University Center for Additive Manufacturing, but can be adapted for other organizations.
 
 ## Technical Information
-SLU OPEN PROJECT is a react based project and Vitest is used for testing and the database used for implementation is Postgresql.
+
+# 📘 SLU OPEN PROJECT Overview
+
+**SLU OPEN PROJECT** is an open-source platform developed with the following stack:
+
+- **Frontend**: [React](https://reactjs.org/)
+- **Testing Framework**: [Vitest](https://vitest.dev/)
+- **Database**: [PostgreSQL](https://www.postgresql.org/)
+
+The project is designed to support distributed manufacturing, processing, and toolshop workflows within organizations such as Saint Louis University’s Center for Additive Manufacturing.
+
+The stack enables fast, modern UI development, reliable unit/integration testing, and robust relational data storage.
+
 
 ### Technical overview
 
-The SLU Open Project is an open-source platform designed for managing distributed manufacturing, processing, and tool shops within an organization. It is built with a modern, scalable tech stack, emphasizing ease of use, maintainability, and adaptability for different organizational needs.
+# 🚀 SLU Open Project
 
-Tech Stack & Architecture
+**SLU Open Project** is an open-source platform designed to manage distributed manufacturing, processing, and tool shops within an organization. Built with a modern, scalable tech stack, it emphasizes ease of use, maintainability, and adaptability to meet diverse organizational needs.
 
-Frontend:
+---
 
-React with TypeScript: The frontend is built using React, providing an interactive and dynamic user interface. TypeScript enhances code quality and maintainability by providing static typing.
+## 🧱 Tech Stack & Architecture
 
-UI Kit: The platform utilizes the Tabler React UI Kit (tabler-react-2) for a consistent, responsive, and modern design.
+### 🌐 Frontend
 
-Backend:
+- **React with TypeScript**  
+  Provides a dynamic, interactive UI with the added benefits of static typing for improved code quality and maintainability.
 
-Express.js: The API is built with Express.js, a minimalist Node.js framework, to handle HTTP requests and provide a flexible routing structure.
+- **UI Kit**  
+  Utilizes **Tabler React UI Kit (tabler-react-2)** for a consistent, responsive, and modern design.
 
-File-based Routing: The backend implements file-based routing within the /routes directory, making it easy to add, modify, or scale routes as needed. API routes are prefixed with /api/ for clear distinction.
+---
 
-Authentication:
+### 🖥 Backend
 
-JWT-based Authentication: The platform uses JWT (JSON Web Tokens) to secure API endpoints. Tokens are automatically attached to requests to ensure secure communication.
+- **Express.js**  
+  A minimalist Node.js framework used for building the API and handling HTTP requests.
 
-SSO Integration: SLU's SAML-based Single Sign-On (SSO) is integrated for user authentication, with OKTA for identity management and session handling. This provides seamless authentication and user management.
+- **File-based Routing**  
+  Routes are organized in the `/routes` directory with a clean, scalable structure. All API routes are prefixed with `/api/`.
 
-Data Fetching:
+---
 
-Custom authFetch Utility: The frontend uses a custom authFetch function, which wraps around the native fetch API. It automatically attaches the JWT token to every request, ensuring secure and authorized data fetching.
+### 🔐 Authentication
 
-Testing & Quality Assurance:
+- **JWT-based Authentication**  
+  Uses JSON Web Tokens to secure API endpoints, with automatic token attachment for secure communication.
 
-Vitest: Vitest is used for unit and integration testing, ensuring the platform is reliable and functions as intended.
+- **SSO Integration**  
+  Integrates with **SLU’s SAML-based Single Sign-On (SSO)** and **OKTA** for identity and session management.
 
-Dockerized Postgres for Testing: The platform leverages a Dockerized PostgreSQL instance for isolated testing, ensuring that the development and production databases are not affected by tests.
+---
 
-Modular Structure:
+### 🔄 Data Fetching
 
-Component-based Architecture: The project is organized into reusable, self-contained components located in the /app/src/components directory. Each component follows the PascalCase naming convention and is grouped by the resource it represents (e.g., User, Shop, Project).
+- **Custom `authFetch` Utility**  
+  A wrapper around the native `fetch` API that automatically attaches JWT tokens to all requests for secure data fetching.
 
-Hooks: Custom hooks are used for data fetching and state management, promoting reusability and separation of concerns. All hooks are located in the /app/src/hooks directory.
+---
 
-Scalability & Adaptability: The modular structure allows the platform to be easily adapted for different organizational requirements. It also ensures that future features can be added without affecting existing functionality.
+### ✅ Testing & Quality Assurance
 
-Deployment & Environment
+- **Vitest**  
+  Used for unit and integration tests to ensure reliability and correctness.
 
-The backend uses Docker for containerization, ensuring consistency across different environments (development, testing, production).
+- **Dockerized PostgreSQL for Testing**  
+  Provides an isolated environment for testing, safeguarding production data.
+
+---
+
+### 🧩 Modular Structure
+
+- **Component-Based Architecture**  
+  UI components are organized in `/app/src/components`, grouped by resource (e.g., `User`, `Shop`, `Project`) and follow PascalCase naming conventions.
+
+- **Custom Hooks**  
+  Located in `/app/src/hooks`, used for state management and data fetching, promoting code reuse and separation of concerns.
+
+- **Scalability & Adaptability**  
+  The modular design enables easy customization and future feature development without disrupting existing functionality.
+
+---
+
+## ⚙️ Deployment & Environment
+
+- **Docker**  
+  The backend is containerized using Docker, ensuring consistency across development, testing, and production environments.
+
 
 
 
