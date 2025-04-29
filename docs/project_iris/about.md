@@ -10,30 +10,36 @@ IRIS is a framework for creating custom mobile applications that can handle spec
 
 ## Information
 
- - **Source Code:** [https://github.com/oss-slu/image-recognition-integration-system/](https://github.com/oss-slu/image-recognition-integration-system/) [<img src="/img/git-alt.svg" alt="git" width="25" height="25" />](https://github.com/oss-slu/image-recognition-integration-system/)
+- **Source Code:** [https://github.com/oss-slu/image-recognition-integration-system/](https://github.com/oss-slu/image-recognition-integration-system/) [<img src="/img/git-alt.svg" alt="git" width="25" height="25" />](https://github.com/oss-slu/image-recognition-integration-system/)
 - **Client** Dr Abby Stylianou
-- **Current Tech Lead:** Julian Shniter [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/yadda)
+- **Current Tech Lead:** Julian Shniter [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/smallrussian)
 - **Developers:**
 
-  - Karthik (project staff) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/yadda)
-  - Dev 1 (capstone) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/Dev 1)
-  - Dev 2 (capstone) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/Dev 2)
-  - Dev 3 (capstone) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/Dev 3)
+  - Karthik (project staff) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/rcAsironman)
+  - Mustafa Hashmi (capstone) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/mhashm1)
+  - Ramez Mosad [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/ramezmosad)
+  - Megh Patel (capstone) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/MeghPatel6)
 
 - **Start Date:** January, 2025
 - **Adoption Date:** January, 2025
 - **Technologies Used:**
   - React Native
-  - ...
+  - NextJS
+  - TypeScript
+  - CapacitorJS
+  - HuggingFace
+  - TailwindCSS
 - **Type:** Mobile application
-- **License:** [Pick a License](https://opensource.org/license/yadda)
+- **License:** [LGPL](https://www.gnu.org/licenses/lgpl-3.0.en.html)
 
 ### User Guide
 
-yadda
+- Upload image to home page from photo library or phone camera.
+- Wait for Image to return results
+- View previous searches and search them again
 
 ## Technical Information
 
 ### Technical overview
 
-yadda
+![Software Architecture](architecture.png)
