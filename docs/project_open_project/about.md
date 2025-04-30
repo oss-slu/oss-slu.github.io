@@ -19,7 +19,7 @@ SLU Open Project is a web-based work management tool that enables shared service
 
   - Thomas Macas (capstone) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/ThomasMacas) [<img src="/img/linkedin.svg" alt="linkedin" width="25" height="25" />](https://www.linkedin.com/in/thomas-macas-3730a7251/)
 
-  - Joi Laws (capstone) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/lawsj) 
+  - Joi Laws (capstone) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/lawsj) [<img src="/img/linkedin.svg" alt="linkedin" width="25" height="25" />](https://www.linkedin.com/in/joijanaelaws/)
 
 - **Start Date:** Fall, 2025
 - **Adoption Date:** January, 2025
