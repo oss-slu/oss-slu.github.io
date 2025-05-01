@@ -123,6 +123,39 @@ const config = {
             
           },
           {
+            type: 'dropdown',
+            position: 'left',
+            label: 'Open',
+            items: [
+              {
+                label: 'About \'Open\'',
+                type: 'doc',
+                docId: 'open/open',
+              },
+              {
+                label: 'Open Scholarship',
+                type: 'doc',
+                docId: 'open/open-scholarship',
+              },
+              {
+                label: 'Open Science',
+                type: 'doc',
+                docId: 'open/open-science',
+              },
+              {
+                label: 'Open Data',
+                type: 'doc',
+                docId: 'open/open-data',
+              },
+              {
+                label: 'Open Source Software',
+                type: 'doc',
+                docId: 'open/open-source-software',
+              } 
+            ]
+            
+          },
+          {
             type: 'doc',
             docId: 'portfolio',
             position: 'left',
