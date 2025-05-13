@@ -9,7 +9,7 @@ const FeatureList = [
     Svg: require("@site/static/img/undraw_counting_stars_re_smvv.svg").default,
     description: (
       <>
-        <p>We support <strong>open scholarship</strong> and sustainable innovation 
+        <p>We support <strong>open science</strong> and sustainable innovation 
         by delivering <strong>value for researchers</strong> with software and tools
         and providing students with <strong>realistic software development </strong> 
         experience.</p>
