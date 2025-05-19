@@ -4,7 +4,15 @@ title: Image Recognition Integration System (IRIS)
 custom_edit_url: null
 ---
 
-## Project Overview
+## Executive Summary
+
+<!-- one sentence overview of the problem -->
+
+<!-- key benefits and differentiators -->
+
+<!-- target audience for what we created -->
+
+## Problem Statement
 
 The Image Recognition Integration System is a framework for creating custom mobile applications that allow users to easily utilize existing image search machine learning models. The idea is for a developer to download this framework and be able to plug in their model API and have a mobile app up and running with minimal programming changes.  <!-- add background  --> The project is structured as a React based webapp that uses CapacitorJS to translate it into an Android/iOS app. The team chose React because we had a need from  our client to have a cross-platform mobile app; they decided to use capacitor because it is the most straightforward way to turn a React app into said cross-platorm mobile app. NextJS was chosen because the tech lead preferred it as he was quite familair with it.
 
