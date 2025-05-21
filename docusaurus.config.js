@@ -87,45 +87,89 @@ const config = {
           {
             type: 'dropdown',
             position: 'left',
-            label: 'About Us',
+            label: 'People',
             items: [
               {
-                label: 'About',
+                label: 'Current',
                 type: 'doc',
-                docId: 'about/about',
+                docId: 'people/current',
               },
               {
-                label: 'Students',
+                label: 'Alumni',
                 type: 'doc',
-                docId: 'about/students',
+                docId: 'people/alumni',
               },
-              {
-                label: 'Software Requests',
-                type: 'doc',
-                docId: 'about/software',
-              },
-              {
-                label: 'Community',
-                type: 'doc',
-                docId: 'about/community',
-              },
-              {
-                label: 'Partners',
-                type: 'doc',
-                docId: 'about/partners',
-              },
-              {
-                label: 'Managed Internships',
-                type: 'doc',
-                docId: 'about/internships',
-              }
             ]
-            
           },
           {
             type: 'dropdown',
             position: 'left',
-            label: 'Open',
+            label: 'Programs',
+            items: [
+              {
+                label: 'Programs & Initiatives',
+                type: 'doc',
+                docId: 'programs/programs',
+              },
+              {
+                label: 'Experiential Learning',
+                type: 'doc',
+                docId: 'programs/experiential_learning',
+              },
+              {
+                label: 'Consulting',
+                type: 'doc',
+                docId: 'programs/consulting',
+              },
+              {
+                label: 'Advocacy',
+                type: 'doc',
+                docId: 'programs/advocacy',
+              }
+            ]
+          },
+          {
+            type: 'doc',
+            docId: 'portfolio',
+            position: 'left',
+            label: 'Portfolio',
+          },
+          {
+            type: 'dropdown',
+            position: 'left',
+            label: 'Engage',
+            items: [
+              {
+                label: 'Engage with OSS',
+                type: 'doc',
+                docId: 'engage/engage'
+              },
+              {
+                label: 'Software Development',
+                type: 'doc',
+                docId: 'engage/software',
+              },
+              {
+                label: 'Community',
+                type: 'doc',
+                docId: 'engage/community',
+              },
+              {
+                label: 'Partnerships',
+                type: 'doc',
+                docId: 'engage/partners',
+              },
+              {
+                label: 'Talent',
+                type: 'doc',
+                docId: 'engage/talent',
+              }
+            ]            
+          },
+          {
+            type: 'dropdown',
+            position: 'left',
+            label: 'Resources',
             items: [
               {
                 label: 'About \'Open\'',
@@ -133,33 +177,31 @@ const config = {
                 docId: 'open/open',
               },
               {
-                label: 'Open Scholarship',
-                type: 'doc',
-                docId: 'open/open-scholarship',
-              },
-              {
                 label: 'Open Science',
                 type: 'doc',
                 docId: 'open/open-science',
               },
               {
-                label: 'Open Data',
-                type: 'doc',
-                docId: 'open/open-data',
-              },
-              {
                 label: 'Open Source Software',
                 type: 'doc',
                 docId: 'open/open-source-software',
-              } 
+              },
+              {
+                label: 'Open Data',
+                type: 'doc',
+                docId: 'open/open-data',
+              }, 
+              {
+                label: 'Open Scholarship',
+                type: 'doc',
+                docId: 'open/open-scholarship',
+              },
+              {
+                label: 'Playbooks',
+                type: 'doc',
+                docId: 'open/playbook',
+              }
             ]
-            
-          },
-          {
-            type: 'doc',
-            docId: 'portfolio',
-            position: 'left',
-            label: 'Portfolio',
           },
           {
             type: 'doc',
@@ -185,24 +227,73 @@ const config = {
         style: 'dark',
         links: [
           {
-            title: 'Information',
+            title: 'Open Source with SLU',
             items: [
               {
-                label: 'About',
-                to: '/docs/about',
+                label: 'People',
+                to: '/people/current',
               },
               {
-                label: 'Make a Gift',
+                label: 'Programs',
+                to: '/programs/',
+              },
+              {
+                label: 'Portfolio',
+                to: '/portfolio',
+              },
+              {
+                label: 'Open Resources',
+                to: '/open/open',
+              },
+            ]
+          },
+          {
+            title: 'Get Involved',
+            items: [
+              {
+                label: 'Find out how to get involved',
+                to: '/engage/',
+              },
+              {
+                label: 'Request software development',
+                to: '/engage/software',
+              },
+              {
+                label: 'Join our community of developers',
+                to: '/engage/community',
+              },
+              {
+                label: 'Partner with us',
+                to: '/engage/partners',
+              },
+              {
+                label: 'Discover emerging talent',
+                to: '/engage/talent',
+              },
+              {
+                label: 'Make a gift',
                 to: '/docs/donate',
               },
             ],
           },
           {
-            title: 'Resources',
+            title: 'Saint Louis University',
             items: [
               {
                 label: 'slu.edu',
                 href: 'https://slu.edu',
+              },
+              {
+                label: 'School of Science & Engineering',
+                href: 'https://www.slu.edu/science-and-engineering/index.php'
+              },
+              {
+                label: 'Research',
+                href: 'https://www.slu.edu/research/about-slu-research/index.php'
+              },
+              {
+                label: 'Libraries',
+                href: 'https://www.slu.edu/library/index.php',
               },
               {
                 label: 'Github',
@@ -211,14 +302,17 @@ const config = {
             ],
           },
           {
-            title: 'Stay up to date',
+            title: 'Stay Connected',
             items: [
               {
-                label: 'News',
+                label: 'OSS News',
                 to: '/news',
               },
+              { label: 'OSS on LinkedIn',
+                href: 'https://www.linkedin.com/company/open-source-with-slu/'
+              },
               {
-                label: 'GitHub',
+                label: 'OSS on GitHub',
                 href: 'https://github.com/oss-slu',
               },
             ],
