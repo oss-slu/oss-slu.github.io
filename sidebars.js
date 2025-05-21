@@ -21,37 +21,44 @@ const sidebars = {
   tutorialSidebar: [
     {
       type: 'category',
-      label: 'About Us',
+      label: 'People',
       items: [
         {
           type: 'doc',
-          id: 'about/about'
+          id: 'people/current'
         },
         {
+          label: 'Alumni',
           type: 'doc',
-          id: 'about/software'
-        },
-        {
-          type: 'doc',
-          id: 'about/students'
-        },
-        {
-          type: 'doc',
-          id: 'about/community'
-        },
-        {
-          type: 'doc',
-          id: 'about/partners'
-        },
-        {
-          type: 'doc',
-          id: 'about/internships'
-        },
+          id: 'people/alumni',
+        }
       ],
     },
     {
       type: 'category',
-      label: 'Open',
+      label: 'Programs & Initiatives',
+      items: [
+        {
+          type: 'doc',
+          id: 'programs/programs',
+        },
+        {
+          type: 'doc',
+          id: 'programs/experiential_learning',
+        },
+        {
+          type: 'doc',
+          id: 'programs/consulting',
+        },
+        {
+          type: 'doc',
+          id: 'programs/advocacy',
+        }
+      ]
+    },
+    {
+      type: 'category',
+      label: 'Open Resources',
       items: [
         {
           type: 'doc',
@@ -59,23 +66,100 @@ const sidebars = {
         },
         {
           type: 'doc',
-          id: 'open/open-scholarship',
-        },
-        {
-          type: 'doc',
           id: 'open/open-science',
         },
         {
           type: 'doc',
-          id: 'open/open-data',
+          id: 'open/open-source-software',
+        }, 
+        {
+        type: 'doc',
+        id: 'open/open-data',
         },
         {
           type: 'doc',
-          id: 'open/open-source-software',
-        } 
+          id: 'open/open-scholarship',
+        },
+        {
+          label: 'Playbook',
+          type: 'doc',
+          id: 'open/playbook',
+        }
       ]
     },
+    {
+      type: 'category',
+      label: 'Get Involved',
+      items: [
+        {
+          label: 'Find out how to get involved',
+          type: 'doc',
+          id: 'engage/engage',
+        },
+        {
+          label: 'Request software development',
+          type: 'doc',
+          id: 'engage/software',
+        },
+        {
+          label: 'Join our community of developers',
+          type: 'doc',
+          id: 'engage/community',
+        },
+        {
+          label: 'Partner with us',
+          type: 'doc',
+          id: 'engage/partners',
+        },
+        {
+          label: 'Discover emerging talent',
+          type: 'doc',
+          id: 'engage/talent',
+        },
+        {
+          label: 'Make a gift',
+          type: 'doc',
+          id: 'donate',
+        },
+      ],
+    },
     'portfolio',
+    {
+      type: 'category',
+      label: 'Resources',
+      items: [
+        {
+          label: 'About \'Open\'',
+          type: 'doc',
+          id: 'open/open',
+        },
+        {
+          label: 'Open Science',
+          type: 'doc',
+          id: 'open/open-science',
+        },
+        {
+          label: 'Open Source Software',
+          type: 'doc',
+          id: 'open/open-source-software',
+        },
+        {
+          label: 'Open Data',
+          type: 'doc',
+          id: 'open/open-data',
+        }, 
+        {
+          label: 'Open Scholarship',
+          type: 'doc',
+          id: 'open/open-scholarship',
+        },
+        {
+          label: 'Playbooks',
+          type: 'doc',
+          id: 'open/playbook',
+        }
+      ]
+    },
     'oss-across-slu',
     'donate',
   ],

@@ -1,5 +1,6 @@
 ---
-id: internships
+id: talent
+Title: Talent Pipeline
 custom_edit_url: null
 ---
 
@@ -11,7 +12,7 @@ Gain Access to Top Talent & Drive Innovation
 
 Do you have R&D projects or open-source dependencies that need a dedicated team?
 
-Our managed internship program offers a unique opportunity to leverage the skills and expertise of highly motivated student teams while advancing your goals.
+Our managed talent pipeline program offers a unique opportunity to leverage the skills and expertise of highly motivated student teams while advancing your goals.
 
 ## Execution + Experience + Engagement
 
@@ -25,7 +26,7 @@ Our flexible engagement models are tailored to meet your needs.
 
 + Access to a skilled and cost-effective team of developers.
 + Hire key personnel immediately after the project ends.
-+ Accelerate R&D projects or open source contributions.
++ Accelerate R&D projects or open source contributions.` 
 + Avoid committing or distracting internal resources.
 + Identify and cultivate top talent for future hiring opportunities.
 + Gain fresh perspectives and innovative ideas.
