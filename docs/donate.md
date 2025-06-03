@@ -10,9 +10,9 @@ Gifts to Open Source with SLU are made to a dedicated fund at Saint Louis Univer
 
 To make a donation,
 
-1. Visit the [Saint Louis University gift page](https://engage.slu.edu/register/giftform?sys:gift:notes=DWEB99W9)
-2. Under "Select and Area of Support" choose "Search for a specific fund".
-3. Under "Search for a specific fund" type "Open Source with SLU".
-4. Enter a gift amount, and finish filling in the rest of the form.
+1. Visit the [Saint Louis University gift page](https://engage.slu.edu/register/fund?sys:gift:fund=972c5963-127a-ac8f-69f7-c2839f2dbff7&sys:gift:notes=GIFT99W9)
+2. Enter a gift amount,
+3. Fill in Contact Info and Payment Details,
+4. Submit the donation, and success!
 
-![Make a Gift screenshot](/img/make_a_gift_screenshot.png)
+You're support in any amount enables open source software development and open science.
