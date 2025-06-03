@@ -66,37 +66,8 @@ const sidebars = {
         }
       ]
     },
-    {
-      type: 'category',
-      label: 'Open Resources',
-      items: [
-        {
-          type: 'doc',
-          id: 'open/open',
-        },
-        {
-          type: 'doc',
-          id: 'open/open-science',
-        },
-        {
-          type: 'doc',
-          id: 'open/open-source-software',
-        }, 
-        {
-        type: 'doc',
-        id: 'open/open-data',
-        },
-        {
-          type: 'doc',
-          id: 'open/open-scholarship',
-        },
-        {
-          label: 'Playbook',
-          type: 'doc',
-          id: 'open/playbook',
-        }
-      ]
-    },
+    'portfolio',
+  
     {
       type: 'category',
       label: 'Get Involved',
@@ -119,7 +90,7 @@ const sidebars = {
         {
           label: 'Partner with us',
           type: 'doc',
-          id: 'engage/partners',
+          id: 'engage/partner',
         },
         {
           label: 'Discover emerging talent',
@@ -133,41 +104,22 @@ const sidebars = {
         },
       ],
     },
-    'portfolio',
     {
       type: 'category',
-      label: 'Resources',
+      label: 'Open Resources',
       items: [
         {
-          label: 'About \'Open\'',
           type: 'doc',
-          id: 'open/open',
+          id: 'resources/open/open',
         },
         {
-          label: 'Open Science',
           type: 'doc',
-          id: 'open/open-science',
+          id: 'resources/playbooks/playbook',
         },
         {
-          label: 'Open Source Software',
           type: 'doc',
-          id: 'open/open-source-software',
+          id: 'resources/role_guides/role_guides',
         },
-        {
-          label: 'Open Data',
-          type: 'doc',
-          id: 'open/open-data',
-        }, 
-        {
-          label: 'Open Scholarship',
-          type: 'doc',
-          id: 'open/open-scholarship',
-        },
-        {
-          label: 'Playbooks',
-          type: 'doc',
-          id: 'open/playbook',
-        }
       ]
     },
     'oss-across-slu',

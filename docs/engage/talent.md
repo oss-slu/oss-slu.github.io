@@ -1,6 +1,6 @@
 ---
 id: talent
-title: Talent Pipeline
+title: Talent with OSS
 custom_edit_url: null
 ---
 

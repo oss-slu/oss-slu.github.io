@@ -155,24 +155,44 @@ const config = {
                 docId: 'engage/engage'
               },
               {
-                label: 'Software Development',
+                label: 'Consult with OSS',
+                type: 'doc',
+                docId: 'engage/consult'
+              },
+              {
+                label: 'Develop Software with OSS',
                 type: 'doc',
                 docId: 'engage/software',
               },
               {
-                label: 'Community',
+                label: 'Join Community with OSS',
                 type: 'doc',
                 docId: 'engage/community',
               },
               {
-                label: 'Partnerships',
+                label: 'Work as a Student with OSS',
                 type: 'doc',
-                docId: 'engage/partners',
+                docId: 'engage/work'
               },
               {
-                label: 'Talent',
+                label: 'Mentor with OSS',
                 type: 'doc',
-                docId: 'engage/talent',
+                docId: 'engage/mentor'
+              },
+              {
+                label: 'Discover Talent with OSS',
+                type: 'doc',
+                docId: 'engage/talent'
+              },
+              {
+                label: 'Partner with OSS',
+                type: 'doc',
+                docId: 'engage/partner',
+              },
+              {
+                label: 'Sponsor OSS',
+                type: 'doc',
+                docId: 'engage/sponsor',
               }
             ]            
           },
@@ -182,35 +202,20 @@ const config = {
             label: 'Resources',
             items: [
               {
-                label: 'About \'Open\'',
+                label: 'All About \'Open\'',
                 type: 'doc',
-                docId: 'open/open',
+                docId: 'resources/open/open',
               },
               {
-                label: 'Open Science',
+                label: 'Program Playbooks',
                 type: 'doc',
-                docId: 'open/open-science',
+                docId: 'resources/playbooks/playbook',
               },
               {
                 label: 'Open Source Software',
                 type: 'doc',
-                docId: 'open/open-source-software',
+                docId: 'resources/role_guides/role_guides',
               },
-              {
-                label: 'Open Data',
-                type: 'doc',
-                docId: 'open/open-data',
-              }, 
-              {
-                label: 'Open Scholarship',
-                type: 'doc',
-                docId: 'open/open-scholarship',
-              },
-              {
-                label: 'Playbooks',
-                type: 'doc',
-                docId: 'open/playbook',
-              }
             ]
           },
           {
@@ -252,8 +257,8 @@ const config = {
                 to: '/portfolio',
               },
               {
-                label: 'Open Resources',
-                to: '/open/open',
+                label: 'Resources',
+                to: '/resources/open/open',
               },
             ]
           },
@@ -273,16 +278,16 @@ const config = {
                 to: '/engage/community',
               },
               {
-                label: 'Partner with us',
-                to: '/engage/partners',
-              },
-              {
                 label: 'Discover emerging talent',
                 to: '/engage/talent',
               },
               {
-                label: 'Make a gift',
-                to: '/docs/donate',
+                label: 'Partner with OSS',
+                to: '/engage/partners',
+              },
+              {
+                label: 'Sponsor Open Source with SLU',
+                to: '/engage/sponsor',
               },
             ],
           },
@@ -294,7 +299,7 @@ const config = {
                 href: 'https://slu.edu',
               },
               {
-                label: 'School of Science & Engineering',
+                label: 'SSE',
                 href: 'https://www.slu.edu/science-and-engineering/index.php'
               },
               {

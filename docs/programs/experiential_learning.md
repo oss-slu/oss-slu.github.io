@@ -48,10 +48,27 @@ Faculty members play a crucial role in our experiential learning ecosystem by se
 
 ## Building Open Leadership Toolsets (BOLT)
 
-BOLT is a workshop that gives participants the tools required to lead open source software, especially for research. The BOLT workshop is offered every summer and winter immediately before the start of classes to enable new graduate student Tech Leads to be ready to lead their teams as soon as the other developers are identified.  
+BOLT is an intensive workshop designed to equip participants with the essential skills and knowledge needed to lead open source software projects, particularly in research contexts. This comprehensive training program addresses the unique challenges of working with clients, managing a local development teams, fostering inclusive open source communities, and balancing technical excellence with sustainable project governance. Participants learn practical strategies for code review, community building, conflict resolution, and project roadmap development, while gaining hands-on experience with the tools and workflows that successful open source maintainers use daily.
+
+The BOLT workshop is strategically offered every summer and winter immediately before the start of classes, ensuring that new graduate student Tech Leads are fully prepared to guide their teams from day one. This timing allows participants to immediately apply their learning in real project contexts, reinforcing the workshop concepts through practical experience. Each Tech Lead is matched with a project for the coming semester and becomes a core maintainer for the codebase. Participants engage in planning exercises and develop resources to help them navigate everything from establishing contributor guidelines and managing pull requests to facilitating productive teamwork and navigating the interpersonal dynamics that determine project success.
+
+By combining leadership theory with open source best practices, BOLT creates confident, capable project leaders who can effectively bridge technical and human aspects of software development. Graduates of the workshop consistently demonstrate stronger team management skills, more inclusive project cultures, and greater success in building sustainable open source communities around their research software projects.
 
 ---
 
-## Open Source and Community Service
+## Open Source in Service
 
-In 2023 Open Source with SLU piloted a new course called "Open Source and Community Service".
+Our experiential learning program has engaged with service to community in numerous wasy. Two distinct but complementary activities that demonstrate how open source principles can amplify social and community impact include a special topics course and a research innovation challenge . Both activities are grounded in the premise that open source software communities and service organizations can learn from each other—open source projects can adopt proven strategies from the charitable sector while non-profits leverage open source methodologies help community volunteers engage in innovative and effective ways.
+
+## Special Topics Course: Open Source and Community Service
+
+This project-based course bridges technology and social impact by pairing computer science students with local non-profit partners including BWorks, the St. Louis Science Center, and the SLU Transformative Workforce Academy. Students first develop fluency in both domains, learning the operational language and success metrics of non-profit organizations while deepening their understanding of open source development practices. Through conversations with experts like UNESCO's primary open source coordinator, they understand how to articulate technical concepts to social service providers while designing software solutions that address complex community needs sustainably.
+
+Throughout the semester, student teams work directly with non-profit staff to develop meaningful technology solutions for the partner organizations. These partnerships require students to navigate privacy considerations, accessibility requirements, and the particular needs of users with varied technology experience, while following structured engagement processes that ensure mutual benefit and sustainable outcomes.
+
+## Research Innovation Challenge
+
+The Research Innovation Challenge operates as a semester-long competition where students develop open source software solutions for Raspberry Pi platforms that address authentic needs from active research labs on campus. Unlike traditional hackathons, this extended format allows for thorough needs analysis, iterative development, and production-ready solutions that contribute genuine value to ongoing scholarly work, from sensor networks for environmental monitoring to data collection interfaces for psychology experiments.
+
+The challenge is evaluated by guest judges like Jeff Geerling, a renowned YouTuber and Raspberry Pi expert whose platform reaches hundreds of thousands of makers worldwide. His involvement brings community credibility and potential visibility to student work, while his evaluation criteria emphasize practical utility, documentation quality, and potential for broader community adoption. This combination of research relevance, expert evaluation, and extended development time creates conditions for innovative solutions that often evolve into ongoing research tools or foundations for further development beyond the academic context.
+
