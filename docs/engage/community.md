@@ -3,7 +3,7 @@ id: community
 custom_edit_url: null
 ---
 
-# Community Partners
+# Join Our Developer Community
 
 ## Overview
 

@@ -99,6 +99,16 @@ const config = {
                 type: 'doc',
                 docId: 'people/alumni',
               },
+              { 
+                label: 'Affiliations',
+                type: 'doc',
+                docId: 'people/affiliations'
+              },
+              { 
+                label: 'Sponsors',
+                type: 'doc',
+                docId: 'people/sponsors'
+              }
             ]
           },
           {

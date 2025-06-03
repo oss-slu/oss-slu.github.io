@@ -31,6 +31,16 @@ const sidebars = {
           label: 'Alumni',
           type: 'doc',
           id: 'people/alumni',
+        },
+        { 
+          label: 'Affiliations',
+          type: 'doc',
+          id: 'people/affiliations'
+        },
+        { 
+          label: 'Sponsors',
+          type: 'doc',
+          id: 'people/sponsors'
         }
       ],
     },

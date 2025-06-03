@@ -1,24 +1,24 @@
 ---
 id: talent
-Title: Talent Pipeline
+title: Talent Pipeline
 custom_edit_url: null
 ---
 
-# Managed Internships
+## Engage with Our Talent Pipeline
 
-Gain Access to Top Talent & Drive Innovation
+Open Source with SLU offers a talent pipeline of emerging software developers with the ability to drive innovation and enough experience to deliver outcomes.
 
-## Overview
+Project sponsors get direct access to a team delivering results. Students approaching graduation work on software development projects the sponsor values, including R&D or open-source infrastructure. Hiring managers can get insights into the skills and abilities of potential hires without the challenges of managing interns.
 
-Do you have R&D projects or open-source dependencies that need a dedicated team?
+Our managed talent pipeline program offers a unique opportunity to leverage the skills and expertise of highly motivated student teams while advancing your organization's goals. 
+[E-mail us](mailto:oss@slu.edu) to find out more.
 
-Our managed talent pipeline program offers a unique opportunity to leverage the skills and expertise of highly motivated student teams while advancing your goals.
 
 ## Execution + Experience + Engagement
 
 Open Source with SLU has a proven track record in delivering high-quality software solutions.
 
-Faculty mentors with real industry experience provide guidance and oversight.
+Faculty mentors with real industry experience provide project guidance and oversight.
 
 Our flexible engagement models are tailored to meet your needs.
 
@@ -39,8 +39,11 @@ Our flexible engagement models are tailored to meet your needs.
 ## Program Structure
 
 + Sponsor a team of four student developers
-+ At least 22 hours per week for 28 weeks (full academic year)
-+ Projects aligned with your company's interests and objectives
++ Projects are aligned with sponsor interests and objectives
++ The team works at least 22 hours per week for 28 weeks (a full academic year)
++ All work is managed by Open Source with SLU
++ Sponsors can observe and interact with the team at any point
++ Sponsors participate in project initiation, regular check-in, and project launch
 
 ## Software Development Projects
 
@@ -58,7 +61,7 @@ By contributing to open-source initiatives through our program, your company can
 
 ## Engage with OSS
 
-Join our growing network of industry partners and gain a competitive edge through our managed internship program. Contact us today to discuss your project requirements and explore this unique opportunity.
+Join our growing network of industry partners and gain a competitive edge through our talent pipeline program. Contact us today to discuss your project requirements and explore this unique opportunity.
 
 E-mail [oss@slu.edu](mailto:oss@slu.edu)
 
