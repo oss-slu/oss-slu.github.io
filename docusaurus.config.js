@@ -87,79 +87,136 @@ const config = {
           {
             type: 'dropdown',
             position: 'left',
-            label: 'About Us',
+            label: 'People',
             items: [
               {
-                label: 'About',
+                label: 'Current',
                 type: 'doc',
-                docId: 'about/about',
+                docId: 'people/current',
               },
               {
-                label: 'Students',
+                label: 'Alumni',
                 type: 'doc',
-                docId: 'about/students',
+                docId: 'people/alumni',
               },
-              {
-                label: 'Software Requests',
+              { 
+                label: 'Affiliations',
                 type: 'doc',
-                docId: 'about/software',
+                docId: 'people/affiliations'
               },
-              {
-                label: 'Community',
+              { 
+                label: 'Sponsors',
                 type: 'doc',
-                docId: 'about/community',
-              },
-              {
-                label: 'Partners',
-                type: 'doc',
-                docId: 'about/partners',
-              },
-              {
-                label: 'Managed Internships',
-                type: 'doc',
-                docId: 'about/internships',
+                docId: 'people/sponsors'
               }
             ]
-            
           },
           {
             type: 'dropdown',
             position: 'left',
-            label: 'Open',
+            label: 'Programs',
             items: [
               {
-                label: 'About \'Open\'',
+                label: 'Programs & Initiatives',
                 type: 'doc',
-                docId: 'open/open',
+                docId: 'programs/programs',
               },
               {
-                label: 'Open Scholarship',
+                label: 'Experiential Learning',
                 type: 'doc',
-                docId: 'open/open-scholarship',
+                docId: 'programs/experiential_learning',
               },
               {
-                label: 'Open Science',
+                label: 'Consulting',
                 type: 'doc',
-                docId: 'open/open-science',
+                docId: 'programs/consulting',
               },
               {
-                label: 'Open Data',
+                label: 'Advocacy',
                 type: 'doc',
-                docId: 'open/open-data',
-              },
-              {
-                label: 'Open Source Software',
-                type: 'doc',
-                docId: 'open/open-source-software',
-              } 
+                docId: 'programs/advocacy',
+              }
             ]
-            
           },
           {
             type: 'doc',
             docId: 'portfolio',
             position: 'left',
             label: 'Portfolio',
+          },
+          {
+            type: 'dropdown',
+            position: 'left',
+            label: 'Engage',
+            items: [
+              {
+                label: 'Engage with OSS',
+                type: 'doc',
+                docId: 'engage/engage'
+              },
+              {
+                label: 'Consult with OSS',
+                type: 'doc',
+                docId: 'engage/consult'
+              },
+              {
+                label: 'Develop Software with OSS',
+                type: 'doc',
+                docId: 'engage/software',
+              },
+              {
+                label: 'Join Community with OSS',
+                type: 'doc',
+                docId: 'engage/community',
+              },
+              {
+                label: 'Work as a Student with OSS',
+                type: 'doc',
+                docId: 'engage/work'
+              },
+              {
+                label: 'Mentor with OSS',
+                type: 'doc',
+                docId: 'engage/mentor'
+              },
+              {
+                label: 'Discover Talent with OSS',
+                type: 'doc',
+                docId: 'engage/talent'
+              },
+              {
+                label: 'Partner with OSS',
+                type: 'doc',
+                docId: 'engage/partner',
+              },
+              {
+                label: 'Sponsor OSS',
+                type: 'doc',
+                docId: 'engage/sponsor',
+              }
+            ]            
+          },
+          {
+            type: 'dropdown',
+            position: 'left',
+            label: 'Resources',
+            items: [
+              {
+                label: 'All About \'Open\'',
+                type: 'doc',
+                docId: 'resources/open/open',
+              },
+              {
+                label: 'Program Playbooks',
+                type: 'doc',
+                docId: 'resources/playbooks/playbook',
+              },
+              {
+                label: 'Open Source Software',
+                type: 'doc',
+                docId: 'resources/role_guides/role_guides',
+              },
+            ]
           },
           {
             type: 'doc',
@@ -185,24 +242,73 @@ const config = {
         style: 'dark',
         links: [
           {
-            title: 'Information',
+            title: 'Open Source with SLU',
             items: [
               {
-                label: 'About',
-                to: '/docs/about',
+                label: 'People',
+                to: '/people/current',
               },
               {
-                label: 'Make a Gift',
-                to: '/docs/donate',
+                label: 'Programs',
+                to: '/programs/',
+              },
+              {
+                label: 'Portfolio',
+                to: '/portfolio',
+              },
+              {
+                label: 'Resources',
+                to: '/resources/open/open',
+              },
+            ]
+          },
+          {
+            title: 'Get Involved',
+            items: [
+              {
+                label: 'Find out how to get involved',
+                to: '/engage/',
+              },
+              {
+                label: 'Request software development',
+                to: '/engage/software',
+              },
+              {
+                label: 'Join our community of developers',
+                to: '/engage/community',
+              },
+              {
+                label: 'Discover emerging talent',
+                to: '/engage/talent',
+              },
+              {
+                label: 'Partner with OSS',
+                to: '/engage/partners',
+              },
+              {
+                label: 'Sponsor Open Source with SLU',
+                to: '/engage/sponsor',
               },
             ],
           },
           {
-            title: 'Resources',
+            title: 'Saint Louis University',
             items: [
               {
                 label: 'slu.edu',
                 href: 'https://slu.edu',
+              },
+              {
+                label: 'SSE',
+                href: 'https://www.slu.edu/science-and-engineering/index.php'
+              },
+              {
+                label: 'Research',
+                href: 'https://www.slu.edu/research/about-slu-research/index.php'
+              },
+              {
+                label: 'Libraries',
+                href: 'https://www.slu.edu/library/index.php',
               },
               {
                 label: 'Github',
@@ -211,14 +317,17 @@ const config = {
             ],
           },
           {
-            title: 'Stay up to date',
+            title: 'Stay Connected',
             items: [
               {
-                label: 'News',
+                label: 'OSS News',
                 to: '/news',
               },
+              { label: 'OSS on LinkedIn',
+                href: 'https://www.linkedin.com/company/open-source-with-slu/'
+              },
               {
-                label: 'GitHub',
+                label: 'OSS on GitHub',
                 href: 'https://github.com/oss-slu',
               },
             ],
