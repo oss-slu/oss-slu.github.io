@@ -83,11 +83,6 @@ const sidebars = {
           id: 'engage/software',
         },
         {
-          label: 'Join our community of developers',
-          type: 'doc',
-          id: 'engage/community',
-        },
-        {
           label: 'Partner with us',
           type: 'doc',
           id: 'engage/partner',

@@ -155,45 +155,17 @@ const config = {
                 docId: 'engage/engage'
               },
               {
-                label: 'Consult with OSS',
-                type: 'doc',
-                docId: 'engage/consult'
-              },
-              {
-                label: 'Develop Software with OSS',
-                type: 'doc',
-                docId: 'engage/software',
-              },
-              {
-                label: 'Join Community with OSS',
-                type: 'doc',
-                docId: 'engage/community',
-              },
-              {
-                label: 'Work as a Student with OSS',
-                type: 'doc',
-                docId: 'engage/work'
-              },
-              {
-                label: 'Mentor with OSS',
-                type: 'doc',
-                docId: 'engage/mentor'
-              },
-              {
-                label: 'Discover Talent with OSS',
-                type: 'doc',
-                docId: 'engage/talent'
+                label: 'Join with OSS',
+                to: 'docs/engage/index#join',
               },
               {
                 label: 'Partner with OSS',
-                type: 'doc',
-                docId: 'engage/partner',
+                to: 'docs/engage/index#partner',
               },
               {
-                label: 'Sponsor OSS',
-                type: 'doc',
-                docId: 'engage/sponsor',
-              }
+                label: 'Consult with OSS',
+                to: 'docs/engage/index#consult'
+              },
             ]            
           },
           {
@@ -270,24 +242,16 @@ const config = {
                 to: '/engage/',
               },
               {
-                label: 'Request software development',
-                to: '/engage/software',
-              },
-              {
-                label: 'Join our community of developers',
-                to: '/engage/community',
-              },
-              {
-                label: 'Discover emerging talent',
-                to: '/engage/talent',
+                label: 'Join with OSS',
+                to: '/engage/#join',
               },
               {
                 label: 'Partner with OSS',
-                to: '/engage/partners',
+                to: '/engage/#partner',
               },
               {
                 label: 'Sponsor Open Source with SLU',
-                to: '/engage/sponsor',
+                to: '/engage/#consult',
               },
             ],
           },
