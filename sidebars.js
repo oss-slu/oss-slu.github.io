@@ -21,31 +21,6 @@ const sidebars = {
   tutorialSidebar: [
     {
       type: 'category',
-      label: 'People',
-      items: [
-        {
-          type: 'doc',
-          id: 'people/current'
-        },
-        {
-          label: 'Alumni',
-          type: 'doc',
-          id: 'people/alumni',
-        },
-        { 
-          label: 'Affiliations',
-          type: 'doc',
-          id: 'people/affiliations'
-        },
-        { 
-          label: 'Sponsors',
-          type: 'doc',
-          id: 'people/sponsors'
-        }
-      ],
-    },
-    {
-      type: 'category',
       label: 'Programs & Initiatives',
       items: [
         {
@@ -66,36 +41,43 @@ const sidebars = {
         }
       ]
     },
-    'portfolio',
-  
     {
       type: 'category',
-      label: 'Get Involved',
+      label: 'Projects & Products',
       items: [
         {
-          label: 'Find out how to get involved',
           type: 'doc',
-          id: 'engage/engage',
+          id: 'projects/portfolio',
         },
         {
-          label: 'Request software development',
           type: 'doc',
-          id: 'engage/software',
+          id: 'projects/oss-across-slu',
+        },
+      ]
+    },
+    {
+      type: 'category',
+      label: 'Connect with OSS',
+      items: [
+        {
+          label: 'Get involved as an individual',
+          type: 'doc',
+          id: 'connect_with/participants',
         },
         {
-          label: 'Partner with us',
+          label: 'Partner as an organization',
           type: 'doc',
-          id: 'engage/partner',
+          id: 'connect_with/partner',
         },
         {
-          label: 'Discover emerging talent',
+          label: 'Consult with an expert',
           type: 'doc',
-          id: 'engage/talent',
+          id: 'connect_with/consult',
         },
         {
           label: 'Make a gift',
           type: 'doc',
-          id: 'donate',
+          id: 'connect_with/donate',
         },
       ],
     },
@@ -117,8 +99,32 @@ const sidebars = {
         },
       ]
     },
-    'oss-across-slu',
-    'donate',
+    {
+      type: 'category',
+      label: 'People',
+      items: [
+        {
+          label: 'Leadership',
+          type: 'doc',
+          id: 'people/leadership'
+        },
+        {
+          label: 'Staff',
+          type: 'doc',
+          id: 'people/staff',
+        },
+        { 
+          label: 'Contributors',
+          type: 'doc',
+          id: 'people/contributors'
+        },
+        { 
+          label: 'Affiliations',
+          type: 'doc',
+          id: 'people/affiliations'
+        },
+      ],
+    },
   ],
   //  */
 };

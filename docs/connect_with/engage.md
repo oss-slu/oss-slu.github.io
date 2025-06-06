@@ -1,10 +1,8 @@
 ---
-id: partner
-title: Partner with OSS
+id: egage
+title: Engage with OSS
 custom_edit_url: null
 ---
-
-It is said that if you want to go far, go together. Open Source with SLU welcomes opportunities to partner with community outreach programs, trade groups, and companies on new programs and projects that advance our shared commitment to education, innovation, and service to the greater good.
 
 As part of Saint Louis University's mission to foster learning, advance knowledge through research, and serve others, we seek partnerships that create meaningful impact beyond traditional academic boundaries. We're particularly interested in collaborations that foster transformative learning experiences, build shared digital infrastructure that benefits entire communities, and develop workforce capabilities that prepare people for tomorrow's opportunities. Through these partnerships, we aim to shape a better future for all by democratizing access to technology skills and creating pathways for inclusive economic growth.
 

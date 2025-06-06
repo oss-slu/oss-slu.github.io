@@ -4,14 +4,14 @@ description: "Guides to serving in Open Source with SLU named roles"
 custom_edit_url: null
 ---
 
-# Named Role Guides
+# Guides for Participants
 
-## Client
-## Tech Lead
-## Team Member
-## Staff Developer
-## Faculty Advisor
-## Mentor
+## Clients
+## Tech Leads
+## Team Members
+## Staff Developers
+## Faculty Advisors
+## Mentors
 ## Open Source Contributors
 * code Billiken <!--Is using Billiken here cheesy?-->
 * quality Billiken

@@ -7,7 +7,7 @@ const darkCodeTheme = require('prism-react-renderer').themes.dracula;
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'Open Source with SLU',
-  tagline: 'Experience - Education - Research',
+  tagline: 'Opening innovation with tomorrow’s tech leaders',
   url: 'https://oss-slu.github.io/',
   baseUrl: '/',
   favicon: '/img/favicon.ico',
@@ -35,6 +35,7 @@ const config = {
       ({
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
+          routeBasePath: '/',
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
@@ -87,33 +88,6 @@ const config = {
           {
             type: 'dropdown',
             position: 'left',
-            label: 'People',
-            items: [
-              {
-                label: 'Current',
-                type: 'doc',
-                docId: 'people/current',
-              },
-              {
-                label: 'Alumni',
-                type: 'doc',
-                docId: 'people/alumni',
-              },
-              { 
-                label: 'Affiliations',
-                type: 'doc',
-                docId: 'people/affiliations'
-              },
-              { 
-                label: 'Sponsors',
-                type: 'doc',
-                docId: 'people/sponsors'
-              }
-            ]
-          },
-          {
-            type: 'dropdown',
-            position: 'left',
             label: 'Programs',
             items: [
               {
@@ -139,32 +113,41 @@ const config = {
             ]
           },
           {
-            type: 'doc',
-            docId: 'portfolio',
+            type: 'dropdown',
             position: 'left',
-            label: 'Portfolio',
+            label: 'Projects',
+            items: [
+              {
+                label: 'Software Portfolio',
+                type: 'doc',
+                docId: 'projects/portfolio',
+              },
+              {
+                label: 'OSS Across SLU',
+                type: 'doc',
+                docId: 'projects/oss-across-slu',
+              },
+            ]
           },
           {
             type: 'dropdown',
             position: 'left',
-            label: 'Engage',
+            label: 'Connect',
             items: [
               {
-                label: 'Engage with OSS',
+                label: 'Participate (as an individual)',
                 type: 'doc',
-                docId: 'engage/engage'
+                docId: 'connect_with/participants'
               },
               {
-                label: 'Join with OSS',
-                to: 'docs/engage/index#join',
+                label: 'Partner (as an organization)',
+                type: 'doc',
+                docId: 'connect_with/partner'
               },
               {
-                label: 'Partner with OSS',
-                to: 'docs/engage/index#partner',
-              },
-              {
-                label: 'Consult with OSS',
-                to: 'docs/engage/index#consult'
+                label: 'Consult with an expert',
+                type: 'doc',
+                docId: 'connect_with/consult'
               },
             ]            
           },
@@ -184,28 +167,49 @@ const config = {
                 docId: 'resources/playbooks/playbook',
               },
               {
-                label: 'Open Source Software',
+                label: 'Guides for Participants',
                 type: 'doc',
                 docId: 'resources/role_guides/role_guides',
               },
             ]
           },
           {
-            type: 'doc',
-            docId: 'oss-across-slu',
+            type: 'dropdown',
             position: 'left',
-            label: 'OSS Across SLU',
+            label: 'Our Team',
+            items: [
+              {
+                label: 'Leadership',
+                type: 'doc',
+                docId: 'people/leadership',
+              },
+              {
+                label: 'Staff',
+                type: 'doc',
+                docId: 'people/staff',
+              },
+              {
+                label: 'Contributors',
+                type: 'doc',
+                docId: 'people/contributors',
+              },
+              { 
+                label: 'Affiliations',
+                type: 'doc',
+                docId: 'people/affiliations'
+              },
+            ]
           },
           {to: '/news', label: 'News', position: 'left'},
           {
             type: 'doc',
-            docId: 'donate',
+            docId: 'connect_with/donate',
             label: 'Donate',
             position: 'right',
           },
           {
             href: 'https://github.com/oss-slu',
-            label: 'GitHub',
+            label: 'Find us on GitHub',
             position: 'right',
           },
         ],
