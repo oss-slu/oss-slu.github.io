@@ -55,9 +55,13 @@ Contributors can work on open issues across projects spanning web development, m
 
 The success of our projects depends on active involvement. All of our work is tracked in [GitHub Issues](https://docs.github.com/en/issues). Check out the list of existing Issues on one of the project at [https://github.com/oss-slu](https://github.com/oss-slu). Get involved by opening a [Pull Request (PR)](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request-from-a-fork) . The PR will be merged when the Pull Request includes a link to a merged ticket from a project in the [portfolio](/projects/portfolio) that they made contribution to, and the PR has been approved by the current tech lead on that project.
 
+You can get started in a jiffy:
+
 * Join our [Slack workspace](https://join.slack.com/t/oswslu/shared_invite/zt-24f0qhjbo-NkSfQ4LOg5wXxBdxP4vzfA).
 * Identify an [Open Source with SLU project](/projects/portfolio).
+* Find an Issue in the project repo that looks doable
 * Fork the project repository, and make a branch
+* You are on your way, just stay in touch to keep your work moving forward.
 
 #### Tools
 
