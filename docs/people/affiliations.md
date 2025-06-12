@@ -65,7 +65,7 @@ custom_edit_url: null
 
 </div>
 
-WWT Women In Tech
+<li>WWT Women In Tech</li>
 
 ## Memberships
 Open Source with SLU works closely with a variety of academic and industry groups:
