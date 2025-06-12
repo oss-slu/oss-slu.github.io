@@ -10,6 +10,28 @@
   overflow: hidden;
 }
 
+.content-container {
+  max-width: 1200px;
+  margin: 0 auto; /* Centers the container */
+  overflow: hidden; /* Clears the float */
+  padding: 20px;
+}
+
+.float-left-image {
+  float: left;
+  width: 300px;
+  height: auto;
+  margin-right: 20px;
+  margin-bottom: 10px;
+  border-radius: 8px;
+}
+
+.text-content {
+  float: right;
+  text-align: justify;
+  line-height: 1.6;
+}
+
 @media screen and (max-width: 996px) {
   .heroBanner {
     padding: 2rem;
