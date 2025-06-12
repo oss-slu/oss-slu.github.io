@@ -50,7 +50,7 @@
 }
 
 /* Directly style the images */
-.techLead img {
+.techLead .teamLeadImage {
   border-radius: 50%;
   width: 150px; /* Match the container width for a 1:1 aspect ratio */
   height: 150px; /* Explicit height to ensure circular shape */
@@ -152,4 +152,110 @@
     padding: 2px 4px;
     margin-top: -6px;
   }
+}
+/* Abhilash  Changes */
+.lead-container {
+  display: flex;
+  align-items: center;  /* <-- vertical centering */
+  margin-bottom: 2rem;
+  gap: 1.5rem;
+  flex-wrap: wrap;
+}
+
+.lead-image {
+  flex: 0 0 150px;    
+}
+
+.lead-image img {
+  width: 150px;
+  height: 150px;
+  object-fit: cover;
+  border-radius: 50%;
+}
+
+.lead-description {
+  flex: 1;
+  max-width: 800px;
+}
+
+@media (max-width: 768px) {
+  .lead-container {
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+  }
+}
+
+
+.affiliations-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  gap: 1.5rem;
+  margin: 2rem 0;
+}
+
+.affiliation-card {
+  background-color: #fff;
+  border: 1px solid #eee;
+  border-radius: 12px;
+  padding: 1.5rem;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+  text-align: center;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+
+.affiliation-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 4px 10px rgba(0,0,0,0.15);
+}
+
+.affiliation-card img {
+  max-width: 100%;
+  max-height: 100%;
+  object-fit: contain;
+  margin: 0 auto;
+  display: block;
+}
+
+.affiliation-card .logo-container {
+  height: 120px;  /* Fixed consistent height */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 1rem;
+}
+
+.affiliation-card h4 {
+  margin: 0.5rem 0;
+  color: var(--ifm-color-primary);
+  font-size: 1.1rem;
+}
+
+.affiliation-card p {
+  font-size: 0.9rem;
+  color: #333;
+}
+
+
+.badge-container {
+  display: flex;
+  gap: 6px;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.badge img {
+  width: 22px;
+  height: 22px;
+  border-radius: 50%;
+  transition: transform 0.2s;
+  cursor: pointer;
+}
+
+.badge img:hover {
+  transform: scale(1.1);
 }

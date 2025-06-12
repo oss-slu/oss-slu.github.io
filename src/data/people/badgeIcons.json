@@ -1,0 +1,23 @@
+{
+    "developer": {
+      "icon": "/badges/developer.svg",
+      "label": "Developer"
+    },
+    "tester": {
+      "icon": "/badges/tester.svg",
+      "label": "Tester"
+    },
+    "designer": {
+      "icon": "/badges/designer.svg",
+      "label": "Designer"
+    },
+    "ui_expert": {
+      "icon": "/badges/ui_expert.svg",
+      "label": "UI Expert"
+    },
+    "devops": {
+      "icon": "/badges/pipeline.svg",
+      "label": "DevOps"
+    }
+  }
+  
