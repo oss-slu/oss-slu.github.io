@@ -11,13 +11,9 @@
       "icon": "/badges/designer.svg",
       "label": "Designer"
     },
-    "ui expert": {
+    "ui_expert": {
       "icon": "/badges/ui_expert.svg",
       "label": "UI Expert"
-    },
-    "pipeline expert": {
-      "icon": "/badges/pipeline.svg",
-      "label": "Pipeline Expert"
     },
     "devops": {
       "icon": "/badges/pipeline.svg",
