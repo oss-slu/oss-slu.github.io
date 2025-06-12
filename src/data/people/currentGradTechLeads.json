@@ -3,12 +3,13 @@
         "name": "Yenkatarajalaxmi Manohar Meda",
         "image": "/img/manohar_avatar.jpg",
         "profileLink": "https://github.com/yrlmanoharreddy",
-        "bio":"test"
+        "badges":"developer,devops,tester, designer,ui expert"
     },
     {
         "name": "Ajith Akuthota",
         "image": "",
-        "profileLink": "https://github.com/AjithAkuthota23"
+        "profileLink": "https://github.com/AjithAkuthota23",
+        "badges":"developer,devops,developer"
     },
     {
         "name": "Lalith Adithya Reddy Avuthu",
