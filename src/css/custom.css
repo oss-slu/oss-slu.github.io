@@ -156,7 +156,7 @@
 /* Abhilash  Changes */
 .lead-container {
   display: flex;
-  align-items: center;  /* <-- vertical centering */
+  /* align-items: center;  /* <-- vertical centering */
   margin-bottom: 2rem;
   gap: 1.5rem;
   flex-wrap: wrap;
