@@ -25,10 +25,6 @@ const sidebars = {
       items: [
         {
           type: 'doc',
-          id: 'programs/programs',
-        },
-        {
-          type: 'doc',
           id: 'programs/experiential_learning',
         },
         {

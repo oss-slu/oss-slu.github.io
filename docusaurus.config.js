@@ -91,11 +91,6 @@ const config = {
             label: 'Programs',
             items: [
               {
-                label: 'Programs & Initiatives',
-                type: 'doc',
-                docId: 'programs/programs',
-              },
-              {
                 label: 'Experiential Learning',
                 type: 'doc',
                 docId: 'programs/experiential_learning',
@@ -221,20 +216,20 @@ const config = {
             title: 'Open Source with SLU',
             items: [
               {
-                label: 'People',
-                to: '/people/current',
-              },
-              {
                 label: 'Programs',
-                to: '/programs/',
+                to: '/programs/experiential_learning',
               },
               {
-                label: 'Portfolio',
-                to: '/portfolio',
+                label: 'Projects',
+                to: '/projects/portfolio',
               },
               {
                 label: 'Resources',
-                to: '/resources/open/open',
+                to: '/resources/open',
+              },
+              {
+                label: 'People',
+                to: '/people/leadership',
               },
             ]
           },
