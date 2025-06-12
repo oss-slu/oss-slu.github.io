@@ -17,7 +17,7 @@ function Profile({ imgSrc, name, profileLink,bio, description }) {
         <a href={profileLink}>
           <h4>{name}</h4>
         </a>
-        {bio && <p>{bio}</p>}
+        <p>{bio}</p>
       </div>
     </div>
      : 
