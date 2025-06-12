@@ -60,7 +60,7 @@ custom_edit_url: null
         <img src="/img/unity-foundation-logo.svg" alt="Unity Foundation" />
     </div>
     <h4>Unity Foundation</h4>
-    <p>Unity Foundation is committed to doing our part to bring about more open, transparent, safe, secure, scalable, and equitable technology solutions, as well as support the ethical governance of open standards and the educational and societal ecosystems that surround this critical public infrastructure. Unity Foundation partnered with Open Source with SLU on Pi4Micronaut</p>
+    <p>Unity Foundation partnered with Open Source with SLU on Pi4Micronaut</p>
   </div>
 
 </div>
