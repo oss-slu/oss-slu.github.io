@@ -153,3 +153,35 @@
     margin-top: -6px;
   }
 }
+/* Abhilash  Changes */
+.lead-container {
+  display: flex;
+  align-items: center;  /* <-- vertical centering */
+  margin-bottom: 2rem;
+  gap: 1.5rem;
+  flex-wrap: wrap;
+}
+
+.lead-image {
+  flex: 0 0 150px;    
+}
+
+.lead-image img {
+  width: 150px;
+  height: 150px;
+  object-fit: cover;
+  border-radius: 50%;
+}
+
+.lead-description {
+  flex: 1;
+  max-width: 800px;
+}
+
+@media (max-width: 768px) {
+  .lead-container {
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+  }
+}

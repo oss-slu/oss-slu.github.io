@@ -2,11 +2,13 @@
     {
         "name": "Abhilash Kotha",
         "image": "/img/abhilash_avatar.jpg",
-        "profileLink": "https://github.com/AbhilashKotha"
+        "profileLink": "https://github.com/AbhilashKotha",
+        "bio":"Abhilash is a software engineer working on the OSS across SLU project. He also contributes to developing the main OSS website and mentors new tech leads and developers."
     },
     {
         "name": "Yash Kamal Bhatia",
         "image": "/img/yash_avatar1.jpg",
-        "profileLink": "https://yashb196.github.io/yashb196/"
+        "profileLink": "https://yashb196.github.io/yashb196/",
+        "bio":"Yash is a software engineer working .... ."
     }
 ]
