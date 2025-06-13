@@ -137,7 +137,7 @@ const config = {
               {
                 label: 'Partner (as an organization)',
                 type: 'doc',
-                docId: 'connect_with/partner'
+                docId: 'connect_with/partners'
               },
               {
                 label: 'Consult with an expert',
@@ -231,6 +231,10 @@ const config = {
                 label: 'People',
                 to: '/people/leadership',
               },
+              {
+                label: 'News',
+                to: '/news',
+              },
             ]
           },
           {
@@ -238,19 +242,23 @@ const config = {
             items: [
               {
                 label: 'Find out how to get involved',
-                to: '/engage/',
+                to: '/connect_with/oss',
               },
               {
                 label: 'Join with OSS',
-                to: '/engage/#join',
+                to: '/connect_with/participants',
               },
               {
                 label: 'Partner with OSS',
-                to: '/engage/#partner',
+                to: '/connect_with/partners',
+              },
+              {
+                label: 'Consult wiht OSS',
+                to: '/connect_with/consulting',
               },
               {
                 label: 'Sponsor Open Source with SLU',
-                to: '/engage/#consult',
+                to: '/connect_with/donations',
               },
             ],
           },

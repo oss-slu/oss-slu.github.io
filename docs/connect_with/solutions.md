@@ -1,6 +1,6 @@
 ---
-id: software
-title: Develop Software with OSS
+id: solutions
+title: Software Solutions with OSS
 custom_edit_url: null
 ---
 
@@ -38,3 +38,6 @@ These questions will be used to rank submitted project requests.
 1. Are there any students interested in working on this project?
 
 Please note that meeting the minimum requirements does not guarantee project selection. We will evaluate all submissions based on their alignment with our program goals and the potential benefits for our students and the broader community.
+
+---
+*Have a software idea that could transform your research or benefit your community? Whether you need a tool to advance your grant-funded project, want to modernize a legacy system, or have an innovative application that could serve the broader good, our student development teams are ready to bring your vision to life. From initial concept to sustainable open source solution, we're here to turn your ideas into impactful software—submit your project proposal today and let's build something meaningful together.*

@@ -1,5 +1,5 @@
 ---
-id: partner
+id: partners
 title: Partner with OSS
 custom_edit_url: null
 ---

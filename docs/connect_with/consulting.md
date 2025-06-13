@@ -10,16 +10,16 @@ Researchers at Saint Louis University can check with our experts about open sour
 
 ### Research Software Solutions
 
-We can develop and sustain open source software solutions for your lab. [Tell us about your software needs ⇨](./solutions.md)
+We can develop and sustain open source software solutions for your lab. [Tell us about your software needs ⇨](./rse)
 
-### Research Software Engineering Clinics
+### Research Software Engineering Training
 
-Do you need one-on-one help with your research software? We can visit you in your lab, and share strategies and tactics tailored to your needs. <!-- Fill in more details -->
+Do you need one-on-one help with your research software? You can visit us in our weekly clinics or we can visit you in your lab, and share strategies and tactics tailored to your needs. [Find out about clinics and workshops ⇨](./training)
 
 ### Open Data Planning
 
-Research funding increasingly requires a comprehensive plan for data management and sharing. We can help you do that planning. <!-- Fill in more details -->
+Research funding increasingly requires a comprehensive plan for data management and sharing. [We can help you do that planning ⇨](./data)
 
 ### Open Science Expertise
 
-We can answer questions and give guidance about open science. <!--Rewrite -->
+We can answer questions and give guidance about open science. [Get strategic guidance  to unlock the power of open science ⇨](./open_science)

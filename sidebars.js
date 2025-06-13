@@ -56,19 +56,96 @@ const sidebars = {
       label: 'Connect with OSS',
       items: [
         {
+          type: 'category',
           label: 'Get involved as an individual',
-          type: 'doc',
-          id: 'connect_with/participants',
+          items: [
+            {
+              label: 'Participate',
+              type: 'doc',
+              id: 'connect_with/participants',
+            },
+            {
+              label: 'Contribute',
+              type: 'doc',
+              id: 'connect_with/community'
+            },
+            {
+              label: 'Experience',
+              type: 'doc',
+              id: 'connect_with/experience'
+            },
+            {
+              label: 'Lead',
+              type: 'doc',
+              id: 'connect_with/leadership'
+            },
+            {
+              label: 'Mentor',
+              type: 'doc',
+              id: 'connect_with/mentor'
+            },
+          ]
         },
         {
+          type: 'category',
           label: 'Partner as an organization',
-          type: 'doc',
-          id: 'connect_with/partner',
+          items: [
+            {
+              label: 'Partner',
+              type: 'doc',
+              id: 'connect_with/partners',
+            },
+            {
+              label: 'Engage Programs',
+              type: 'doc',
+              id: 'connect_with/engage'
+            },
+            {
+              label: 'Develop Software',
+              type: 'doc',
+              id: 'connect_with/solutions'
+            },
+            {
+              label: 'Discover Talent',
+              type: 'doc',
+              id: 'connect_with/talent'
+            },
+            {
+              label: 'Sponsor',
+              type: 'doc',
+              id: 'connect_with/sponsor'
+            },
+          ]
         },
         {
+          type: 'category',
           label: 'Consult with an expert',
-          type: 'doc',
-          id: 'connect_with/consult',
+          items: [
+          { 
+            type: 'doc',
+            id: 'connect_with/consult',
+          },
+          {
+            label: 'Research Software Consults',
+            type: 'doc',
+            id: 'connect_with/rse'
+          },
+          {
+            label: 'Clinics and Workshops',
+            type: 'doc',
+            id: 'connect_with/training'
+          },
+          {
+            label: 'Open Data Planning',
+            type: 'doc',
+            id: 'connect_with/data'
+          },
+          {
+            label: 'Open Science',
+            type: 'doc',
+            id: 'connect_with/open_science'
+          },
+          ]
         },
         {
           label: 'Make a gift',
