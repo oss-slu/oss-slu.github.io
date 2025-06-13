@@ -2,6 +2,9 @@
 description: OSS Projects
 custom_edit_url: null
 ---
+import ProjectsPage from '../../src/components/projects/ProjectsPage';
+
+<ProjectsPage />
 
 # Portfolio
 
