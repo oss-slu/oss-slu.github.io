@@ -63,25 +63,28 @@ const highlights = [
 export default function ProjectsPage() {
   const sections = [
     { title: "Current Open Source with SLU Products", key: "current" },
-    { title: "External Partnership Projects & Products", key: "external" },
     { title: "Completed & Inactive Projects", key: "completed" }
   ];
 
   return (
     <>
-    {/* <Highlights></Highlights> */}
-    <div className="projects-page">
-      {sections.map(section => (
-        <>
-          <h2>{section.title}</h2>
-          <div className="projects-grid">
-            {projects.filter(p => p.status === section.key).map(project => (
-              <ProjectCard key={project.name} project={project} />
-            ))}
+      {/* <Highlights /> */}
+      <div className="projects-page">
+        {sections.map(section => (
+          <div key={section.key}>
+            <h2>{section.title}</h2>
+            <div className="projects-grid">
+              {projects
+                .filter(p => p.status === section.key)
+                .sort((a, b) => a.name.localeCompare(b.name))
+                .map(project => (
+                  <ProjectCard key={project.name} project={project} />
+                ))}
+            </div>
           </div>
-        </>
-      ))}
-    </div>
+        ))}
+      </div>
     </>
   );
+  
 }

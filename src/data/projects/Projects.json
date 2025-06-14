@@ -108,42 +108,42 @@
       "name": "Inner Peace Time",
       "url": "/projects/innerpeacetime/about",
       "description": "Inner peace time is a guided meditation app developed to help children and families breathe for calm and find their safe place for LOVE and HEALING.",
-      "status": "external",
+      "status": "current",
       "image": "/img/projects/innerpeacetime.png"
     },
     {
       "name": "Material Donor Mutual Assist",
       "url": "/projects/MDMA/about",
       "description": "The Material Donor Mutual Assist project by BWorks simplifies donation management by allowing donors to track their contributions from donation to use, fostering trust and encouraging ongoing support.",
-      "status": "external",
+      "status": "current",
       "image": "/img/projects/MDMA.png"
     },
     {
       "name": "Open Energy Dashboard",
       "url": "/projects/open_energy_dashboard/about",
       "description": "Open Energy Dashboard is a user-friendly way to display energy information from smart energy meters or uploaded via CSV files.",
-      "status": "external",
+      "status": "current",
       "image": "/img/projects/open_energy_dashboard.png"
     },
     {
       "name": "Pi4Micronaut",
       "url": "/projects/pi4micronaut/about",
       "description": "Pi4Micronaut is a Java library crafted for developers who aim to build IoT applications leveraging the Raspberry Pi platform.",
-      "status": "external",
+      "status": "current",
       "image": "/img/projects/pi4micronaut.png"
     },
     {
       "name": "Shelter Volunteers",
       "url": "/projects/shelter_volunteers/about",
       "description": "Simplify the process of scheduling work shifts for volunteers, and to give homeless shelters visibility into their upcoming staffing.",
-      "status": "external",
+      "status": "current",
       "image": "/img/projects/shelter_volunteers.png"
     },
     {
       "name": "TPEN Interfaces",
       "url": "/projects/tpeninterfaces/about",
       "description": "The TPEN Interfaces project provides a set of customizable web interfaces that leverage the TPEN Services API.",
-      "status": "external",
+      "status": "current",
       "image": "/img/projects/tpeninterfaces.png"
     },
     {
