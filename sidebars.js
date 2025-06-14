@@ -200,6 +200,199 @@ const sidebars = {
     },
   ],
   //  */
+  portfolioSidebar: [
+    {
+      type: 'ref',
+      label: 'Programs & Initiatives',
+      id: 'programs/experiential_learning',
+    },
+    {
+      type: 'category',
+      label: 'Projects & Products',
+      items: [
+        {
+          type: 'category',
+          label: 'Portfolio',
+          items: [
+            {
+              type: 'category',
+              label: 'Active Products & Projects',
+              items: [
+                {
+                  type: 'doc',
+                  id: 'projects/dads/about',
+                },
+                {
+                  type: 'doc',
+                  id: 'projects/digital_bone_box/about',
+                },
+                {
+                  type: 'doc',
+                  id: 'projects/droneworld/about',
+                },
+                {
+                  type: 'doc',
+                  id: 'projects/esp/about',
+                },
+                {
+                  type: 'doc',
+                  id: 'projects/enhancing_bioinformatics_research_through_LLM/about',
+                },
+                {
+                  type: 'doc',
+                  id: 'projects/innerpeacetime/about',
+                },
+                {
+                  type: 'doc',
+                  id: 'projects/iris/about',
+                },
+                {
+                  type: 'doc',
+                  id: 'projects/MDMA/about',
+                },
+                {
+                  type: 'doc',
+                  id: 'projects/meltshiny/about',
+                },
+                {
+                  type: 'doc',
+                  id: 'projects/mouser/about',
+                },
+                {
+                  type: 'doc',
+                  id: 'projects/open_energy_dashboard/about',
+                },
+                {
+                  type: 'doc',
+                  id: 'projects/open_project/about',
+                },
+                {
+                  type: 'doc',
+                  id: 'projects/pi4micronaut/about',
+                },
+                {
+                  type: 'doc',
+                  id: 'projects/pilot_data_synchronization/about',
+                },
+                {
+                  type: 'link',
+                  label: 'TBE support Liraries',
+                  href: 'https://github.com/oss-slu/tbe',
+                },
+                {
+                  type: 'doc',
+                  id: 'projects/saltify/about',
+                },
+                {
+                  type: 'doc',
+                  id: 'projects/shelter_volunteers/about',
+                },
+                {
+                  type: 'doc',
+                  id: 'projects/step_time_biofeedback/about',
+                },
+                {
+                  type: 'doc',
+                  id: 'projects/tpeninterfaces/about',
+                },
+                {
+                  type: 'doc',
+                  id: 'projects/wheres_religion_desktop/about',
+                },
+                {
+                  type: 'doc',
+                  id: 'projects/wheres_religion_mobile/about',
+                },
+                {
+                  type: 'doc',
+                  id: 'projects/wheres_religion_mobile/about',
+                }
+              ]
+            },
+            {
+              type: 'category',
+              label: 'Inactive Projects',
+              items: [
+                {
+                  type: 'doc',
+                  id: 'projects/bubblescan/about',
+                },
+                {
+                  type: 'link',
+                  label: 'Congestion Control Emulator',
+                  href: 'https://github.com/oss-slu/Congestion-control-emulator',
+                },
+                {
+                  type: 'doc',
+                  id: 'projects/deer/about-deer',
+                },
+                {
+                  type: 'link',
+                  label: 'Drone Swarm',
+                  href: 'https://www.aircraft-lab.org/',
+                },
+                {
+                  type: 'doc',
+                  id: 'projects/gallery_of_glosses/about',
+                },
+                {
+                  type: 'doc',
+                  id: 'projects/ispraak/about',
+                },
+                {
+                  type: 'link',
+                  label: 'ML Code Generator',
+                  href: 'https://github.com/oss-slu/ml_code_generator',
+                },
+                {
+                  type: 'doc',
+                  id: 'projects/rerum_geolocator/about',
+                },
+                {
+                  type: 'doc',
+                  id: 'projects/rerum_playground/about',
+                },
+                {
+                  type: 'link',
+                  label: 'Santiago',
+                  href: 'https://github.com/oss-slu/Santiago',
+                },
+                {
+                  type: 'doc',
+                  id: 'projects/sib/about',
+                },
+              ]
+            },
+          ]
+        },
+        {
+          type: 'ref',
+          label: 'OSS across SLU',
+          id: 'projects/oss-across-slu'
+        },
+        // {
+        //   type: 'ref',
+        //   label: 'Whitepapers',
+        //   id: 'projects/oss-across-slu'
+        // },
+      ],
+    },
+    {
+      type: 'ref',
+      label: 'Connect with OSS',
+      id: 'connect_with/oss',
+    },
+    {
+      type: 'ref',
+      label: 'Open Resources',
+      id: 'resources/open/open',
+    },
+    {
+      type: 'ref',
+      label: 'People',
+      id: 'people/leadership',
+    },
+  ],
 };
 
 module.exports = sidebars;

@@ -21,14 +21,30 @@ function HomepageHeader() {
           style={{ width: "300px" }}
         />
         <p className="hero__subtitle">{siteConfig.tagline}</p>
+        {/* <div className={styles.buttons}>
+          <Link
+            className="button button--secondary button--lg"
+            to="/connect_with/community"
+          >
+            Join our community
+          </Link>
+        </div> */}
         <div className={styles.buttons}>
           <Link
             className="button button--secondary button--lg"
-            to="/docs/portfolio"
+            to="/connect_with/solutions"
           >
             Check out our projects
           </Link>
         </div>
+        {/* <div className={styles.buttons}>
+          <Link
+            className="button button--secondary button--lg"
+            to="/connect_with/donate"
+          >
+            Consult with OSS
+          </Link>
+        </div> */}
       </div>
     </header>
   );

@@ -9,7 +9,7 @@ Open Source with SLU makes open source software that supports research.
 
 ## New Projects, Partnerships, & Products
 
-We are open to new project requests. Learn more on our [software request page](about/software).
+We are open to new project requests. Learn more on our [software request page](/connect_with/solutions).
 We are especially interested in projects supporting researchers, focused on research outcomes, meeting unmet needs.
 
 ## Current Open Source with SLU Products
