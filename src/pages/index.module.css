@@ -2,6 +2,26 @@
  * CSS files with the .module.css suffix will be treated as CSS modules
  * and scoped locally.
  */
+ .heroLogo {
+  max-width: 18rem; /* ~288px base size */
+  width: 100%;
+  height: auto;
+  margin-bottom: 1rem;
+}
+
+/* Scale down logo on smaller screens */
+@media (max-width: 768px) {
+  .heroLogo {
+    max-width: 12rem; /* ~192px */
+  }
+}
+
+@media (max-width: 480px) {
+  .heroLogo {
+    max-width: 9rem; /* ~144px */
+  }
+}
+
 
 .heroBanner {
   padding: 4rem 0;
@@ -52,7 +72,8 @@
 .homeSectionContainer {
   display: flex;
   flex-direction: row;
-  align-items: center;
+  flex-wrap: wrap; /* Enable wrapping under pressure */
+  align-items: flex-start;
   justify-content: space-between;
   gap: 2rem;
   padding: 2rem;
@@ -61,30 +82,45 @@
 }
 
 .homeSectionText {
-  flex: 1;
+  flex: 1 1 300px;
   font-size: 1.1rem;
   line-height: 1.6;
   color: #333;
+  min-width: 260px;
 }
 
 .homeSectionCarousel {
-  flex: 1;
-  max-width: 500px;
+  flex: 1 1 300px;
+  max-width: 100%;
   min-width: 260px;
 }
 
 .homeSectionCarousel img {
   border-radius: 12px;
   box-shadow: 0 4px 10px rgba(0, 0, 0, 0.15);
+  width: 100%;
+  height: auto;
 }
 
-/* Responsive behavior */
+
 @media (max-width: 768px) {
   .homeSectionContainer {
     flex-direction: column;
+    padding: 1.5rem;
   }
 
+  .homeSectionText,
   .homeSectionCarousel {
     width: 100%;
+  }
+}
+
+@media (max-width: 480px) {
+  .homeSectionText p {
+    font-size: 0.95rem;
+  }
+
+  .homeSectionText h2 {
+    font-size: 1.25rem;
   }
 }
