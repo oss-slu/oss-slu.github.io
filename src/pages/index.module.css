@@ -11,6 +11,11 @@
 }
 
 .content-container {
+  display:flex;
+  flex-direction:row;
+  flex-wrap:wrap;
+  align-items:flex-start;
+  justify-content: space-between;
   max-width: 1200px;
   margin: 0 auto; /* Centers the container */
   overflow: hidden; /* Clears the float */
@@ -65,6 +70,7 @@
 .homeSectionCarousel {
   flex: 1;
   max-width: 500px;
+  min-width: 260px;
 }
 
 .homeSectionCarousel img {
