@@ -7,7 +7,7 @@ const darkCodeTheme = require('prism-react-renderer').themes.dracula;
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'Open Source with SLU',
-  tagline: 'Opening innovation with tomorrow’s tech leaders',
+  tagline: 'Opening innovation with future leaders',
   url: 'https://oss-slu.github.io/',
   baseUrl: '/',
   favicon: '/img/favicon.ico',
@@ -190,6 +190,7 @@ const config = {
             docId: 'connect_with/donate',
             label: 'Donate',
             position: 'right',
+            className: 'button button--secondary button--lg',
           },
           {
             href: 'https://github.com/oss-slu',

@@ -16,7 +16,7 @@ SLU CS students turn their required capstone into career-launching experience by
 
 ## Become a Tech Lead
 
-SLU graduate students with the a proven track record of success lead our capstone software development teams, coordinate with the client, and serve as a maintainer for an open source product. [Become a leader ⇨](./work.md)
+SLU graduate students with the a proven track record of success lead our capstone software development teams, coordinate with the client, and serve as a maintainer for an open source product. [Become a leader ⇨](./leadership.md)
 
 
 ## Mentor the Next Generation
