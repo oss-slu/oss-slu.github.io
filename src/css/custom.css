@@ -144,9 +144,10 @@
   background: #fff;
   padding: 0.625rem;
   margin-top: -1.25rem;
-  margin-left: 1rem;
+  margin-left: auto;
+  margin-right:auto;
   box-shadow: 0 1px 2px rgba(0, 0, 0, 0.08);
-  transition: all 0.3s ease;
+  display:block;
 }
 
 /* Tablet */
@@ -172,10 +173,15 @@
 /* Very small phones or zoomed-in browser (e.g. 320px–375px) */
 @media (max-width: 375px) {
   .oss-navbar-logo {
-    max-width: 6.5rem;
-    max-height: 2.5rem;
-    padding: 0.3rem;
-    margin-top: -0.5rem;
+    max-width: 8rem;
+    margin-left: auto;
+    margin-right: auto;
+  }
+}
+
+@media (min-width: 1024px) {
+  .navbar__brand img {
+    margin-right: 6rem; /* Pushes logo away from dropdown area */
   }
 }
 
