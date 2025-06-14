@@ -2,12 +2,14 @@
  * CSS files with the .module.css suffix will be treated as CSS modules
  * and scoped locally.
  */
- .heroLogo {
-  max-width: 18rem; /* ~288px base size */
+.heroLogo {
+  max-width: 18rem;
   width: 100%;
   height: auto;
-  margin-bottom: 1rem;
+  margin-bottom: 1.5rem;
+  margin-top: 1rem; /* Optional: add top margin if it hugs top edge */
 }
+
 
 /* Scale down logo on smaller screens */
 @media (max-width: 768px) {
@@ -24,11 +26,18 @@
 
 
 .heroBanner {
-  padding: 4rem 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 2rem 1rem;
   text-align: center;
-  position: relative;
-  overflow: hidden;
+  min-height: 70vh; /* Makes room for centering on short viewports */
+  background-color: var(--ifm-color-primary);
+  color: #fff;
 }
+
+
 
 .content-container {
   display:flex;
