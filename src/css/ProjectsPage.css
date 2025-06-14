@@ -14,7 +14,7 @@
     border-radius: 15px;
     box-shadow: 0 3px 10px rgba(0,0,0,0.1);
     padding: 1rem;
-    text-align: center;
+    text-align: left;
     transition: transform 0.2s;
   }
   

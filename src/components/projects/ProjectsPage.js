@@ -69,7 +69,7 @@ export default function ProjectsPage() {
 
   return (
     <>
-    <Highlights></Highlights>
+    {/* <Highlights></Highlights> */}
     <div className="projects-page">
       {sections.map(section => (
         <>
