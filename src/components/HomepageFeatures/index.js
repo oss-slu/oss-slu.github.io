@@ -24,7 +24,7 @@ const FeatureList = [
         <p>We build tools that support research.</p> 
         <p>We have built desktop, web, and mobile apps, IoT libraries, 
         web services, networking tools, AI/ML tools, and other utilities. 
-        Check out the {" "}<Link to="/projects/portfolio]">portfolio of projects </Link> 
+        Check out the {" "}<Link to="/projects/portfolio">portfolio of projects </Link> 
         that we have developed and maintained, and continue to sustain.</p>
       </>
     ),
