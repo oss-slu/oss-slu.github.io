@@ -2,17 +2,56 @@
  * CSS files with the .module.css suffix will be treated as CSS modules
  * and scoped locally.
  */
+.heroLogo {
+  max-width: 19rem;
+  width: 100%;
+  height: auto;
+}
 
 .heroBanner {
-  padding: 4rem 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 3rem 1rem;
+  padding-top: 0px;
+  margin-top: 0px;
   text-align: center;
-  position: relative;
-  overflow: hidden;
+  background-color: var(--ifm-color-primary);
+  color: #fff;
+}
+
+.content-container {
+  display:flex;
+  flex-direction:row;
+  flex-wrap:wrap;
+  align-items:flex-start;
+  justify-content: space-between;
+  max-width: 1200px;
+  margin: 0 auto; /* Centers the container */
+  overflow: hidden; /* Clears the float */
+  padding: 20px;
+}
+
+.float-left-image {
+  float: left;
+  width: 300px;
+  height: auto;
+  margin-right: 20px;
+  margin-bottom: 10px;
+  border-radius: 8px;
+}
+
+.text-content {
+  float: right;
+  text-align: justify;
+  line-height: 1.6;
 }
 
 @media screen and (max-width: 996px) {
   .heroBanner {
     padding: 2rem;
+    padding-top: 0rem;
   }
 }
 
@@ -20,4 +59,94 @@
   display: flex;
   align-items: center;
   justify-content: center;
+}
+
+.homeSectionContainer {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap; /* Enable wrapping under pressure */
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: 2rem;
+  padding: 2rem;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.homeSectionText {
+  flex: 1 1 300px;
+  font-size: 1.1rem;
+  line-height: 1.6;
+  color: #333;
+  min-width: 260px;
+}
+
+.homeSectionCarousel {
+  flex: 1 1 400px;
+  max-width: 100%;
+  min-width: 260px;
+}
+
+.homeSectionCarousel img {
+  border-radius: 12px;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.15);
+  width: 100%;
+  height: auto;
+}
+
+
+@media (max-width: 1000px) {   
+  .homeSectionCarousel {
+    position: relative;
+    -webkit-animation: slide-down-3 0.25s ease-in 0s 1;
+    animation: slide-down-3 0.25s ease-in 0s 1;
+    animation-fill-mode: forwards;
+  }
+}
+
+@keyframes slide-down-3 {
+  100% {margin-top: 3rem;}
+}
+
+@media (max-width: 900px) {   
+  .homeSectionCarousel {
+    position: relative;
+    -webkit-animation: slide-down-5 0.25s ease-in 0s 1;
+    animation: slide-down-5 0.25s ease-in 0s 1;
+    animation-fill-mode: forwards;
+  }
+  
+  @keyframes slide-down-5 {
+    100% {margin-top: 5rem;}
+  }
+}
+
+@media (max-width: 810px) {   
+  .homeSectionCarousel {
+    margin: 0rem;
+    animation:none;
+  }
+}
+
+@media (max-width: 768px) {
+  .homeSectionContainer {
+    flex-direction: column;
+    
+  }
+  
+  .homeSectionText,
+  .homeSectionCarousel {
+    flex: unset;
+    width: 100%;
+  }
+}
+
+@media (max-width: 480px) {
+  .homeSectionText p {
+    font-size: 0.95rem;
+  }
+
+  .homeSectionText h2 {
+    font-size: 1.25rem;
+  }
 }

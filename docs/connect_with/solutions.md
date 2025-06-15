@@ -1,12 +1,12 @@
 ---
-id: software
-title: Software Requests
+id: solutions
+title: Software Solutions with OSS
 custom_edit_url: null
 ---
 
 ![Here to Help](/img/here_to_help.png)
 
-The Open Source with SLU program invites researchers and members of the wider community to submit proposals for open source software projects to be developed by teams of students. Teams work over two semesters, and work with project sustainability in mind so projects can be picked up by successive teams. Work can involve improving and sustaining existing software, or it can be a completely new tool. Check out our [portfolio of work](/docs/portfolio) for examples of the kinds of things we've done already. Our Whether you require software to support a research initiative or have an idea for an application that could benefit the broader community, we welcome your project proposals. To submit a project proposal, please complete **[this form](https://forms.gle/HiDUCSLPwM9EJxzX7).**
+The Open Source with SLU program invites researchers and members of the wider community to submit proposals for open source software projects to be developed by teams of students. Teams work over two semesters, and work with project sustainability in mind so projects can be picked up by successive teams. Work can involve improving and sustaining existing software, or it can be a completely new tool. Check out our [portfolio of work](/projects/portfolio) for examples of the kinds of things we've done already. Our Whether you require software to support a research initiative or have an idea for an application that could benefit the broader community, we welcome your project proposals. To submit a project proposal, please complete **[this form](https://forms.gle/HiDUCSLPwM9EJxzX7).**
 
 Submitted proposals will be evaluated based on the minimum requirements and additional factors outlined below to determine their suitability for selection by the program.
 
@@ -38,3 +38,6 @@ These questions will be used to rank submitted project requests.
 1. Are there any students interested in working on this project?
 
 Please note that meeting the minimum requirements does not guarantee project selection. We will evaluate all submissions based on their alignment with our program goals and the potential benefits for our students and the broader community.
+
+---
+*Have a software idea that could transform your research or benefit your community? Whether you need a tool to advance your grant-funded project, want to modernize a legacy system, or have an innovative application that could serve the broader good, our student development teams are ready to bring your vision to life. From initial concept to sustainable open source solution, we're here to turn your ideas into impactful software—submit your project proposal today and let's build something meaningful together.*

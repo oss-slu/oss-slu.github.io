@@ -1,0 +1,73 @@
+{
+    "sponsorships": [
+      {
+        "name": "Alfred P. Sloan Foundation",
+        "image": "/img/Sloan_Logo-1B-SMALL-Gold-Blue.png",
+        "url": "https://sloan.org/"
+      },
+      {
+        "name": "Saint Louis University",
+        "image": "/img/slu-primary-blue-rgb.png",
+        "url": "https://www.slu.edu/"
+      }
+    ],
+    "partnerships": [
+      {
+        "name": "BWorks",
+        "image": "/img/logo-bworks.png",
+        "url": "https://www.bworks.org/",
+        "description": "BWorks partnered with Open Source with SLU on Material Donations Mutual Assist."
+      },
+      {
+        "name": "Get Help",
+        "image": "/img/GET-HELP-Brandmark-Gold.png",
+        "url": "https://gethelp.com/",
+        "description": "Get Help partnered with Open Source with SLU on Shelter Volunteer"
+      },
+      {
+        "name": "House Everyone STL",
+        "image": "/img/HESTL_Logo_Horizontal-removebg-preview.png",
+        "url": "https://houseeveryonestl.org/",
+        "description": "House Everyone StL partnered with Open Source with SLU on Shelter Volunteer"
+      },
+      {
+        "name": "Open Energy Dashboard",
+        "image": "/img/OEDUprightClear.png",
+        "url": "https://openenergydashboard.org/",
+        "description": "Open Energy Dashboard partnered with Open Source with SLU on Open Energy Dashboard"
+      },
+      {
+        "name": "Unity Foundation",
+        "image": "/img/unity-foundation-logo.svg",
+        "url": "https://unityfoundation.io/",
+        "description": "Unity Foundation partnered with Open Source with SLU on Pi4Micronaut"
+      }
+    ],
+    "memberships": [
+      {
+        "name": "CURIOSS",
+        "image": "/img/curioss.svg",
+        "url": "https://curioss.org/",
+        "description": "Community for University and Research Institution OSPOs."
+      },
+      {
+        "name": "HELIOS Open",
+        "image": "/img/helios_open.png",
+        "url": "https://www.heliosopen.org/",
+        "description": "The Higher Education Leadership Initiative for Open Scholarship (HELIOS Open) is a cohort of colleges and universities committed to collective action to advance open scholarship within and across their campuses."
+      },
+      {
+        "name": "Linux Foundation",
+        "image": "/img/lf-stacked-color.png",
+        "url": "https://www.linuxfoundation.org/",
+        "description": "The Linux Foundation is a neutral, trusted hub for developers and organizations to code, manage, and scale open technology projects and ecosystems."
+      },
+      {
+        "name": "US-RSE",
+        "image": "/img/us-rse_logo_transparent.png",
+        "url": "https://us-rse.org/",
+        "description": "US-RSE is The United States Research Software Engineer Association, a community of people who make research software happen."
+      }
+    ]
+  }
+  

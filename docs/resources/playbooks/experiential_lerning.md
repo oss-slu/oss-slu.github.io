@@ -1,5 +1,5 @@
 ---
-id: playbook
+id: playbook_experiential_learning
 description: "Playbook: Operating an Open Source Program Office (OSPO) at a University"
 custom_edit_url: null
 ---
@@ -42,7 +42,7 @@ The primary goals of the OSPO are:
 
 #### Project Selection Rubric
 
-We have developed a [rubric](https://oss-slu.github.io/docs/about/software) for project selection. Since the majority of developers on the selected projects come from computer science project courses, the rubric evaluates projects based on their value to students, value to the research community, and value to promoting Open Source at the university. The rubric is applied to all submitted projects, and the number of 'yes' responses counts as the project score. Projects with higher scores are offered to students, who submit their rank-ordered lists of interest.
+We have developed a [rubric](/connect_with/solutions) for project selection. Since the majority of developers on the selected projects come from computer science project courses, the rubric evaluates projects based on their value to students, value to the research community, and value to promoting Open Source at the university. The rubric is applied to all submitted projects, and the number of 'yes' responses counts as the project score. Projects with higher scores are offered to students, who submit their rank-ordered lists of interest.
 
 #### Statement of Work
 

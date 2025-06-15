@@ -14,6 +14,7 @@ function CurrentStaff() {
               imgSrc={staff.image}
               name={staff.name}
               profileLink={staff.profileLink}
+              bio={staff.bio}
             />
           ))}
     </div>

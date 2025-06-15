@@ -50,7 +50,7 @@
 }
 
 /* Directly style the images */
-.techLead img {
+.techLead .teamLeadImage {
   border-radius: 50%;
   width: 150px; /* Match the container width for a 1:1 aspect ratio */
   height: 150px; /* Explicit height to ensure circular shape */
@@ -122,4 +122,193 @@
     font-size: 0.8rem; /* Smaller font size */
     margin-top: 0.5rem; /* Adjusted spacing */
   }
+}
+
+/* Base logo styling */
+.navbar__brand img {
+  max-width: 200px;
+  height: auto;
+  border-radius: 0 0 20px 20px;
+  background: #fff;
+  padding: 6px 8px;
+  margin-top: -12px;
+  margin-left: 12px;
+  box-shadow: 0px 1px 2px rgba(0, 0, 0, 0.08);
+}
+
+.oss-navbar-logo {
+  height: auto;
+  max-height: 5rem;
+  max-width: 14rem;
+  border-radius: 0 0 1.875rem 1.875rem;
+  background: #fff;
+  padding: 0.625rem;
+  margin-top: -1.25rem;
+  margin-left: 1rem;
+  box-shadow: 0 1px 2px rgba(0, 0, 0, 0.08);
+  transition: all 0.3s ease;
+}
+
+/* Tablet */
+@media (max-width: 768px) {
+  .oss-navbar-logo {
+    max-width: 10rem;
+    max-height: 3.75rem;
+    padding: 0.5rem;
+    margin-top: -1rem;
+  }
+}
+
+/* Phone */
+@media (max-width: 480px) {
+  .oss-navbar-logo {
+    max-width: 8rem;
+    max-height: 3rem;
+    padding: 0.4rem;
+    margin-top: -0.75rem;
+  }
+}
+
+/* Very small phones or zoomed-in browser (e.g. 320px–375px) */
+@media (max-width: 375px) {
+  .oss-navbar-logo {
+    max-width: 6.5rem;
+    max-height: 2.5rem;
+    padding: 0.3rem;
+    margin-top: -0.5rem;
+  }
+}
+
+
+
+/* Tablet (≤768px) */
+@media (max-width: 768px) {
+  .navbar__brand img {
+    max-width: 150px;
+    padding: 4px 6px;
+    margin-top: -8px;
+  }
+}
+
+/* Phone (≤480px) */
+@media (max-width: 480px) {
+  .navbar__brand img {
+    padding: 2px 4px;
+    margin-top: -6px;
+  }
+}
+.navbar {
+  height: min-content;
+  transition: height 0.5s ease;
+}
+
+.theme-doc-sidebar-menu {
+  margin-top: 1rem;
+}
+
+/* Abhilash  Changes */
+.lead-container {
+  display: flex;
+  /* align-items: center;  /* <-- vertical centering */
+  margin-bottom: 2rem;
+  gap: 1.5rem;
+  flex-wrap: wrap;
+}
+
+.lead-image {
+  flex: 0 0 150px;    
+}
+
+.lead-image img {
+  width: 150px;
+  height: 150px;
+  object-fit: cover;
+  border-radius: 50%;
+}
+
+.lead-description {
+  flex: 1;
+  max-width: 800px;
+}
+
+@media (max-width: 768px) {
+  .lead-container {
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+  }
+}
+
+
+.affiliations-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  gap: 1.5rem;
+  margin: 2rem 0;
+}
+
+.affiliation-card {
+  background-color: #fff;
+  border: 1px solid #eee;
+  border-radius: 12px;
+  padding: 1.5rem;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+  text-align: center;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+
+.affiliation-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 4px 10px rgba(0,0,0,0.15);
+}
+
+.affiliation-card img {
+  max-width: 100%;
+  max-height: 100%;
+  object-fit: contain;
+  margin: 0 auto;
+  display: block;
+}
+
+.affiliation-card .logo-container {
+  height: 120px;  /* Fixed consistent height */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 1rem;
+}
+
+.affiliation-card h4 {
+  margin: 0.5rem 0;
+  color: var(--ifm-color-primary);
+  font-size: 1.1rem;
+}
+
+.affiliation-card p {
+  font-size: 0.9rem;
+  color: #333;
+}
+
+
+.badge-container {
+  display: flex;
+  gap: 6px;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.badge img {
+  width: 22px;
+  height: 22px;
+  border-radius: 50%;
+  transition: transform 0.2s;
+  cursor: pointer;
+}
+
+.badge img:hover {
+  transform: scale(1.1);
 }

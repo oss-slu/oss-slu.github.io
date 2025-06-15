@@ -5,7 +5,7 @@ import Profile from '../Profile';
 function PrevStaff() {
   
   return (
-      <div className="staffGrid">
+      <div className="techLeadsGrid">
           {prevStaff.slice()
             .sort((a, b) => (a.name > b.name) ? 1 : (b.name > a.name) ? -1 : 0)
             .map((staff, index) => (

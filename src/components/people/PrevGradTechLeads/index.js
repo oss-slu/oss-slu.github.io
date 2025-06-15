@@ -14,6 +14,7 @@ function PrevGradTechLeads() {
                 imgSrc={techLead.image}
                 name={techLead.name}
                 profileLink={techLead.profileLink}
+                badges={techLead.badges}
             />
           ))}
     </div>
