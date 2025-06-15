@@ -3,26 +3,28 @@
  * and scoped locally.
  */
 .heroLogo {
-  max-width: 18rem;
+  max-width: 19rem;
   width: 100%;
   height: auto;
-  margin-bottom: 1.5rem;
-  margin-top: 1rem; /* Optional: add top margin if it hugs top edge */
+  /* margin-bottom: 1.5rem; */
+  /* margin-top: 1rem; Optional: add top margin if it hugs top edge */
 }
 
 
 /* Scale down logo on smaller screens */
-@media (max-width: 768px) {
+/* ~192px */
+/* @media (max-width: 768px) {
   .heroLogo {
-    max-width: 12rem; /* ~192px */
+    max-width: 12rem; 
   }
-}
+} */
 
-@media (max-width: 480px) {
+/* ~144px */
+/* @media (max-width: 480px) {
   .heroLogo {
-    max-width: 9rem; /* ~144px */
+    max-width: 9rem; 
   }
-}
+} */
 
 
 .heroBanner {
@@ -30,9 +32,11 @@
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  padding: 2rem 1rem;
+  padding: 3rem 1rem;
+  padding-top: 0px;
+  margin-top: 0px;
   text-align: center;
-  min-height: 70vh; /* Makes room for centering on short viewports */
+  /* min-height: 70vh; Makes room for centering on short viewports */
   background-color: var(--ifm-color-primary);
   color: #fff;
 }
@@ -69,6 +73,7 @@
 @media screen and (max-width: 996px) {
   .heroBanner {
     padding: 2rem;
+    padding-top: 0rem;
   }
 }
 
@@ -95,11 +100,11 @@
   font-size: 1.1rem;
   line-height: 1.6;
   color: #333;
-  min-width: 260px;
+  min-width: 340px;
 }
 
 .homeSectionCarousel {
-  flex: 1 1 300px;
+  flex: 1 1 400px;
   max-width: 100%;
   min-width: 260px;
 }
@@ -111,6 +116,32 @@
   height: auto;
 }
 
+
+@media (max-width: 1000px) {   
+  .homeSectionCarousel {
+    position: relative;
+    -webkit-animation: slide-down-3 0.25s ease-in 0s 1;
+    animation: slide-down-3 0.25s ease-in 0s 1;
+    animation-fill-mode: forwards;
+  }
+}
+
+@keyframes slide-down-3 {
+  100% {margin-top: 3rem;}
+}
+
+@media (max-width: 900px) {   
+  .homeSectionCarousel {
+    position: relative;
+    -webkit-animation: slide-down-5 0.25s ease-in 0s 1;
+    animation: slide-down-5 0.25s ease-in 0s 1;
+    animation-fill-mode: forwards;
+  }
+  
+  @keyframes slide-down-5 {
+    100% {margin-top: 5rem;}
+  }
+}
 
 @media (max-width: 768px) {
   .homeSectionContainer {

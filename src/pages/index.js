@@ -61,7 +61,7 @@ export default function Home() {
           <div className={styles.homeSectionText}>
             <h2>What is Open Source with SLU?</h2>
             <p>
-              Open Source with SLU is Saint Louis University's open source program office, initially funded by the Alfred P. Sloan Foundation, that provides students with practical software development experience on real-world projects, delivers workforce-ready graduates with industry-standard skills, and advances open science by helping researchers navigate open source software practices to secure funding and increase research impact. Through experiential learning programs, free consulting services, and advocacy initiatives, we connect student developers with faculty and external clients to build custom software solutions while championing open source practices across the university and broader community.
+            Open Source with SLU is the open source program office of Saint Louis University, funded by the Alfred P. Sloan Foundation. We connect students with real-world software development projects while preparing workforce-ready graduates. Our work advances open science and helps researchers increase impact. New software engineers develop solutions for clients. Through service, mentoring, and consulting we are opening innovation with future leaders.
             </p>
           </div>
           <div className={styles.homeSectionCarousel}>

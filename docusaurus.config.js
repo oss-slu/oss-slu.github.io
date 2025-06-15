@@ -77,7 +77,7 @@ const config = {
           {
             type: 'dropdown',
             position: 'left',
-            label: 'Programs',
+            label: 'Program',
             items: [
               {
                 label: 'Experiential Learning',
@@ -138,7 +138,7 @@ const config = {
           {
             type: 'dropdown',
             position: 'left',
-            label: 'Resources',
+            label: 'Docs',
             items: [
               {
                 label: 'All About \'Open\'',
@@ -160,7 +160,7 @@ const config = {
           {
             type: 'dropdown',
             position: 'left',
-            label: 'Our Team',
+            label: 'Team',
             items: [
               {
                 label: 'Leadership',
