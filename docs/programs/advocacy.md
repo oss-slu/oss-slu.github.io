@@ -6,6 +6,14 @@ custom_edit_url: null
 
 Open science and open source software represent more than just technical practices—they embody a philosophy of knowledge sharing, collaborative innovation, and equitable access that aligns deeply with Jesuit educational values. These principles drive breakthrough discoveries, amplify research impact across disciplines, and create pathways for meaningful participation in the global research enterprise. Our advocacy work champions these transformative approaches both within Saint Louis University and across the broader academic community.
 
+<div class="affiliation-card">
+    <div class="logo-container">
+        **“Our modern society—everything from hospitals to stock markets to newspapers to social media—runs on software. <br/>But take a closer look, and you’ll find that the tools we use to build software are buckling under demand.”** <br/>
+                — [Nadia Eghbal. “Roads and Bridges: The Unseen Labor Behind Our Digital Infrastructure”. 2016.](https://www.fordfoundation.org/work/learning/research-reports/roads-and-bridges-the-unseen-labor-behind-our-digital-infrastructure/)
+    </div>
+</div>
+<br/>
+
 At its core, open science democratizes knowledge creation and dissemination. When researchers share their data, code, and methodologies openly, they accelerate the pace of discovery while enabling others to build upon their work in ways never before possible. This collaborative approach not only strengthens individual research projects but also addresses complex global challenges that require coordinated efforts across institutions, disciplines, and borders. Our advocacy emphasizes how open practices create more robust, reproducible, and impactful scholarship.
 
 ## Internal Advocacy

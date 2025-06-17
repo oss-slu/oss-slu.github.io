@@ -22,10 +22,33 @@ const sidebars = {
     {
       type: 'category',
       label: 'Programs & Initiatives',
+      link: {type: 'doc', id: 'programs/programs'},
       items: [
         {
-          type: 'doc',
-          id: 'programs/experiential_learning',
+          type: 'category',
+          label: 'Experiential Learning',
+          link: {type: 'doc', id: 'programs/experiential_learning'},
+          items: [
+            {
+              type: 'category',
+              label: 'Opening Skills & Solutions',
+              link: { type: 'doc', id: 'programs/oss/skills_solutions'},
+              items: [
+                { type: 'doc', id: 'programs/oss/how_it_works' },
+                { type: 'doc', id: 'programs/oss/student_experience' },
+                { type: 'doc', id: 'programs/oss/team_structure' },
+                { type: 'doc', id: 'programs/oss/get_involved' },
+              ]
+            },
+            {
+              type: 'doc',
+              id: 'programs/bolt'
+            },
+            {
+              type: 'doc',
+              id: 'programs/open_source_in_service'
+            }
+          ]
         },
         {
           type: 'doc',
@@ -204,7 +227,7 @@ const sidebars = {
     {
       type: 'ref',
       label: 'Programs & Initiatives',
-      id: 'programs/experiential_learning',
+      id: 'programs/programs',
     },
     {
       type: 'category',

@@ -207,7 +207,7 @@ const config = {
             items: [
               {
                 label: 'Programs',
-                to: '/programs/experiential_learning',
+                to: '/programs/',
               },
               {
                 label: 'Projects',

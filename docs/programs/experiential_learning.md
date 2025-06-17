@@ -6,13 +6,20 @@ custom_edit_url: null
 
 Think about riding a bike—you can read about balance, memorize gear ratios, and study physics, but until you get on and pedal, you're not really learning to ride. The same principle applies when preparing for professional software development careers. Experiential learning bridges classroom theory with real-world practice by engaging students in authentic projects that mirror professional environments. Our three programs create different pathways for students to gain hands-on experience while contributing meaningful value to research, community, and industry partners.
 
+<div class="affiliation-card">
+    <div class="logo-container">
+    **“Programming is learned by writing programs.”**<br/> 
+    — [Brian Kernighan , Programmer, C & Unix pioneer](https://en.wikipedia.org/wiki/Brian_Kernighan)
+    </div>
+</div>
+
 ## Programs
 
 ### Opening Skills and Solutions (OSS Program)
 
 Our flagship program connects students as developers with real-world software development projects while preparing workforce-ready graduates. Product teams follow rigorous open source software engineering disciplines through capstone teams, near-peer leadership, sponsored developers, and faculty support, creating lasting impact for clients and the broader research community.
 
-[Learn more about the OSS Program →](./skills_solutions.md)
+[Learn more about the OSS Program →](./oss/)
 
 ### Building Open Leadership Toolsets (BOLT)
 
