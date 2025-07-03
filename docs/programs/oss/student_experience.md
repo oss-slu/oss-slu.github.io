@@ -63,49 +63,26 @@ Working with clients develops crucial professional communication abilities:
 
 ## Confidence Through Experience
 
-### Authentic Responsibility
-
-Students work as professional developers with real accountability to clients, teammates, and product quality. This authentic responsibility builds confidence that can't be replicated in classroom simulations.
-
-### Iterative Learning
-
-Semester-long engagements allow students to see the full development lifecycle while building deep expertise in specific products and technologies.
-
-### Mistake Recovery
-
-The supportive environment of faculty oversight and near-peer mentorship allows students to learn from real mistakes without career-ending consequences.
+- **Authentic Responsibility** Students work as professional developers with real accountability to clients, teammates, and product quality. This authentic responsibility builds confidence that can't be replicated in classroom simulations.
+- **Iterative Learning** Semester-long engagements allow students to see the full development lifecycle while building deep expertise in specific products and technologies.
+- **Mistake Recovery** The supportive environment of faculty oversight and near-peer mentorship allows students to learn from real mistakes without career-ending consequences.
 
 <!-- ![Team celebration]() -->
 
 ## Career Preparation
 
-### Immediate Impact
-
-Graduates enter the workforce with proven experience rather than theoretical knowledge. They start careers as experienced developers, not entry-level programmers learning professional practices for the first time.
-
-### Industry Recognition
-
-Employers value candidates who understand collaborative development, client communication, and open source contribution. Our graduates stand out in competitive job markets.
-
-### Continued Growth
-
-The foundation built through Opening Skills and Solutions supports continued learning and advancement throughout professional careers.
+- **Immediate Impact** Graduates enter the workforce with proven experience rather than theoretical knowledge. They start careers as experienced developers, not entry-level programmers learning professional practices for the first time.
+- **Industry Recognition** Employers value candidates who understand collaborative development, client communication, and open source contribution. Our graduates stand out in competitive job markets.
+- **Continued Growth** The foundation built through Opening Skills and Solutions supports continued learning and advancement throughout professional careers.
 
 <!-- ![Alumni in professional roles]() -->
 
+<!-- collecting real, not imagined, stories
 ## Student Success Stories
 
-### Technical Achievement
-
-*"Working on the data analysis platform taught me more about scalable architecture in one semester than I learned in all my other courses combined. When I started my job, I was already familiar with the deployment tools and database optimization techniques my team was using."*
-
-### Professional Development
-
-*"Learning to communicate with our client about technical trade-offs prepared me for stakeholder meetings in my current role. I'm comfortable explaining complex technical decisions to non-technical managers."*
-
-### Confidence Building
-
-*"By the end of the program, I wasn't afraid of large codebases anymore. I knew how to dive in, understand existing systems, and make meaningful contributions without breaking things."*
+- **Technical Achievement** *"Working on the data analysis platform taught me more about scalable architecture in one semester than I learned in all my other courses combined. When I started my job, I was already familiar with the deployment tools and database optimization techniques my team was using."*
+- **Professional Development** *"Learning to communicate with our client about technical trade-offs prepared me for stakeholder meetings in my current role. I'm comfortable explaining complex technical decisions to non-technical managers."*
+- **Confidence Building** *"By the end of the program, I wasn't afraid of large codebases anymore. I knew how to dive in, understand existing systems, and make meaningful contributions without breaking things."* -->
 
 <!-- ![Student testimonial photos]() -->
 
