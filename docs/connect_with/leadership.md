@@ -70,7 +70,7 @@ The course provides flexible credit options:
 
 ## Application Process & Timeline
 
-**Apply Now**: Complete the application form at https://forms.gle/vZuevsy25VGkBEJbA
+**Apply Now**: Complete the [application form](https://forms.gle/vZuevsy25VGkBEJbA)
 
 **Selection Timeline**: All decisions for Fall 2025 will be made by **August 4th**
 
