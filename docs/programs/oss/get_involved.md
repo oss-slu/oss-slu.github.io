@@ -17,15 +17,15 @@ Join a capstone team and work as a software engineer on real client projects whi
 
 Lead product teams as a Tech Lead, developing both technical and leadership skills while guiding undergraduate developers and coordinating with clients.
 
-**[Apply for Tech Lead Roles →](link-to-graduate-application)**
+**[Apply for Tech Lead Roles →](/connect_with/leadership)**
 
-<!-- ![undergraduate developers and graduate student leaders collaborating]() -->
+![undergraduate developers and graduate student leaders collaborating](/img/grad_and_undergrads_collab.jpg)
 
 ## For Organizations
 
 Partner with us to get custom software solutions while providing invaluable learning opportunities for emerging developers.
 
-**[Become a Client →](link-to-client-information)**
+**[Become a Client →](/connect_with/solutions)**
 
 <!-- ![delivered software in use]() -->
 
@@ -33,12 +33,12 @@ Partner with us to get custom software solutions while providing invaluable lear
 
 Help us expand access to experiential learning through sponsorship, mentorship, or other forms of program support.
 
-**[Support the Program →](link-to-sponsorship-information)**
+**[Support the Program →](/connect_with/sponsorship/)**
 
-**[IMAGE SUGGESTION: Community or networking event showing program supporters]**
+![Community event with program supporters](/img/community_supporters.jpg)
 
 ---
 
-**Questions?** Contact us at [contact-info] to learn more about any of these opportunities.
+**Questions?** Contact us at [oss@slu.edu](mailto:oss@slu.edu) to learn more about any of these opportunities.
 
-**Stay connected** with program updates and student showcase events through our [newsletter/social links].
+<!-- **Stay connected** with program updates and student showcase events through our [newsletter/social links]. -->

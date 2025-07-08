@@ -8,7 +8,7 @@ Open science and open source software represent more than just technical practic
 
 <div class="affiliation-card">
     <div class="logo-container">
-        **“Our modern society—everything from hospitals to stock markets to newspapers to social media—runs on software. <br/>But take a closer look, and you’ll find that the tools we use to build software are buckling under demand.”** <br/>
+        **“Our modern society—everything from hospitals to stock markets to newspapers to social media—runs on software. But take a closer look, and you’ll find that the tools we use to build software are buckling under demand.”** <br/>
                 — [Nadia Eghbal. “Roads and Bridges: The Unseen Labor Behind Our Digital Infrastructure”. 2016.](https://www.fordfoundation.org/work/learning/research-reports/roads-and-bridges-the-unseen-labor-behind-our-digital-infrastructure/)
     </div>
 </div>
