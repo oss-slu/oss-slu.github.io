@@ -27,6 +27,12 @@ BOLT is an intensive workshop designed to equip participants with essential skil
 
 [Discover BOLT Workshop details →](./bolt.md)
 
+### Industry Fellows
+
+The Industry Fellows Program creates meaningful partnerships between experienced software development professionals and the next generation of technologists through our Open Source with SLU experiential learning program. This structured mentorship initiative goes beyond traditional industry partnerships by providing Fellows with official university affiliations and specialized training, while creating sustained, impactful relationships that benefit both mentors and students.
+
+[Connect industry experience with student innovation →](./fellows/)
+
 ### Open Source in Service
 
 Our commitment to community engagement demonstrates how open source principles can amplify social and community impact through experiential learning programs that bridge technology and social impact, pairing computer science students working as developers with local non-profit partners and research labs.

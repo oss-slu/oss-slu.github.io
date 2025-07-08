@@ -45,6 +45,16 @@ const sidebars = {
               id: 'programs/bolt'
             },
             {
+              type: 'category',
+              label: 'Industry Fellows',
+              link: { type: 'doc', id: 'programs/fellows/overview'},
+              items: [
+                { type: 'doc', id: 'programs/fellows/process_dates' },
+                { type: 'doc', id: 'programs/fellows/faq' },
+                { type: 'doc', id: 'programs/fellows/apply' },
+              ]
+            },
+            {
               type: 'doc',
               id: 'programs/open_source_in_service'
             }
