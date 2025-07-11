@@ -1,5 +1,6 @@
 ---
 id: mentor
+slug: mentoring
 title: Mentor with OSS
 custom_edit_url: null
 ---

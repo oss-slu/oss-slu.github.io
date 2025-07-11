@@ -41,6 +41,12 @@
         "image": "/img/unity-foundation-logo.svg",
         "url": "https://unityfoundation.io/",
         "description": "Unity Foundation partnered with Open Source with SLU on Pi4Micronaut"
+      },
+      {
+        "name": "World Wide Technology",
+        "image": "/img/WWT_Logo_RGB_Color.svg",
+        "url": "https://wwt.com/",
+        "description": "WWT's Women in Tech group partnered with Open Source with SLU to provide mentoring on Shelter Volunteer"
       }
     ],
     "memberships": [

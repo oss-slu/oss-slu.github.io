@@ -4,6 +4,8 @@ title: Consulting Programs
 custom_edit_url: null
 ---
 
+Translation, navigation, stewardship
+
 Open Source with SLU serves as a strategic advisor to researchers at Saint Louis University. We help navigate the intricate details of Open Science, including open scholarship, open data, open educational resources, and especially open source software. We are experts in open source software, and can provide guidance on licenses, community building, technology transfer, and a myriad of amount of minutiae. We can help you maximize your research by strategically engaging with the evolving landscape of Open Science.
 
 Our consulting approach recognizes that each research project has unique needs, constraints, and goals. Whether you're launching your first open source project, seeking to expand an existing community, or navigating complex intellectual property questions, we provide tailored guidance that aligns with your research objectives and institutional requirements. We help translate abstract open science principles into concrete, actionable strategies that advance your work while contributing to the broader research ecosystem.
@@ -30,8 +32,10 @@ We offer structured learning opportunities throughout the academic year to build
 
 ## Individual Consulting
 
-For personalized guidance tailored to your specific research context, reach out to us directly at <!-- Insert obfuscated e-mail link to shared account -->. We respond to all inquiries promptly and can often provide immediate guidance via email for straightforward questions.
+For personalized guidance tailored to your specific research context, reach out to us directly at [oss@slu.edu](mailto:oss@slu.edu). We respond to all inquiries promptly and can often provide immediate guidance via email for straightforward questions. Please note that consulting services are only available to Saint Louis University researchers with valid slu.edu email accounts.
 
-For more complex consulting needs, complete our [consulting request form](<!--link to a new MS Form-->) to help us understand your project scope, timeline, and specific challenges. This allows us to match you with the most relevant expertise and schedule focused consulting sessions that maximize value for your research objectives.
+![Tech Lead Harshitha Thota collaborates with Dr. Gajapriya Tamilselvan in the flight simulation lab, demonstrating our hands-on approach to complex research challenges.](/img/tamilselvan_thota.jpg)
 
-You can also join our active Slack community to connect with our network of open science practitioners, including faculty, graduate students, and industry professionals. This community provides ongoing support, rapid feedback on ideas, and opportunities to collaborate with others facing similar challenges. Many researchers find that the collective wisdom of our community, combined with our structured consulting services, provides the comprehensive support needed to successfully implement open science practices.
+For more complex consulting needs, complete our [consulting request form](https://forms.cloud.microsoft/r/u2NUCkWyAs) to help us understand your project scope, timeline, and specific challenges. This allows us to match you with the most relevant expertise and schedule focused consulting sessions that maximize value for your research objectives.
+
+You can also [join our active Slack community](https://join.slack.com/t/oswslu/shared_invite/zt-24f0qhjbo-NkSfQ4LOg5wXxBdxP4vzfA) to connect with our network of open science practitioners, including faculty, graduate students, and industry professionals. This community provides ongoing support, rapid feedback on ideas, and opportunities to collaborate with others facing similar challenges. Many researchers find that the collective wisdom of our community, combined with our structured consulting services, provides the comprehensive support needed to successfully implement open science practices.
