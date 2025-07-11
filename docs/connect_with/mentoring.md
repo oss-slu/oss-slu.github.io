@@ -1,6 +1,8 @@
 ---
 id: mentor
-slug: mentoring
+# slug: mentoring # This breaks existing well publicized links. 
+# Disabling the slug until the redirects plugin is installed 
+# https://docusaurus.io/docs/api/plugins/@docusaurus/plugin-client-redirects 
 title: Mentor with OSS
 custom_edit_url: null
 ---
