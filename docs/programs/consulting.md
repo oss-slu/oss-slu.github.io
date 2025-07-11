@@ -4,8 +4,6 @@ title: Consulting Programs
 custom_edit_url: null
 ---
 
-Translation, navigation, stewardship
-
 Open Source with SLU serves as a strategic advisor to researchers at Saint Louis University. We help navigate the intricate details of Open Science, including open scholarship, open data, open educational resources, and especially open source software. We are experts in open source software, and can provide guidance on licenses, community building, technology transfer, and a myriad of amount of minutiae. We can help you maximize your research by strategically engaging with the evolving landscape of Open Science.
 
 Our consulting approach recognizes that each research project has unique needs, constraints, and goals. Whether you're launching your first open source project, seeking to expand an existing community, or navigating complex intellectual property questions, we provide tailored guidance that aligns with your research objectives and institutional requirements. We help translate abstract open science principles into concrete, actionable strategies that advance your work while contributing to the broader research ecosystem.
