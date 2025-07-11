@@ -30,8 +30,10 @@ We offer structured learning opportunities throughout the academic year to build
 
 ## Individual Consulting
 
-For personalized guidance tailored to your specific research context, reach out to us directly at <!-- Insert obfuscated e-mail link to shared account -->. We respond to all inquiries promptly and can often provide immediate guidance via email for straightforward questions.
+For personalized guidance tailored to your specific research context, reach out to us directly at [oss@slu.edu](mailto:oss@slu.edu). We respond to all inquiries promptly and can often provide immediate guidance via email for straightforward questions. Please note that consulting services are only available to Saint Louis University researchers with valid slu.edu email accounts.
 
-For more complex consulting needs, complete our [consulting request form](<!--link to a new MS Form-->) to help us understand your project scope, timeline, and specific challenges. This allows us to match you with the most relevant expertise and schedule focused consulting sessions that maximize value for your research objectives.
+![Tech Lead Harshitha Thota collaborates with Dr. Gajapriya Tamilselvan in the flight simulation lab, demonstrating our hands-on approach to complex research challenges.](/img/tamilselvan_thota.jpg)
 
-You can also join our active Slack community to connect with our network of open science practitioners, including faculty, graduate students, and industry professionals. This community provides ongoing support, rapid feedback on ideas, and opportunities to collaborate with others facing similar challenges. Many researchers find that the collective wisdom of our community, combined with our structured consulting services, provides the comprehensive support needed to successfully implement open science practices.
+For more complex consulting needs, complete our [consulting request form](https://forms.cloud.microsoft/r/u2NUCkWyAs) to help us understand your project scope, timeline, and specific challenges. This allows us to match you with the most relevant expertise and schedule focused consulting sessions that maximize value for your research objectives.
+
+You can also [join our active Slack community](https://join.slack.com/t/oswslu/shared_invite/zt-24f0qhjbo-NkSfQ4LOg5wXxBdxP4vzfA) to connect with our network of open science practitioners, including faculty, graduate students, and industry professionals. This community provides ongoing support, rapid feedback on ideas, and opportunities to collaborate with others facing similar challenges. Many researchers find that the collective wisdom of our community, combined with our structured consulting services, provides the comprehensive support needed to successfully implement open science practices.

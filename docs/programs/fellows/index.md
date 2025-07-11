@@ -20,6 +20,8 @@ The Industry Fellows Program operates on a structured academic calendar designed
 
 Graduate students serving as Tech Leads receive focused mentorship in developing their leadership capabilities, technical decision-making skills, and professional communication as they guide their undergraduate team members. Undergraduate capstone students gain industry exposure, real-world perspectives on software development practices, career development guidance, and networking connections that support their transition from academic learning to professional practice.
 
+![Industry Fellows provide hands-on mentorship to graduate Tech Leads, developing the next generation of technical leaders through collaborative problem-solving and professional guidance. Here, noted speaker, author, and developer relations expert Jessica Kerr reviews code with graduate student Siri Chandana Garimella, a Tech Lead for Open Source with SLU.](/img/siri-jessitron.jpg)
+
 ## An Industry Fellow Profile
 
 ### Technical Expertise
