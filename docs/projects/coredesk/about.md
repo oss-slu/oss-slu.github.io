@@ -1,12 +1,12 @@
 ---
 id: about
-title: SLU Open Project
+title: CoreDesk
 custom_edit_url: null
 ---
 
 ## Overview
 
-SLU Open Project is a web-based work management tool that enables shared service providers in universities and similar contexts. It was originally built to support the SLU Center for Additive Manufacturing (SLU-CAM), and is expanding to support a variety of use cases.
+CoreDesk is a web-based work management tool that enables shared service providers in universities and similar contexts. It was originally built to support the SLU Center for Additive Manufacturing (SLU-CAM), and is expanding to support a variety of use cases.
 
 ## Information
 

@@ -1,6 +1,6 @@
 ---
 id: about
-title: Enhancing Bioinformatics Research through LLM
+title: "BAIO: Baio (바이오) AI Output"
 custom_edit_url: null
 ---
 

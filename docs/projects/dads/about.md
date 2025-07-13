@@ -1,6 +1,6 @@
 ---
 id: about
-title: DADS
+title: "DADS: A Database of Arithmetical Dynamic Systems"
 custom_edit_url: null
 ---
 

@@ -1,6 +1,6 @@
 ---
 id: about-deer
-title: Data Entry & Exhibition for Rerum
+title: "DEER: Data Entry & Exhibition for Rerum"
 custom_edit_url: null
 ---
 <!-- A header image is optional; if used should be no greater than 200x600 -->

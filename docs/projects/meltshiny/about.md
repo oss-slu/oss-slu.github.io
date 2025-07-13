@@ -14,7 +14,7 @@ MeltShiny is a software application that automates the analysis and visualizatio
 - **Clients:**
   - [Dr. Brent Znosko](https://www.slu.edu/science-and-engineering/academics/chemistry/faculty/brent-znosko.php)
   - Sebastian Arteaga (Assistant)
-- **Current Tech Lead:** Abhilash Kurapati [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/akurapati1)
+- **Current Tech Lead:** Abhilash Kurapati [GitHub <img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/akurapati1)
 - **Developers:**
   - Andrew Vazzano (capstone) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/avazzano7)
   - Samuel Mercier (capstone) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/Canada101)

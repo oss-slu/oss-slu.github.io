@@ -1,12 +1,12 @@
 ---
 id: about
-title: Speech Transcription (Saltify)
+title: Saltify Speech Transcription
 custom_edit_url: null
 ---
 
 ## Overview
 
-![Alt](100x100.png) Children naturally produce speech sound errors, language errors, and language features, such as disfluencies. Language errors and features are diagnostically meaningful to speech-language pathologists (SLPs) and need to be maintained in the transcription. The primary purpose of the application is to transcribe an audio sample into a written format that is accepted by SALT software. SALT software is commercially-licensed software that analyzes the speech of children and scores it according to their metrics. Our application can currently transcribe audio samples of a conversation between a child and an adult into text. It also allows users to add grammar checking to the transcription, which looks for possible errors in grammar within the text.
+![Alt](100x100.png) Saltify transcribes and annotates interviews into formats useful for speech language pathologists. Children naturally produce speech sound errors, language errors, and language features, such as disfluencies. Language errors and features are diagnostically meaningful to speech-language pathologists (SLPs) and need to be maintained in the transcription. The first target format was for SALT software. SALT software is commercially-licensed software that analyzes the speech of children and scores it according to their metrics. Our application can currently transcribe audio samples of a conversation between a child and an adult into text. It also allows users to add grammar checking to the transcription, which looks for possible errors in grammar within the text.
 
 _Note: careful review by a knowledgeable speech-language pathologist is required for an accurate final product._
 
