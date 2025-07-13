@@ -1,6 +1,6 @@
 [
     {
-      "name": "DADS (Database of Arithmetic Dynamical Systems)",
+      "name": "DADS: Database of Arithmetic Dynamical Systems",
       "url": "/projects/dads/about",
       "description": "DADS is a flexible, web-based, search-driven user interface for a database of information about a class of mathematical functions known as arithmetic dynamical systems.",
       "status": "current",
@@ -28,14 +28,14 @@
       "image": "/img/projects/esp.png"
     },
     {
-      "name": "Enhancing Bioinformatics Research through LLM",
-      "url": "/projects/enhancing_bioinformatics_research_through_LLM/about",
+      "name": "BAIO: Baio (바이오) AI Output",
+      "url": "/projects/baio/about",
       "description": "This project is focused on developing an AI-driven tool that supports bioinformatics research by providing intelligent API recommendations, detecting errors, and offering real-time corrections. The tool leverages large language models trained on bioinformatics codebases to ensure reliable data retrieval and analysis, ultimately improving research accuracy and efficiency.",
       "status": "current",
-      "image": "/img/projects/enhancing_bioinformatics_research_through_LLM.png"
+      "image": "/img/projects/baio.png"
     },
     {
-      "name": "Image Recognition Integration System",
+      "name": "IRIS: Image Recognition Integration System",
       "url": "/projects/iris/about",
       "description": "IRIS is a framework for creating custom mobile applications that can handle specialized image search problems. The framework was developed to create an application that uses a custom AI model to identify details about orthopedic screws from x-ray images of a patient.",
       "status": "current",
@@ -56,9 +56,9 @@
       "image": "/img/projects/mouser.png"
     },
     {
-      "name": "Open Project",
-      "url": "/projects/open_project/about",
-      "description": "SLU Open Project is a web-based work management tool that enables shared service providers in universities and similar contexts. It was originally built to support the SLU Center for Additive Manufacturing (SLU-CAM), and is expanding to support a variety of use cases.",
+      "name": "CoreDesk",
+      "url": "/projects/coredesk/about",
+      "description": "CoreDesk is a web-based work management tool that enables shared service providers in universities and similar contexts. It was originally built to support the SLU Center for Additive Manufacturing (SLU-CAM), and is expanding to support a variety of use cases.",
       "status": "current",
       "image": "/img/projects/open_project.png"
     },
@@ -77,7 +77,7 @@
       "image": "/img/projects/python_tbe.png"
     },
     {
-      "name": "Speech Tagging",
+      "name": "Saltify Speech Transcription",
       "url": "/projects/saltify/about",
       "description": "Saltify Speech Tagging software transcribes an audio sample into a written format that is accepted by SALT software.",
       "status": "current",
@@ -112,11 +112,11 @@
       "image": "/img/projects/innerpeacetime.png"
     },
     {
-      "name": "Material Donor Mutual Assist",
-      "url": "/projects/MDMA/about",
-      "description": "The Material Donor Mutual Assist project by BWorks simplifies donation management by allowing donors to track their contributions from donation to use, fostering trust and encouraging ongoing support.",
+      "name": "MaterialDerailleur",
+      "url": "/projects/md/about",
+      "description": "MaterialDerailleur shifts donations into drive for BWorks. It streamlines the process of managing material donations, providing a transparent view into the journey of each donated item.",
       "status": "current",
-      "image": "/img/projects/MDMA.png"
+      "image": "/img/projects/md.png"
     },
     {
       "name": "Open Energy Dashboard",
@@ -133,15 +133,15 @@
       "image": "/img/projects/pi4micronaut.png"
     },
     {
-      "name": "Shelter Volunteers",
+      "name": "Shelter Volunteers Rapid Response",
       "url": "/projects/shelter_volunteers/about",
-      "description": "Simplify the process of scheduling work shifts for volunteers, and to give homeless shelters visibility into their upcoming staffing.",
+      "description": "Simplify the process of scheduling work shifts for volunteers at temporary shelters, and to give homeless shelters visibility into their upcoming staffing.",
       "status": "current",
       "image": "/img/projects/shelter_volunteers.png"
     },
     {
       "name": "TPEN Interfaces",
-      "url": "/projects/tpeninterfaces/about",
+      "url": "/projects/tpen_interfaces/about",
       "description": "The TPEN Interfaces project provides a set of customizable web interfaces that leverage the TPEN Services API.",
       "status": "current",
       "image": "/img/projects/tpeninterfaces.png"
