@@ -1,6 +1,6 @@
 ---
 id: about
-title: Image Recognition Integration System (IRIS)
+title: "IRIS: Image Recognition Integration System"
 custom_edit_url: null
 ---
 
