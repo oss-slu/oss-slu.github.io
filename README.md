@@ -23,3 +23,10 @@ Follow [this tutorial](https://docs.github.com/en/pull-requests/collaborating-wi
 ## Deployment
 
 This project deploys using GitHub actions. The .github/workflows folder contains .yml files that will build and deploy the changes when a pull request is approved and merged with the main branch.
+
+## The community behind this repository
+
+Join the Open Source with SLU Slack Workspace to get involved in the community that is associated with this organization and this website:
+
+[Join Slack Now](https://join.slack.com/t/oswslu/shared_invite/zt-24f0qhjbo-NkSfQ4LOg5wXxBdxP4vzfA)
+
