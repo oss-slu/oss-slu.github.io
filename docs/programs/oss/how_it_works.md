@@ -114,6 +114,6 @@ We measure success through multiple lenses:
 
 ---
 
-**Next:** Learn about our [Team Structure →](team-structure.md) and how different roles work together to ensure project success.
+**Next:** Learn about our [Team Structure →](team_structure.md) and how different roles work together to ensure project success.
 
-**Related:** Explore the [Student Experience →](student-experience.md) to understand how developers grow through this process.
+**Related:** Explore the [Student Experience →](student_experience.md) to understand how developers grow through this process.

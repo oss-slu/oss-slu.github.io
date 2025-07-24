@@ -90,6 +90,6 @@ Faculty oversight and near-peer mentorship provide safety nets that allow studen
 
 ---
 
-**Next:** Discover the [Student Experience →](student-experience.md) and how developers grow through this comprehensive program.
+**Next:** Discover the [Student Experience →](student_experience.md) and how developers grow through this comprehensive program.
 
-**Related:** Learn about [How It Works →](how-it-works.md) to understand our development process.
+**Related:** Learn about [How It Works →](how_it_works.md) to understand our development process.
