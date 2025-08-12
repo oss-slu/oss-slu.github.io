@@ -12,8 +12,9 @@ The Material Donor Mutual Assist project by BWorks is designed to streamline the
 
 - **Source Code:** [https://github.com/oss-slu/material-donor-mutual-assist](https://github.com/oss-slu/material-donor-mutual-assist) [<img src="/img/git-alt.svg" alt="git" width="25" height="25" />](https://github.com/oss-slu/material-donor-mutual-assist)
 - **Client:** BWorks Organization
-- **Current Tech Lead:**   - Lalith Adithya Reddy Avuthu [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/alar12)
+- **Current Tech Lead:** - Vinay Billa [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/vinay-billa-slu) [<img src="/img/linkedin.svg" alt="linkedin" width="25" height="25" />](https://www.linkedin.com/in/vinay-billa-612757170/) [<img src="/img/portfolio.svg" alt="portfolio" width="25" height="25" />](https://billavinay.netlify.app/)
 - **Developers:**
+  - Lalith Adithya Reddy Avuthu (Previous tech lead) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/alar12)
   - Sam Kann (capstone)[<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/dracpak)
   - Josheph Hansen (capstone) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/truffer11)
   - Sai Teja Dugyala (capstone) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/saidugyala)
