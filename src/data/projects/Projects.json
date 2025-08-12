@@ -222,6 +222,20 @@
       "description": "An educational learning tool enabling visualizing the pronunciation of Spanish words.",
       "status": "completed",
       "image": "/img/projects/sib.png"
-    }
+    },
+    {
+      "name": "HPC RAG Agent Chatbot",
+      "url": "/projects/hpc-rag-agent-chatbot/about",
+      "description": "Developing an AI-powered chatbot using Retrieval-Augmented Generation (RAG) to assist researchers in interacting with SLU’s HPC resources. Designing integration with HPC documentation, schedulers, and real-time system data.",
+      "status": "current",
+      "image": "/img/projects/hpc_rag_agent_chatbot.png"
+    },
+    {
+      "name": "eARM Pipeline",
+      "url": "/projects/earm-pipeline/about",
+      "description": "Contributing to open-source eARM molecular modeling workflows by adding RAG-based knowledge retrieval capabilities.",
+      "status": "current",
+      "image": "/img/projects/earm_pipeline.png"
+    } 
   ]
   
