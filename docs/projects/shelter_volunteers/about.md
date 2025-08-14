@@ -15,8 +15,9 @@ Homeless shelters rely on volunteers' help. When inclement weather strikes, home
 - **Source Code:** [https://github.com/oss-slu/shelter_volunteers](https://github.com/oss-slu/shelter_volunteers) [<img src="/img/git-alt.svg" alt="git" width="25" height="25" />](https://github.com/oss-slu/shelter_volunteers)
 - **Client** Tim Huffman (House Everyone StL)
 - **External Mentors** Women in Technology Group (WWT), GetHelp
-- **Current Tech Lead:** Brijitha Tialu [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/Brijitha1609)[<img src="/img/linkedin.svg" alt="linkedin" width="25" height="25" />](https://www.linkedin.com/in/brijitha-tialu/)
+- **Current Tech Lead:** Supraja Chitmilla [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/Supraja050202)[<img src="/img/linkedin.svg" alt="linkedin" width="25" height="25" />](https://www.linkedin.com/in/ch-supraja-8b58a5216/)
 - **Developers:**
+  - Brijitha Tialu (prior tech lead)[<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/Brijitha1609)[<img src="/img/linkedin.svg" alt="linkedin" width="25" height="25" />](https://www.linkedin.com/in/brijitha-tialu/)
   - Siri Chandana Garimella (prior tech lead) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/SiriChandanaGarimella)
   - Amal Rizvi (capstone) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/amalrzv)
   - Chloe Biddle (capstone) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/cbiddle3)
