@@ -18,7 +18,7 @@ Ready to join our Industry Fellows Program? This page outlines our streamlined a
 
 - **Application Deadline:** November 15, 2025
 - **Notification:** December 10, 2025
-- **Onboarding:** December 15-19, 2026
+- **Onboarding:** December 15-19, 2025
 - **Training:** January 6-10, 2026
 - **First On-site Event:** January 12, 2026
 
