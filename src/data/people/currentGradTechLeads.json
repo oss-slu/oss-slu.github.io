@@ -1,5 +1,10 @@
 [
     {
+        "name": "Vinay Billa",
+        "image": "/img/vinay_billa.jpg",
+        "profileLink": "https://github.com/vinay-billa-slu"
+    },
+    {
         "name": "Yenkatarajalaxmi Manohar Meda",
         "image": "/img/manohar_avatar.jpg",
         "profileLink": "https://github.com/yrlmanoharreddy"
@@ -8,11 +13,6 @@
         "name": "Ajith Akuthota",
         "image": "",
         "profileLink": "https://github.com/AjithAkuthota23"
-    },
-    {
-        "name": "Lalith Adithya Reddy Avuthu",
-        "image": "",
-        "profileLink": "https://github.com/alar12"
     },
     {
         "name": "Sagar Badgujar",

@@ -14,7 +14,7 @@ The Material Donor Mutual Assist project by BWorks is designed to streamline the
 - **Client:** BWorks Organization
 - **Current Tech Lead:** - Vinay Billa [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/vinay-billa-slu) [<img src="/img/linkedin.svg" alt="linkedin" width="25" height="25" />](https://www.linkedin.com/in/vinay-billa-612757170/) [<img src="/img/portfolio.svg" alt="portfolio" width="25" height="25" />](https://billavinay.netlify.app/)
 - **Developers:**
-  - Lalith Adithya Reddy Avuthu (Previous tech lead) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/alar12)
+  - Lalith Adithya Reddy Avuthu (previous tech lead) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/alar12)
   - Sam Kann (capstone)[<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/dracpak)
   - Josheph Hansen (capstone) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/truffer11)
   - Sai Teja Dugyala (capstone) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/saidugyala)
