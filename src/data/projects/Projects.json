@@ -233,9 +233,10 @@
     {
       "name": "eARM Pipeline",
       "url": "/projects/earm-pipeline/about",
-      "description": "Contributing to open-source eARM molecular modeling workflows by adding RAG-based knowledge retrieval capabilities.",
+      "description": "Contributing to open-source eARM molecular modeling workflows and deploying the scientific workflow on SLU HPC systems.",
       "status": "current",
       "image": "/img/projects/earm_pipeline.png"
-    } 
+    }
+     
   ]
   
