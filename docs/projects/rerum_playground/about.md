@@ -20,6 +20,7 @@ This is a web space that uses the RERUM installation at the Walter J. Ong, S.J. 
 - **Current Tech Lead:** Lalith Adithya Reddy Avuthu [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/alar12)[<img src="/img/linkedin.svg" alt="linkedin" width="25" height="25" />](https://www.linkedin.com/in/lalith-adithya-reddy-avuthu-1a409b192/)
 
 - **Developers:**
+    TODO DEVAYANI
     - Haneen AlSewari [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/haneenalsewari)
     - Hayden Karl [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/haydenkarl22)
     - Samuel Sheppard [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/sesheppard)
