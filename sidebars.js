@@ -339,6 +339,14 @@ const sidebars = {
                 {
                   type: 'doc',
                   id: 'projects/wheres_religion_mobile/about',
+                },
+                {
+                  type: 'doc',
+                  id: 'projects/earm_pipeline/about',
+                },
+                {
+                  type: 'doc',
+                  id: 'projects/hpc_rag_agent_chatbot/about',
                 }
               ]
             },
