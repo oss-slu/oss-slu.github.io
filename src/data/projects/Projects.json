@@ -147,6 +147,13 @@
       "image": "/img/projects/tpeninterfaces.png"
     },
     {
+      "name": "STL Data API",
+      "url": "/projects/stl_data_api/about",
+      "description": "STL Data API unifies regional public data for analysis, visualization, and policy-making..",
+      "status": "current",
+      "image": "/img/projects/stl_data_api.png"
+    },
+    {
       "name": "Bubble Scan",
       "url": "/projects/bubblescan/about",
       "description": "The bubble scan is a web application where the user provides digital copies of standard paper scantron sheets in a PDF format and the software produces tabular results in a CSV file.",
