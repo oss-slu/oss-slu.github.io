@@ -147,6 +147,12 @@
       "image": "/img/projects/tpeninterfaces.png"
     },
     {
+      "name": "Simulation Surgery",
+      "url": "/projects/poa_simulation_surgery/about",
+      "description": "The Simulation Surgery focuses on creating a 3D visualization tool a web based platform to simulate surgical procedures for educational and research purposes.",
+      "status": "current"
+    },
+    {
       "name": "Bubble Scan",
       "url": "/projects/bubblescan/about",
       "description": "The bubble scan is a web application where the user provides digital copies of standard paper scantron sheets in a PDF format and the software produces tabular results in a CSV file.",
