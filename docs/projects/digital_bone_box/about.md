@@ -17,7 +17,7 @@ The app will categorize the bones into modules such as the bony pelvis, lower li
 
 - **Source Code:** -[https://github.com/oss-slu/DigitalBoneBox](https://github.com/oss-slu/DigitalBoneBox) [<img src="/img/git-alt.svg" alt="git" width="25" height="25" />](https://github.com/oss-slu/DigitalBoneBox)
 - **Client** Dr. Brian Elliot - Program Director - Clinical Health Sciences
-- **Current Tech Lead:** Santosh Iragavarapu [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/jacksayshi) 
+- **Current Tech Lead:** Pelumi Oluwategbe [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/pelumitegbe)   [<img src="/img/linkedin.svg" alt="linkedin" width="25" height="25" />](https://www.linkedin.com/in/pelumitegbe/)
 
 - **Developers:**
   - Burhan Khan [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/Balijah)  [<img src="/img/linkedin.svg" alt="linkedin" width="25" height="25" />](https://www.linkedin.com/in/burhan~khan/)
