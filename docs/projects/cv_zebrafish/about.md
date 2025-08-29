@@ -17,8 +17,8 @@ The CV Zebrafish project aims to develop an interactive, user-friendly software 
 - **Client:** Mohini Sengupta, Ph.D.
 - **Current Tech Lead:** Madhuritha Alle [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/madhuritha22)  
 - **Developers:**
-   - Jacob Winter [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/jaywin2099) [<img src="/img/linkedin.svg" alt="linkedin" width="25" height="25" />](https://www.linkedin.com/in/USERNAME/)
-  - Jihwann Jung [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/Jung0219) [<img src="/img/linkedin.svg" alt="linkedin" width="25" height="25" />](https://www.linkedin.com/in/USERNAME/)
+  - Jacob Winter [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/jaywin2099) [<img src="/img/linkedin.svg" alt="linkedin" width="25" height="25" />](https://www.linkedin.com/in/USERNAME/)
+  - Gihwan Jung [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/Jung0219) [<img src="/img/linkedin.svg" alt="linkedin" width="25" height="25" />](https://www.linkedin.com/in/USERNAME/)
   - Nilesh Gupta [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/ngup1) [<img src="/img/linkedin.svg" alt="linkedin" width="25" height="25" />](https://www.linkedin.com/in/USERNAME/)
 - **Start Date:** Aug 11, 2025
 - **Technologies Used:**
