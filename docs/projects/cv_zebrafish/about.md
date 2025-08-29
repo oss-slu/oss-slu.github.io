@@ -15,10 +15,11 @@ The CV Zebrafish project aims to develop an interactive, user-friendly software 
 
 - **Source Code:** [https://github.com/oss-slu/cv_zebrafish](https://github.com/oss-slu/cv_zebrafish) [<img src="/img/git-alt.svg" alt="git" width="25" height="25" />](https://github.com/oss-slu/cv_zebrafish)
 - **Client:** Mohini Sengupta, Ph.D.
-- **Current Tech Lead:** Shahid Malik [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/Shahid1Malik)  
+- **Current Tech Lead:** Madhuritha Alle [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/madhuritha22)  
 - **Developers:**
-  <!-- - [Developer 1 Name] [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/USERNAME) [<img src="/img/linkedin.svg" alt="linkedin" width="25" height="25" />](https://www.linkedin.com/in/USERNAME/)
-  - [Developer 2 Name] [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/USERNAME) [<img src="/img/linkedin.svg" alt="linkedin" width="25" height="25" />](https://www.linkedin.com/in/USERNAME/) -->
+   - Jacob Winter [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/jaywin2099) [<img src="/img/linkedin.svg" alt="linkedin" width="25" height="25" />](https://www.linkedin.com/in/USERNAME/)
+  - Jihwann Jung [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/Jung0219) [<img src="/img/linkedin.svg" alt="linkedin" width="25" height="25" />](https://www.linkedin.com/in/USERNAME/)
+  - Nilesh Gupta [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/ngup1) [<img src="/img/linkedin.svg" alt="linkedin" width="25" height="25" />](https://www.linkedin.com/in/USERNAME/)
 - **Start Date:** Aug 11, 2025
 - **Technologies Used:**
   - Python (OpenCV, NumPy, Pandas)
