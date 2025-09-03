@@ -20,7 +20,7 @@ This is a web space that uses the RERUM installation at the Walter J. Ong, S.J. 
 - **Current Tech Lead:** Devayani Chakravarthi Konakalla  [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/Devayani1612)[<img src="/img/linkedin.svg" alt="linkedin" width="25" height="25" />](https://www.linkedin.com/in/devayani-chakravarthi-konakalla-455aa3348/)
 
 - **Developers:**
-    - Lalith Adithya Reddy Avuthu [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/alar12)[<img src="/img/linkedin.svg" alt="linkedin" width="25" height="25" />](https://www.linkedin.com/in/lalith-adithya-reddy-avuthu-1a409b192/)
+    - Lalith Adithya Reddy Avuthu(alumni, prior tech lead)[<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/alar12)[<img src="/img/linkedin.svg" alt="linkedin" width="25" height="25" />](https://www.linkedin.com/in/lalith-adithya-reddy-avuthu-1a409b192/)
     - Haneen AlSewari [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/haneenalsewari)
     - Hayden Karl [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/haydenkarl22)
     - Samuel Sheppard [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/sesheppard)
