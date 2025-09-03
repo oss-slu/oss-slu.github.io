@@ -18,11 +18,11 @@ The existence of Pi4Micronaut is justified by the need for a robust, scalable, a
 - **Client** Jeff Brown - Unity Foundation
 - **Current Tech Lead:** Leandru Martin [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/leandrumartin)
 - **Developers:**
-  - Yenkatarajalaxmimanohar (prior tech lead, alumni) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/yrlmanoharreddy)
+  - Yenkatarajalaxmimanohar (alumni, prior tech lead) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/yrlmanoharreddy)
   - Ava Enke (alumni) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/avaenk)
   - Seyun Jeong (alumni) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/Ed0827)
   - Ralph Tan (alumni) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/RalphTan37)
-  - Ruthvik Mannem (prior tech lead, alumni) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/ruthvikm)
+  - Ruthvik Mannem (alumni, prior tech lead) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/ruthvikm)
    - Leandru Martin (alumini) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/leandrumartin)
    - Thomas Macas (alumini) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/tmacas)
   - Adrian Swindle (alumni) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/SwindleA)
