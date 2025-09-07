@@ -308,6 +308,10 @@ const sidebars = {
                   id: 'projects/pilot_data_synchronization/about',
                 },
                 {
+                  type: 'doc',
+                  id: 'projects/poa_simulation_surgery/about',
+                },
+                {
                   type: 'link',
                   label: 'TBE support Liraries',
                   href: 'https://github.com/oss-slu/tbe',
@@ -330,6 +334,10 @@ const sidebars = {
                 },
                 {
                   type: 'doc',
+                  id: 'projects/stl_data_api/about',
+                },
+                {
+                  type: 'doc',
                   id: 'projects/wheres_religion_desktop/about',
                 },
                 {
@@ -339,6 +347,14 @@ const sidebars = {
                 {
                   type: 'doc',
                   id: 'projects/wheres_religion_mobile/about',
+                },
+                {
+                  type: 'doc',
+                  id: 'projects/earm_pipeline/about',
+                },
+                {
+                  type: 'doc',
+                  id: 'projects/hpc_rag_agent_chatbot/about',
                 }
               ]
             },
