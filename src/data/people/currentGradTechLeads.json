@@ -1,13 +1,13 @@
 [
     {
+        "name": "Leandru Martin",
+        "image": "",
+        "profileLink": "https://github.com/leandrumartin"
+    },
+    {
         "name": "Vinay Billa",
         "image": "/img/vinay_billa.jpg",
         "profileLink": "https://github.com/vinay-billa-slu"
-    },
-    {
-        "name": "Yenkatarajalaxmi Manohar Meda",
-        "image": "/img/manohar_avatar.jpg",
-        "profileLink": "https://github.com/yrlmanoharreddy"
     },
     {
         "name": "Ajith Akuthota",
