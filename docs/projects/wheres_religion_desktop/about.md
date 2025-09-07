@@ -12,14 +12,14 @@ Where's Religion? is conceptualized and designed for diverse users with interest
 ### Information
 
 - **Source Code:** [https://github.com/oss-slu/lrda_website](https://github.com/oss-slu/lrda_website) [<img src="/img/git-alt.svg" alt="git" width="25" height="25" />](https://github.com/oss-slu/lrda_website)
-- **Client** Dr. Adam Park
+- **Client:** Dr. Adam Park
 - **Senior Developer:** [Yash Bhatia](https://yashb196.github.io/yashb196/) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/yashb196) [<img src="/img/linkedin.svg" alt="linkedin" width="25" height="25" />](https://www.linkedin.com/in/yashbhatia238/)
-- **Current Tech Lead:** Zanxiang Wang [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/BaloneyBoy97) [<img src="/img/linkedin.svg" alt="linkedin" width="25" height="25" />](https://www.linkedin.com/in/zanxiang-wang-352b112a0/)
-- **Current Developers:**
-  - Amy Chen (capstone) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/amychen108)
-  - Justin Wang (capstone) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/jwang-101)
-   - Samuel Sheppard (capstone) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/sesheppard)
-- **Previous Developers:**
+- **Current Tech Lead:** [Jacob Maynard](https://jacobmaynard.dev) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/InfinityBowman) [<img src="/img/linkedin.svg" alt="linkedin" width="25" height="25" />](https://www.linkedin.com/in/jacob-maynard-283767230/)
+- **Developers:**
+  - Zanxiang Wang (prior tech lead) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/BaloneyBoy97) [<img src="/img/linkedin.svg" alt="linkedin" width="25" height="25" />](https://www.linkedin.com/in/zanxiang-wang-352b112a0/)
+  - Amy Chen (alumni) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/amychen108)
+  - Justin Wang (alumni) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/jwang-101)
+   - Samuel Sheppard (alumni) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/sesheppard)
   - Stuart Ray (alumni) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/Stuartwastaken)
   - Izak Robles (alumni) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/izakrobles)
   - Josh Hogan (alumni) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/Josh-Hogan-87)

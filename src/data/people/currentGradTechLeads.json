@@ -1,8 +1,18 @@
 [
     {
-        "name": "Yenkatarajalaxmi Manohar Meda",
-        "image": "/img/manohar_avatar.jpg",
-        "profileLink": "https://github.com/yrlmanoharreddy"
+        "name": "Leandru Martin",
+        "image": "",
+        "profileLink": "https://github.com/leandrumartin"
+    },
+    {
+        "name": "Vinay Billa",
+        "image": "/img/vinay_billa.jpg",
+        "profileLink": "https://github.com/vinay-billa-slu"
+    },
+     {
+        "name": "Supraja Chitmilla",
+        "image": "",
+        "profileLink": "https://github.com/Supraja050202"
     },
     {
         "name": "Ajith Akuthota",
@@ -10,34 +20,29 @@
         "profileLink": "https://github.com/AjithAkuthota23"
     },
     {
-        "name": "Lalith Adithya Reddy Avuthu",
+        "name": "Savikhya Kadiyala",
         "image": "",
-        "profileLink": "https://github.com/alar12"
+        "profileLink": "https://github.com/Savikhya"
     },
     {
-        "name": "Sagar Badgujar",
+        "name": "Jahnavi Darisetti",
         "image": "",
-        "profileLink": "https://github.com/sagar3181"
+        "profileLink": "https://github.com/Jahnavidarisetti"
     },
     {
-        "name": "Jack Belyeu",
+        "name": "Jacob Maynard",
         "image": "",
-        "profileLink": "https://github.com/jackbelyeu"
+        "profileLink": "https://github.com/InfinityBowman"
     },
     {
-        "name": "Sanotsh Iragavarapu",
+        "name": "Wendy Onwuagana",
         "image": "",
-        "profileLink": "https://github.com/jacksayshi"
+        "profileLink": "https://github.com/UcheWendy"
     },
     {
         "name": "Devi Priya Kolla",
         "image": "",
         "profileLink": "https://github.com/DeviPriya-Kolla"
-    },
-    {
-        "name": "Karthik Mangineni",
-        "image": "",
-        "profileLink": "https://github.com/rcAsironman"
     },
     {
         "name": "Supraja Mannava",
@@ -58,11 +63,6 @@
         "name": "Rakesh Ranga Buram",
         "image": "",
         "profileLink": "https://github.com/Rakesh-Ranga-Buram"
-    },
-    {
-        "name": "Zanxiang Wang",
-        "image": "",
-        "profileLink": "https://github.com/BaloneyBoy97"
     },
     {
         "name": "Nandini Reddy Bhumula",
@@ -88,5 +88,20 @@
         "name": "Devayani Chakravarthi Konakalla",
         "image": "",
         "profileLink": "https://github.com/Devayani1612"
+    },
+    {
+        "name": "Prem Kiran Polepalli",
+        "image": "",
+        "profileLink": "https://github.com/premkiran2"
+    },
+    {
+        "name": "Vani Walvekar",
+        "image": "",
+        "profileLink": "https://github.com/vani-walvekar1494"
+    },
+    {
+       "name": "Sri Ram Duvvuri",
+       "image": "",
+       "profileLink": "https://github.com/sriram1302" 
     }
 ]
