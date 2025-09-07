@@ -12,10 +12,10 @@ SLU Open Project is a web-based work management tool that enables shared service
 
 - **Source Code:** [https://github.com/oss-slu/open-project/](https://github.com/oss-slu/open-project/) [<img src="/img/git-alt.svg" alt="git" width="25" height="25" />](https://github.com/oss-slu/open-project/)
 - **Client** SLU Center for Additive Manufacturing
-- **Tech Lead:** Jack Crane [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/jackcrane) [<img src="/img/linkedin.svg" alt="linkedin" width="25" height="25" />](https://www.linkedin.com/in/jackcranee/)
+- **Current Tech Lead:** Jack Crane [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/jackcrane) [<img src="/img/linkedin.svg" alt="linkedin" width="25" height="25" />](https://www.linkedin.com/in/jackcranee/)
 - **Developers:**
 
-  - Lakshmi Prasanna Mamillapalli (Alumni Tech Lead) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/lmamillapalli786) [<img src="/img/linkedin.svg" alt="linkedin" width="25" height="25" />](https://www.linkedin.com/in/lakshmiprasana784/)
+  - Lakshmi Prasanna Mamillapalli (alumni, tech lead) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/lmamillapalli786) [<img src="/img/linkedin.svg" alt="linkedin" width="25" height="25" />](https://www.linkedin.com/in/lakshmiprasana784/)
 
   - Colin Sepher (capstone) (alumni) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/colinseper) [<img src="/img/linkedin.svg" alt="linkedin" width="25" height="25" />](https://www.linkedin.com/in/colin-seper/)
 
