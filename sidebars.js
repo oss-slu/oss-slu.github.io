@@ -334,6 +334,10 @@ const sidebars = {
                 },
                 {
                   type: 'doc',
+                  id: 'projects/stl_data_api/about',
+                },
+                {
+                  type: 'doc',
                   id: 'projects/wheres_religion_desktop/about',
                 },
                 {

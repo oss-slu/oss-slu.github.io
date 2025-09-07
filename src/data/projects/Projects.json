@@ -147,6 +147,13 @@
       "image": "/img/projects/tpeninterfaces.png"
     },
     {
+      "name": "STL Data API",
+      "url": "/projects/stl_data_api/about",
+      "description": "STL Data API unifies regional public data for analysis, visualization, and policy-making..",
+      "status": "current",
+      "image": "/img/projects/stl_data_api.png"
+    },
+    {
       "name": "Simulation Surgery",
       "url": "/projects/poa_simulation_surgery/about",
       "description": "The Simulation Surgery focuses on creating a 3D visualization tool a web based platform to simulate surgical procedures for educational and research purposes.",
