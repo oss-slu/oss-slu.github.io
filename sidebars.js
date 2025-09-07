@@ -308,6 +308,10 @@ const sidebars = {
                   id: 'projects/pilot_data_synchronization/about',
                 },
                 {
+                  type: 'doc',
+                  id: 'projects/poa_simulation_surgery/about',
+                },
+                {
                   type: 'link',
                   label: 'TBE support Liraries',
                   href: 'https://github.com/oss-slu/tbe',
