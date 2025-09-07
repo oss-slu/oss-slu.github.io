@@ -21,7 +21,7 @@
       "image": "/img/projects/droneworld.png"
     },
     {
-      "name": "Electronic Structure Parser",
+      "name": "ESP: Electronic Structure Parser",
       "url": "/projects/esp/about",
       "description": "ESP is a web application that allows the user to upload the ORCA/Gaussian data, and quickly extract relevant tabular results in a Word document.",
       "status": "current",
@@ -174,7 +174,7 @@
       "image": "/img/projects/congestion_control_emulator.png"
     },
     {
-      "name": "Data Entry & Exhibition for Rerum",
+      "name": "DEER: Data Entry & Exhibition for Rerum",
       "url": "/projects/deer/about",
       "description": "A designer's framework for non-destructive annotation and template rendering for distributed digital resources and collections.",
       "status": "completed",
