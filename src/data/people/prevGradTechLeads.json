@@ -15,6 +15,11 @@
         "profileLink": "https://github.com/HalimaMalik"
     },
     {
+        "name": "Santosh Iragavarapu",
+        "image": "",
+        "profileLink": "https://github.com/jacksayshi"
+    },
+    {
         "name": "Omar Al Akkad",
         "image": "/img/Omar.jpg",
         "profileLink": "https://github.com/OmarAlAkkad"
@@ -110,8 +115,8 @@
         "profileLink": "https://github.com/jackbelyeu"
     },
     {
-      "name": "Yenkatarajalaxmi Manohar Meda",
-      "image": "/img/manohar_avatar.jpg",
-      "profileLink": "https://github.com/yrlmanoharreddy"
+        "name": "Yenkatarajalaxmi Manohar Meda",
+        "image": "/img/manohar_avatar.jpg",
+        "profileLink": "https://github.com/yrlmanoharreddy"
     }
 ]
