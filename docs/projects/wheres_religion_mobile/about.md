@@ -15,13 +15,14 @@ custom_edit_url: https://github.com/oss-slu/lrda_mobile
 - **Source Code:** [https://github.com/oss-slu/lrda_mobile](https://github.com/oss-slu/lrda_mobile) [<img src="/img/git-alt.svg" alt="git" width="25" height="25" />](https://github.com/oss-slu/lrda_mobile)
 - **Client:** Dr. Adam Park
 - **Senior Developer:** [Yash Bhatia](https://yashb196.github.io/yashb196/) (alumni, prior tech lead) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/yashb196) [<img src="/img/linkedin.svg" alt="linkedin" width="25" height="25" />]( https://www.linkedin.com/in/yashbhatia238/)
-- **Current Tech Lead:** - Karthik Mangineni [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/rcAsironman) [<img src="/img/linkedin.svg" alt="linkedin" width="25" height="25" />](https://www.linkedin.com/in/karthik-mangineni-086a49234)
+- **Current Tech Lead:** [Jacob Maynard](https://jacobmaynard.dev) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/InfinityBowman) [<img src="/img/linkedin.svg" alt="linkedin" width="25" height="25" />](https://www.linkedin.com/in/jacob-maynard-283767230/)
 - **Developers:**
-  - Adem Durakovic (capstone) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/ademDurakovic)
+  - Karthik Mangineni (prior tech lead) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/rcAsironman) [<img src="/img/linkedin.svg" alt="linkedin" width="25" height="25" />](https://www.linkedin.com/in/karthik-mangineni-086a49234)
+  - Adem Durakovic (alumni) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/ademDurakovic)
 
-  - Amar Hadzic (capstone) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/AmarHadzic)
+  - Amar Hadzic (alumni) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/AmarHadzic)
 
-  - Nikhil Muthukumar (capstone) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/teamomiamigo)
+  - Nikhil Muthukumar (alumni) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/teamomiamigo)
 
   - Andrew Chen (alumni) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/AndchooChen)
   - Tom Irvine (alumni) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/irvinet20) 
