@@ -20,9 +20,12 @@ The app will categorize the bones into modules such as the bony pelvis, lower li
 - **Current Tech Lead:** Wendy Onwuagana [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/UcheWendy)  [<img src="/img/linkedin.svg" alt="linkedin" width="25" height="25" />](https://www.linkedin.com/in/wendy-onwuagana-015a771b6/)
 
 - **Developers:**
+
+  - Santosh Iragavarapu (alumni, prior tech lead) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/jacksayshi)
   - Burhan Khan [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/Balijah)  [<img src="/img/linkedin.svg" alt="linkedin" width="25" height="25" />](https://www.linkedin.com/in/burhan~khan/)
   - Luke Tomlinson [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/tluke900)  [<img src="/img/linkedin.svg" alt="linkedin" width="25" height="25" />](https://www.linkedin.com/in/lucas-tomlinson-2677b32ba/)
   - Josh Budzynski [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/JoshBudzynski)  [<img src="/img/linkedin.svg" alt="linkedin" width="25" height="25" />](https://www.linkedin.com/in/joshua-budzynski-33b06425a/)
+  
 - **Start Date:** Aug, 2024
 - **Technologies Used:**
   - [HTMX](https://htmx.org/)
