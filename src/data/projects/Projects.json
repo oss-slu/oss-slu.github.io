@@ -147,6 +147,19 @@
       "image": "/img/projects/tpeninterfaces.png"
     },
     {
+      "name": "STL Data API",
+      "url": "/projects/stl_data_api/about",
+      "description": "STL Data API unifies regional public data for analysis, visualization, and policy-making..",
+      "status": "current",
+      "image": "/img/projects/stl_data_api.png"
+    },
+    {
+      "name": "Simulation Surgery",
+      "url": "/projects/poa_simulation_surgery/about",
+      "description": "The Simulation Surgery focuses on creating a 3D visualization tool a web based platform to simulate surgical procedures for educational and research purposes.",
+      "status": "current"
+    },
+    {
       "name": "Bubble Scan",
       "url": "/projects/bubblescan/about",
       "description": "The bubble scan is a web application where the user provides digital copies of standard paper scantron sheets in a PDF format and the software produces tabular results in a CSV file.",
@@ -222,6 +235,21 @@
       "description": "An educational learning tool enabling visualizing the pronunciation of Spanish words.",
       "status": "completed",
       "image": "/img/projects/sib.png"
+    },
+    {
+      "name": "HPC RAG Agent Chatbot",
+      "url": "/projects/hpc_rag_agent_chatbot/about",
+      "description": "Developing an AI-powered chatbot using Retrieval-Augmented Generation (RAG) to assist researchers in interacting with SLU’s HPC resources. Designing integration with HPC documentation, schedulers, and real-time system data.",
+      "status": "current",
+      "image": "/img/projects/hpc_rag_agent_chatbot.png"
+    },
+    {
+      "name": "eARM Pipeline",
+      "url": "/projects/earm_pipeline/about",
+      "description": "Contributing to open-source eARM molecular modeling workflows and deploying the scientific workflow on SLU HPC systems.",
+      "status": "current",
+      "image": "/img/projects/earm_pipeline.png"
     }
+    
   ]
   

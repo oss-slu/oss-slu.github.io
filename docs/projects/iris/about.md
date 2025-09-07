@@ -12,16 +12,17 @@ IRIS is a framework for creating custom mobile applications that can handle spec
 
 - **Source Code:** [https://github.com/oss-slu/image-recognition-integration-system/](https://github.com/oss-slu/image-recognition-integration-system/) [<img src="/img/git-alt.svg" alt="git" width="25" height="25" />](https://github.com/oss-slu/image-recognition-integration-system/)
 - **Client** Dr Abby Stylianou
-- **Current Tech Lead:** Julian Shniter [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/smallrussian)
+- **Current Tech Lead:** Obsa Sendaba [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/Obssaa)
 - **Developers:**
 
+  - Julian Shniter(prior pech lead) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/smallrussian)
   - Karthik (project staff) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/rcAsironman)
-  - Mustafa Hashmi (capstone) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/mhashm1)
-  - Ramez Mosad (capstone) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/ramezmosad)
-  - Megh Patel (capstone) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/MeghPatel6)
-
+  - Mustafa Hashmi (alumni) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/mhashm1)
+  - Ramez Mosad (alumni) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/ramezmosad)
+  - Megh Patel (alumni) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/MeghPatel6)
 - **Start Date:** January, 2025
 - **Adoption Date:** January, 2025
+
 - **Technologies Used:**
   - React Native
   - NextJS
