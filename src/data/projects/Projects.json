@@ -1,9 +1,16 @@
 [
     {
+      "name": "CV Zebrafish",
+      "url": "/projects/cv_zebrafish/about",
+      "description": "CV Zebrafish is a web application that automates the analysis of zebrafish body parts and movement from high-speed video recordings.",
+      "status": "current",
+      "image": "/img/projects/cv_zebrafish.png"
+    },
+    {
       "name": "DADS: Database of Arithmetic Dynamical Systems",
       "url": "/projects/dads/about",
       "description": "DADS is a flexible, web-based, search-driven user interface for a database of information about a class of mathematical functions known as arithmetic dynamical systems.",
-      "status": "current",
+      "status": "stable",
       "image": "/img/projects/dads.png"
     },
     {
@@ -24,7 +31,7 @@
       "name": "ESP: Electronic Structure Parser",
       "url": "/projects/esp/about",
       "description": "ESP is a web application that allows the user to upload the ORCA/Gaussian data, and quickly extract relevant tabular results in a Word document.",
-      "status": "current",
+      "status": "stable",
       "image": "/img/projects/esp.png"
     },
     {
@@ -33,6 +40,13 @@
       "description": "This project is focused on developing an AI-driven tool that supports bioinformatics research by providing intelligent API recommendations, detecting errors, and offering real-time corrections. The tool leverages large language models trained on bioinformatics codebases to ensure reliable data retrieval and analysis, ultimately improving research accuracy and efficiency.",
       "status": "current",
       "image": "/img/projects/baio.png"
+    },
+    {
+      "name": "TheHealthApp",
+      "url": "/projects/health_app/about",
+      "description": "TheHealthApp enable basic AI powered health assessments, connects patients with services services, gives patients simple and secure access to their health data.",
+      "status": "current",
+      "image": "/img/projects/health_app.png"
     },
     {
       "name": "IRIS: Image Recognition Integration System",
@@ -45,8 +59,15 @@
       "name": "MeltShiny",
       "url": "/projects/meltshiny/about",
       "description": "MeltShiny is a web application that automates the analysis and visualization of DNA melting curves for researchers in chemistry, biology, and genetics.",
-      "status": "current",
+      "status": "stable",
       "image": "/img/projects/meltshiny.png"
+    },
+    {
+      "name": "Mithraditium",
+      "url": "/projects/mithraditium/about",
+      "description": "Mithraditium is a set of tools that translates research on detecting and prevention of AI poisoning attacks into practical software solutions.",
+      "status": "current",
+      "image": "/img/projects/mithraditium.png"
     },
     {
       "name": "Mouser",
@@ -54,6 +75,34 @@
       "description": "Mouser is a desktop app for tracking the data of animal experiments.",
       "status": "current",
       "image": "/img/projects/mouser.png"
+    },
+    {
+      "name": "OSS Cybersecurity",
+      "url": "/projects/oss_cybersecurity/about",
+      "description": "The OSS Cybersecurity project provides cybersecurity services to open source projects developed at SLU, including security assessments, vulnerability scanning, and best practices guidance.",
+      "status": "current",
+      "image": "/img/projects/default.png"
+    },
+    {
+      "name": "OSS Infra/Ops",
+      "url": "/projects/infra_ops/about",
+      "description": "The OSS Infra/Ops project provides infrastructure and operations support for open source projects developed at SLU, including shared development environments, infrastructure as code support, instrumentation for observability, and development observability services.",
+      "status": "current",
+      "image": "/img/projects/infra_ops.png"
+    },
+    {
+      "name": "OSS CI/CD & Automation",
+      "url": "/projects/cicd_automation/about",
+      "description": "OSS CI/CD & Automation project provides continuous integration and continuous deployment (CI/CD) services to open source projects developed at SLU, including automated testing, deployment pipelines, and release management.",
+      "status": "current",
+      "image": "/img/projects/cicd_automation.png"
+    },
+    {
+      "name": "OSS Dev Analytics",
+      "url": "/projects/dev_analytics/about",
+      "description": "OSS Dev Analytics project provides developer analytics and general data analytics support to open source projects developed at SLU.",
+      "status": "current",
+      "image": "/img/projects/dev_analytics.png"
     },
     {
       "name": "CoreDesk",
@@ -87,7 +136,7 @@
       "name": "Step Time Biofeedback",
       "url": "/projects/step_time_biofeedback/about",
       "description": "Step Time Biofeedback is a tool that leverages force signal data from a Bertec split-belt treadmill to calculate step time and project target zones into a biofeedback system.",
-      "status": "current",
+      "status": "stable",
       "image": "/img/projects/step_time_biofeedback.png"
     },
     {
@@ -108,7 +157,7 @@
       "name": "Inner Peace Time",
       "url": "/projects/innerpeacetime/about",
       "description": "Inner peace time is a guided meditation app developed to help children and families breathe for calm and find their safe place for LOVE and HEALING.",
-      "status": "current",
+      "status": "stable",
       "image": "/img/projects/innerpeacetime.png"
     },
     {
@@ -122,7 +171,7 @@
       "name": "Open Energy Dashboard",
       "url": "/projects/open_energy_dashboard/about",
       "description": "Open Energy Dashboard is a user-friendly way to display energy information from smart energy meters or uploaded via CSV files.",
-      "status": "current",
+      "status": "completed",
       "image": "/img/projects/open_energy_dashboard.png"
     },
     {
@@ -143,7 +192,7 @@
       "name": "TPEN Interfaces",
       "url": "/projects/tpen_interfaces/about",
       "description": "The TPEN Interfaces project provides a set of customizable web interfaces that leverage the TPEN Services API.",
-      "status": "current",
+      "status": "stable",
       "image": "/img/projects/tpeninterfaces.png"
     },
     {
@@ -155,15 +204,22 @@
     },
     {
       "name": "Simulation Surgery",
-      "url": "/projects/poa_simulation_surgery/about",
+      "url": "/projects/simulation_surgery/about",
       "description": "The Simulation Surgery focuses on creating a 3D visualization tool a web based platform to simulate surgical procedures for educational and research purposes.",
       "status": "current"
+    },
+    {
+      "name": "SMARTRobot",
+      "url": "/projects/smartrobot/about",
+      "description": "SLU Mobile Autonomous Robotics Toolkit is a collection of educational robotics kits, software modules, lesson plans, learning materials, and a platform that makes them simple to use.",
+      "status": "current",
+      "image": "/img/projects/smartrobot.png"
     },
     {
       "name": "Bubble Scan",
       "url": "/projects/bubblescan/about",
       "description": "The bubble scan is a web application where the user provides digital copies of standard paper scantron sheets in a PDF format and the software produces tabular results in a CSV file.",
-      "status": "completed",
+      "status": "stable",
       "image": "/img/projects/bubblescan.png"
     },
     {
@@ -177,7 +233,7 @@
       "name": "DEER: Data Entry & Exhibition for Rerum",
       "url": "/projects/deer/about",
       "description": "A designer's framework for non-destructive annotation and template rendering for distributed digital resources and collections.",
-      "status": "completed",
+      "status": "stable",
       "image": "/img/projects/deer.png"
     },
     {
@@ -191,7 +247,7 @@
       "name": "Gallery of Glosses",
       "url": "/projects/gallery_of_glosses/about",
       "description": "Interfaces to view and manage Glosses.",
-      "status": "completed",
+      "status": "stable",
       "image": "/img/projects/gallery_of_glosses.png"
     },
     {
@@ -212,7 +268,7 @@
       "name": "Rerum Geolocator",
       "url": "/projects/rerum_geolocator/about",
       "description": "The application enables users to enhance discovery and access to digital resources through geographic visualization and annotation.",
-      "status": "completed",
+      "status": "stable",
       "image": "/img/projects/rerum_geolocator.png"
     },
     {
@@ -249,6 +305,13 @@
       "description": "Contributing to open-source eARM molecular modeling workflows and deploying the scientific workflow on SLU HPC systems.",
       "status": "current",
       "image": "/img/projects/earm_pipeline.png"
+    },
+    {
+      "name": "MechatronicsVR",
+      "url": "/projects/mechatronics_vr/about",
+      "description": "MechatronicsVR provides an interactive VR environment for learning mechanical assembly skills.",
+      "status": "current",
+      "image": "/img/projects/vr_robotics.png"
     }
     
   ]

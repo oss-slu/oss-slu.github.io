@@ -10,7 +10,7 @@ This project aims to develop a tool leveraging large language models (LLMs) to r
 
 ### Information
 
-- **Source Code:** [https://github.com/oss-slu/Enhancing-Bioinformatics-Research-through-LLM](https://github.com/oss-slu/Enhancing-Bioinformatics-Research-through-LLM) [<img src="/img/git-alt.svg" alt="git" width="25" height="25" />](https://github.com/oss-slu/Enhancing-Bioinformatics-Research-through-LLM)
+- **Source Code:** [https://github.com/oss-slu/baio](https://github.com/oss-slu/baio) [<img src="/img/git-alt.svg" alt="git" width="25" height="25" />](https://github.com/oss-slu/baio)
 
 - **Client** Dr. Tae-Hyuk (Ted) Ahn
 
