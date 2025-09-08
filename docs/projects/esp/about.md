@@ -1,6 +1,6 @@
 ---
 id: about
-title: Electronic Structure Parser
+title: "ESP: Electronic Structure Parser"
 custom_edit_url: null
 ---
 

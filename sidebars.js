@@ -269,7 +269,7 @@ const sidebars = {
                 },
                 {
                   type: 'doc',
-                  id: 'projects/enhancing_bioinformatics_research_through_LLM/about',
+                  id: 'projects/baio/about',
                 },
                 {
                   type: 'doc',
@@ -281,7 +281,7 @@ const sidebars = {
                 },
                 {
                   type: 'doc',
-                  id: 'projects/MDMA/about',
+                  id: 'projects/md/about',
                 },
                 {
                   type: 'doc',
@@ -297,7 +297,7 @@ const sidebars = {
                 },
                 {
                   type: 'doc',
-                  id: 'projects/open_project/about',
+                  id: 'projects/coredesk/about',
                 },
                 {
                   type: 'doc',
@@ -330,7 +330,7 @@ const sidebars = {
                 },
                 {
                   type: 'doc',
-                  id: 'projects/tpeninterfaces/about',
+                  id: 'projects/tpen_interfaces/about',
                 },
                 {
                   type: 'doc',
