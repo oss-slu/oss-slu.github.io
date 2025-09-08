@@ -20,14 +20,14 @@ This interdisciplinary project involves collaboration between Aeronautics studen
   - Ali Elnour (alumni) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/aelnourSLU) 
   - Carly Hoover (alumni) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/carlyrhoover)
   - Henry Meiners (alumni) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/hrmeiners) 
- 
-  
+  - Harshita Thota (alumni, prior tech lead) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/harshitha-thota)
+
 - **Start Date:** August 2024
 - **Adoption Date:** August 2024
 
 - **Technologies Used:**
-  - C++
   - Rust
+  - C++
   - X-Plane SDK (future compatibility with Prepar3D SDK)
 
 - **Type:** TBD
