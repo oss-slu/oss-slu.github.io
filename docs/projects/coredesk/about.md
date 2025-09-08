@@ -10,7 +10,7 @@ CoreDesk is a web-based work management tool that enables shared service provide
 
 ## Information
 
-- **Source Code:** [https://github.com/oss-slu/core_desk/](https://github.com/oss-slu/core_desk/) [<img src="/img/git-alt.svg" alt="git" width="25" height="25" />](https://github.com/oss-slu/core_desk/)
+- **Source Code:** [https://github.com/oss-slu/open-project/](https://github.com/oss-slu/open-project/) [<img src="/img/git-alt.svg" alt="git" width="25" height="25" />](https://github.com/oss-slu/open-project/)
 - **Client** SLU Center for Additive Manufacturing
 - **Current Tech Lead:** Jack Crane [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/jackcrane) [<img src="/img/linkedin.svg" alt="linkedin" width="25" height="25" />](https://www.linkedin.com/in/jackcranee/)
 - **Developers:**
