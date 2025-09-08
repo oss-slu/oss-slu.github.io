@@ -13,23 +13,21 @@ SLU Mobile Autonomous Robotics Toolkit is an interdisciplinary collaboration bet
 
 ### Information
 
-- **Source Code:** 
+- **Source Code:** [https://github.com/oss-slu/SmartRobot/](https://github.com/oss-slu/SmartRobot/)
 - **Client** Dr. Madi Babaiasl
-- **Current Tech Lead:** 
-
+- **Current Tech Lead:** Daniel Shown [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/kungfuchicken)[<img src="/img/linkedin.svg" alt="linkedin" width="25" height="25" />](https://www.linkedin.com/in/daniel.shown/)
 - **Developers:**
   - *Software:*
-    - Pascal Sikorski
-    - Ngan (Daisy) Nguyen
+    - Pascal Sikorski [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/Paskul)
+    - Ngan (Daisy) Nguyen [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/daisyNBN)
   - *Hardware:*
     - Aedan Bird
     - Kody Cool
 - **Start Date:** Aug, 2025
 - **Technologies Used:**
 
-- **Type:** 
-- **License:** 
-
+- **Type:** Robotics
+- **License:** TBD
 
 ## Technical Information
 
@@ -37,22 +35,12 @@ SLU Mobile Autonomous Robotics Toolkit is an interdisciplinary collaboration bet
 
 #### Existing Tool and Conversion
 
-
-
-Key features of the project will include: 
+Key features of the project will include:
 
 - **First feature:**
-
-
-
 - **Second feature:**
-
-
-
 - **Third feature:**
-
-
 
 ## Get Involved
 
-If you would like to contribute to this project, please visit our [github page] to create your own issues or pull requests.
+If you would like to contribute to this project, please visit our [github page](https://github.com/oss-slu/SmartRobot/) to create your own issues or pull requests.

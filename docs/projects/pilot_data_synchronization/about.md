@@ -14,11 +14,12 @@ This interdisciplinary project involves collaboration between Aeronautics studen
 ### Information
 - **Source Code:**  https://github.com/oss-slu/PilotDataSynchronization [<img src="/img/git-alt.svg" alt="git" width="25" height="25" />](https://github.com/oss-slu/PilotDataSynchronization)
 - **Client** Gajapriya Tamilselvan - Aviation Science
-- **Current Tech Lead:** Devi Priya Kolla [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/DeviPriya-Kolla)
+- **Current Tech Lead:** Vamsi Brahmadevi [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/vbrahmadevi)
 - **Developers:**
-  - Ali Elnour (capstone) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/aelnourSLU) 
-  - Carly Hoover (capstone) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/carlyrhoover)
-  - Henry Meiners (capstone) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/hrmeiners) 
+  - Devi Priya Kolla (alumni, prior tech lead) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/DeviPriya-Kolla)
+  - Ali Elnour (alumni) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/aelnourSLU) 
+  - Carly Hoover (alumni) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/carlyrhoover)
+  - Henry Meiners (alumni) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/hrmeiners) 
  
   
 - **Start Date:** August 2024
@@ -26,6 +27,7 @@ This interdisciplinary project involves collaboration between Aeronautics studen
 
 - **Technologies Used:**
   - C++
+  - Rust
   - X-Plane SDK (future compatibility with Prepar3D SDK)
 
 - **Type:** TBD

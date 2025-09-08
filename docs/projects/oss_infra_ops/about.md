@@ -20,35 +20,37 @@ The OSS Infra/Ops team provides infrastructure and operations support for open s
 
 - **Status:** New (greenfield this semester) <!-- Choose applicable: [Proposed (proposed by client), New (greenfield this semester), Active (and ongoing), External (ongoing third-party), -->
               <!-- Support (limited maintenance), Handoff (back to client), Archived (no further updates will be made)] -->
-- **Platforms:** <!-- Choose applicable: [Mobile, Desktop, Web, API, CLI, Library] -->
-- **Website:** [URL](URL)
+- **Platforms:** Internal Developer Services
+<!-- - **Website:** [URL](URL) -->
 - **Source Code:** [https://github.com/oss-slu/oss_infra_ops](https://github.com/oss-slu/oss_infra_ops [<img src="/img/git-alt.svg" alt="git" width="25" height="25" />](https://github.com/oss-slu/oss_infra_ops)
 <!-- - **Download/Deployment:** 
   - [URL](URL)
   - [URL](URL)
   - [URL](URL) -->
 
-### User Guide
+<!-- ### User Guide -->
 
 <!-- Clear description; 1-2 paragraphs -->
 <!-- Clear description of who should use this and how -->
 <!-- Getting started steps or quick-start guide -->
 
-**Quick Start:**
+<!-- **Quick Start:**
 1. [Installation/Setup steps]
 2. [Basic usage]
-3. [Common workflows]
+3. [Common workflows] -->
 
 <!-- Link to comprehensive documentation -->
-**Full User Guide:** [Link to detailed docs]
+<!-- **Full User Guide:** [Link to detailed docs] -->
 
-## Core Dev Team:
+## Core Dev Team
 
 - **Client** Open Source with SLU
 <!-- - **Staff Developer:** Staff Developer Name [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/username) [<img src="/img/linkedin.svg" alt="linkedin" width="25" height="25" />](https://www.linkedin.com/in/username/) -->
-- **Current Tech Lead:** Daniel Shown [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/kungfuchicken)
+- **Current Tech Lead:** Daniel Shown [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/kungfuchicken)[<img src="/img/linkedin.svg" alt="linkedin" width="25" height="25" />](https://www.linkedin.com/in/daniel.shown/)
 <!-- [<img src="/img/linkedin.svg" alt="linkedin" width="25" height="25" />](https://www.linkedin.com/in/username/) [<img src="/img/portfolio.svg" alt="portfolio" width="25" height="25" />](Portfolio URL/) -->
 - **Developers:**
+  - Daniel Awodeyi [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/AyoAwodeyi)
+  - Ava Enke [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/sudoava)
   
   <!-- - Name (project staff) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/rcAsironman)
   - One Dev (capstone) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/username)
@@ -60,17 +62,7 @@ The OSS Infra/Ops team provides infrastructure and operations support for open s
 
 ### Additional Information
 
-- **Start Date:** <!-- Date -->
-- **Adoption Date:** <!-- Date -->
-- **Technologies Used:**
-  - Tech
-  - Stack
-  - Primary
-  - Tech
-  - Only
-- **License:** [license short name](https://opensource.org/license/...)
-- **Code of Conduct:** [CODE_OF_CONDUCT.md](URL)
-- **Security:** [SECURITY.md](URL)
+- **Start Date:** August 2025
 
 ### Technical Overview
 
@@ -79,12 +71,14 @@ The OSS Infra/Ops team provides infrastructure and operations support for open s
 
 ### Development Priorities
 
-- List of current priorities
-- Should be able to succinctly identify what is expected over the current semester
-- Hint at what is coming for the next semester
-- Provide at least one extra priority for external contributors
+- Support urgent infrastructure & operations needs
+- Internal CloudNative shared dev environment
+- Dedicated workstations & physical developer environment in SSE 210
+- Asset tracking OSS hardware
+- Observability platform
+- Instrumentation of OSS apps
 
-## Get Involved
+<!-- ## Get Involved -->
 
 <!-- Clear description; 1-2 paragraphs -->
 <!-- Link to CONTRIBUTING.md -->
