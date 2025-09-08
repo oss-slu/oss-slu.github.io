@@ -17,7 +17,7 @@ Our team at OSS is dedicated to enhancing Drone World’s capabilities, includin
 
 - **Source Code:**  https://github.com/oss-slu/DroneWorld [<img src="/img/git-alt.svg" alt="git" width="25" height="25" />](https://github.com/oss-slu/DroneWorld)
 - **Client:** [Dr. Ankit Agrawal](https://www.slu.edu/science-and-engineering/academics/computer-science/faculty-and-staff/ankit-agrawal.php) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/ankyAgrawal)
-- **Current Tech Lead:** Rakesh Ranga Buram [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/Rakesh-Ranga-Buram)
+- **Current Tech Lead:** Prakhyat Pandit [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/prakhyatpandit)
 - **Developers:**
     - Darweshi Amerson (capstone) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/damerson1)
     - Noah Guzinski (capstone) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/nguzinski) 
@@ -27,6 +27,7 @@ Our team at OSS is dedicated to enhancing Drone World’s capabilities, includin
     - Hebron Bekele (alumni) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/hebronh)
     - Kaleb Yu (alumni) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/kalyus)
     - Szymon Rostkowski (alumni) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/sr259)
+    -  Rakesh Ranga Buram (prior tech lead) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/Rakesh-Ranga-Buram)
      
 - **Start Date:** 9th Feb 2023
 - **Adoption Date:** 25 Aug 2023
