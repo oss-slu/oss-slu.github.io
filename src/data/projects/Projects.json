@@ -63,11 +63,11 @@
       "image": "/img/projects/meltshiny.png"
     },
     {
-      "name": "Mithraditium",
-      "url": "/projects/mithraditium/about",
-      "description": "Mithraditium is a set of tools that translates research on detecting and prevention of AI poisoning attacks into practical software solutions.",
+      "name": "Mithridatium",
+      "url": "/projects/mithridatium/about",
+      "description": "Mithridatium is a set of tools that translates research on detecting and prevention of AI poisoning attacks into practical software solutions.",
       "status": "current",
-      "image": "/img/projects/mithraditium.png"
+      "image": "/img/projects/mithridatium.png"
     },
     {
       "name": "Mouser",
