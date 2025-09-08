@@ -10,7 +10,7 @@ MaterialDerailleur shifts donations into drive for BWorks. It streamlines the pr
 
 ### Information
 
-- **Source Code:** [https://github.com/oss-slu/material-donor-mutual-assist](https://github.com/oss-slu/material-derailleur) [<img src="/img/git-alt.svg" alt="git" width="25" height="25" />](https://github.com/oss-slu/material-donor-mutual-assist)
+- **Source Code:** [https://github.com/oss-slu/material-derailleur](https://github.com/oss-slu/material-derailleur) [<img src="/img/git-alt.svg" alt="git" width="25" height="25" />](https://github.com/oss-slu/material-derailleur)
 - **Client:** BWorks Organization
 - **Current Tech Lead:** - Vinay Billa [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/vinay-billa-slu) [<img src="/img/linkedin.svg" alt="linkedin" width="25" height="25" />](https://www.linkedin.com/in/vinay-billa-612757170/) [<img src="/img/portfolio.svg" alt="portfolio" width="25" height="25" />](https://billavinay.netlify.app/)
 - **Developers:**
