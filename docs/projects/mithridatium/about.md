@@ -21,7 +21,7 @@ Mithridatium is a set of tools that translates research on detecting and prevent
               <!-- Support (limited maintenance), Handoff (back to client), Archived (no further updates will be made)] -->
 - **Platforms:** <!-- Choose applicable: [Mobile, Desktop, Web, API, CLI, Library] -->
 - **Website:** [URL](URL)
-- **Source Code:** [https://github.com/oss-slu/mithraditium](https://github.com/oss-slu/mithraditium) [<img src="/img/git-alt.svg" alt="git" width="25" height="25" />](https://github.com/oss-slu/mithraditium)
+- **Source Code:** [https://github.com/oss-slu/mithridatium](https://github.com/oss-slu/mithridatium) [<img src="/img/git-alt.svg" alt="git" width="25" height="25" />](https://github.com/oss-slu/mithridatium)
 <!-- - **Download/Deployment:** 
   - [URL](URL)
   - [URL](URL)
@@ -41,7 +41,7 @@ Mithridatium is a set of tools that translates research on detecting and prevent
 <!-- Link to comprehensive documentation -->
 **Full User Guide:** [Link to detailed docs]
 
-## Core Dev Team:
+## Core Dev Team
 
 - **Client** Dr. Reza Tourani
 <!-- - **Staff Developer:** Staff Developer Name [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/username) [<img src="/img/linkedin.svg" alt="linkedin" width="25" height="25" />](https://www.linkedin.com/in/username/) -->
