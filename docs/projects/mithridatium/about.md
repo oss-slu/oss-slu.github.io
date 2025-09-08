@@ -1,6 +1,6 @@
 ---
 id: about
-title: "Mithraditium"
+title: "Mithridatium"
 custom_edit_url: null
 ---
 
@@ -9,7 +9,7 @@ custom_edit_url: null
 
 ## Overview
 
-Mithraditium is a set of tools that translates research on detecting and prevention of AI poisoning attacks into practical software solutions.
+Mithridatium is a set of tools that translates research on detecting and prevention of AI poisoning attacks into practical software solutions.
 
 <!-- Screenshot -->
 <!-- Clear description; 1-2 paragraphs -->
