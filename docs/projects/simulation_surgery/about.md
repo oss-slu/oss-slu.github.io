@@ -1,12 +1,12 @@
 ---
 id: about
-title: 3D Visualization of Osteotomy Simulation Surgery
+title: Simulation Surgery
 custom_edit_url: null
 ---
 
 ## Overview
 
-This project focuses on creating a 3D visualization tool for CT DICOM files that can be manipulated to simulate different types of osteotomies. The tool will allow radiographic measurements to be made after simulating osteotomies. The ultimate vision is to expand capabilities to scan any bone, automatically segment it, simulate osteotomies (or other procedures), and calculate relevant radiographic measures.
+Simulation Surgery is a 3D visualization of osteotomy surgical simulations. It focuses on creating a 3D visualization tool for CT DICOM files that can be manipulated to simulate different types of osteotomies. The tool allows radiographic measurements to be made after simulating osteotomies. The ultimate vision is to expand capabilities to scan any bone, automatically segment it, simulate osteotomies (or other procedures), and calculate relevant radiographic measures.
 
 By combining advanced 3D medical imaging, segmentation algorithms, and simulation capabilities, this tool aims to support surgeons, researchers, and students in orthopedic planning and education.
 

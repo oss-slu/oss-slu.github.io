@@ -1,6 +1,6 @@
 ---
 id: about
-title: SLU Mobile Autonomous Robotics Toolkit
+title: SMARTRobot
 custom_edit_url: null
 ---
 
@@ -9,6 +9,7 @@ custom_edit_url: null
 
 ## Overview
 
+SLU Mobile Autonomous Robotics Toolkit is an interdisciplinary collaboration between Computer Science and Mechanical Engineering to design educational robotics kits that include pedagogically sound educational material and parts sourced in the USA.
 
 ### Information
 
@@ -17,10 +18,12 @@ custom_edit_url: null
 - **Current Tech Lead:** 
 
 - **Developers:**
-  - Pascal Sikorski 
-  - Ngan (Daisy) Nguyen 
-  - Aedan Bird
-  - Kody Cool
+  - *Software:*
+    - Pascal Sikorski
+    - Ngan (Daisy) Nguyen
+  - *Hardware:*
+    - Aedan Bird
+    - Kody Cool
 - **Start Date:** Aug, 2025
 - **Technologies Used:**
 

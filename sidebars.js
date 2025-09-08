@@ -253,7 +253,23 @@ const sidebars = {
               items: [
                 {
                   type: 'doc',
+                  id: 'projects/baio/about',
+                },
+                {
+                  type: 'doc',
+                  id: 'projects/coredesk/about',
+                },
+                {
+                  type: 'doc',
+                  id: 'projects/cv_zebrafish/about',
+                },
+                {
+                  type: 'doc',
                   id: 'projects/dads/about',
+                },
+                {
+                  type: 'doc',
+                  id: 'projects/deer/about-deer',
                 },
                 {
                   type: 'doc',
@@ -265,11 +281,27 @@ const sidebars = {
                 },
                 {
                   type: 'doc',
+                  id: 'projects/earm_pipeline/about',
+                },
+                {
+                  type: 'doc',
                   id: 'projects/esp/about',
                 },
                 {
                   type: 'doc',
-                  id: 'projects/baio/about',
+                  id: 'projects/gallery_of_glosses/about',
+                },
+                {
+                  type: 'doc',
+                  id: 'projects/gallery_of_glosses/about',
+                },
+                {
+                  type: 'doc',
+                  id: 'projects/health_app/about',
+                },
+                {
+                  type: 'doc',
+                  id: 'projects/hpc_rag_agent_chatbot/about',
                 },
                 {
                   type: 'doc',
@@ -285,7 +317,11 @@ const sidebars = {
                 },
                 {
                   type: 'doc',
-                  id: 'projects/meltshiny/about',
+                  id: 'projects/mechatronics_vr/about',
+                },
+                {
+                  type: 'doc',
+                  id: 'projects/mithraditium/about',
                 },
                 {
                   type: 'doc',
@@ -293,11 +329,22 @@ const sidebars = {
                 },
                 {
                   type: 'doc',
-                  id: 'projects/open_energy_dashboard/about',
+                  id: 'projects/meltshiny/about',
                 },
                 {
                   type: 'doc',
-                  id: 'projects/coredesk/about',
+                  id: 'projects/oss_cicd_automation/about',
+                },
+                {
+                  type: 'doc',
+                  id: 'projects/oss_cybersecurity/about',
+                },
+                { type: 'doc',
+                  id: 'projects/oss_dev_analytics/about',
+                },
+                {
+                  type: 'doc',
+                  id: 'projects/oss_infra_ops/about',
                 },
                 {
                   type: 'doc',
@@ -309,12 +356,11 @@ const sidebars = {
                 },
                 {
                   type: 'doc',
-                  id: 'projects/poa_simulation_surgery/about',
+                  id: 'projects/rerum_geolocator/about',
                 },
                 {
-                  type: 'link',
-                  label: 'TBE support Liraries',
-                  href: 'https://github.com/oss-slu/tbe',
+                  type: 'doc',
+                  id: 'projects/rerum_playground/about',
                 },
                 {
                   type: 'doc',
@@ -326,7 +372,20 @@ const sidebars = {
                 },
                 {
                   type: 'doc',
+                  id: 'projects/smartrobot/about',
+                },
+                {
+                  type: 'doc',
+                  id: 'projects/simulation_surgery/about',
+                },
+                {
+                  type: 'doc',
                   id: 'projects/step_time_biofeedback/about',
+                },
+                {
+                  type: 'link',
+                  label: 'TBE support Liraries',
+                  href: 'https://github.com/oss-slu/tbe',
                 },
                 {
                   type: 'doc',
@@ -344,18 +403,6 @@ const sidebars = {
                   type: 'doc',
                   id: 'projects/wheres_religion_mobile/about',
                 },
-                {
-                  type: 'doc',
-                  id: 'projects/wheres_religion_mobile/about',
-                },
-                {
-                  type: 'doc',
-                  id: 'projects/earm_pipeline/about',
-                },
-                {
-                  type: 'doc',
-                  id: 'projects/hpc_rag_agent_chatbot/about',
-                }
               ]
             },
             {
@@ -372,17 +419,9 @@ const sidebars = {
                   href: 'https://github.com/oss-slu/Congestion-control-emulator',
                 },
                 {
-                  type: 'doc',
-                  id: 'projects/deer/about-deer',
-                },
-                {
                   type: 'link',
                   label: 'Drone Swarm',
                   href: 'https://www.aircraft-lab.org/',
-                },
-                {
-                  type: 'doc',
-                  id: 'projects/gallery_of_glosses/about',
                 },
                 {
                   type: 'doc',
@@ -395,12 +434,8 @@ const sidebars = {
                 },
                 {
                   type: 'doc',
-                  id: 'projects/rerum_geolocator/about',
-                },
-                {
-                  type: 'doc',
-                  id: 'projects/rerum_playground/about',
-                },
+                  id: 'projects/open_energy_dashboard/about',
+                },  
                 {
                   type: 'link',
                   label: 'Santiago',
