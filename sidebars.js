@@ -321,7 +321,7 @@ const sidebars = {
                 },
                 {
                   type: 'doc',
-                  id: 'projects/mithraditium/about',
+                  id: 'projects/mithridatium/about',
                 },
                 {
                   type: 'doc',
