@@ -19,6 +19,9 @@ Our team at OSS is dedicated to enhancing Drone World’s capabilities, includin
 - **Client:** [Dr. Ankit Agrawal](https://www.slu.edu/science-and-engineering/academics/computer-science/faculty-and-staff/ankit-agrawal.php) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/ankyAgrawal)
 - **Current Tech Lead:** Prakhyat Pandit [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/prakhyatpandit)
 - **Developers:**
+    - Ahmed Bektic (capstone) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/ahmedbektic)
+    - Charlie Wells (capstone) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/CharlieWells13)
+    - Henry Barsanti (capstone) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/Hbarsanti)
     - Darweshi Amerson (capstone) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/damerson1)
     - Noah Guzinski (capstone) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/nguzinski) 
     - Valerie Galiano (capstone) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/Hoshi-Okami)
