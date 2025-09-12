@@ -8,18 +8,19 @@ Ready to join our Industry Fellows Program? This page outlines our streamlined a
 
 ## Key Dates for Fall 2025
 
-- **Application Deadline:** July 31, 2025
+- **Application Deadline:** July 31, 2025;<br/> We will evaluate additional applicants on a rolling basis
 - **Notification:** August 5, 2025
 - **Onboarding:** August 18-22, 2025
 - **Training:** August 26 & 28, 2025
-- **First On-site Event:** September 1, 2025
+- **First On-site Event:** September 8, 2025
 
-<!-- ### Spring 2026 Cohort
+### Spring 2026 Cohort
+
 - **Application Deadline:** November 15, 2025
-- **Notification:** December 1, 2025
-- **Onboarding:** January 6-10, 2026
-- **Training:** January 13-17, 2026
-- **First On-site Event:** January 2026 (TBD) -->
+- **Notification:** December 10, 2025
+- **Onboarding:** December 15-19, 2025
+- **Training:** January 6-10, 2026
+- **First On-site Event:** January 12, 2026
 
 ## Application Process
 
