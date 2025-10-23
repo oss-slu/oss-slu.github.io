@@ -93,30 +93,32 @@ const sidebars = {
           label: 'Get involved as an individual',
           items: [
             {
+              type: 'category',
               label: 'Participate',
-              type: 'doc',
-              id: 'connect_with/participants',
-            },
-            {
-              label: 'Contribute',
-              type: 'doc',
-              id: 'connect_with/community'
-            },
-            {
-              label: 'Experience',
-              type: 'doc',
-              id: 'connect_with/experience'
-            },
-            {
-              label: 'Lead',
-              type: 'doc',
-              id: 'connect_with/leadership'
-            },
-            {
-              label: 'Mentor',
-              type: 'doc',
-              id: 'connect_with/mentor'
-            },
+              link: {type: 'doc', id: 'connect_with/participants'},
+              items: [
+                {
+                  label: 'Contribute',
+                  type: 'doc',
+                  id: 'connect_with/community'
+                },
+                {
+                  label: 'Experience',
+                  type: 'doc',
+                  id: 'connect_with/experience'
+                },
+                {
+                  label: 'Lead',
+                  type: 'doc',
+                  id: 'connect_with/leadership'
+                },
+                {
+                  label: 'Mentor',
+                  type: 'doc',
+                  id: 'connect_with/mentor'
+                },
+              ]
+            }
           ]
         },
         {
