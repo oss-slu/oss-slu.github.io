@@ -118,12 +118,8 @@ const sidebars = {
         {
           type: 'category',
           label: 'Partner as an organization',
+          link: {type: 'doc', id: 'connect_with/partners'},
           items: [
-            {
-              label: 'Partner',
-              type: 'doc',
-              id: 'connect_with/partners',
-            },
             {
               label: 'Engage Programs',
               type: 'doc',
@@ -149,11 +145,8 @@ const sidebars = {
         {
           type: 'category',
           label: 'Consult with an expert',
+          link: {type: 'doc', id: 'connect_with/consult'},
           items: [
-          { 
-            type: 'doc',
-            id: 'connect_with/consult',
-          },
           {
             label: 'Research Software Consults',
             type: 'doc',
