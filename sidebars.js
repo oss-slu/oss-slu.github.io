@@ -90,7 +90,7 @@ const sidebars = {
       items: [
         {
           type: 'category',
-          label: 'Get involved as an individual',
+          label: 'Participate as an individual',
           link: {type: 'doc', id: 'connect_with/participants'},
           items: [
             {
