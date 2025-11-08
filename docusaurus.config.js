@@ -187,6 +187,18 @@ const config = {
           {to: '/news', label: 'News', position: 'left'},
           {
             type: 'doc',
+            docId: 'connect_with/community',
+            label: 'Contribute',
+            position: 'right',
+            className: 'button button--secondary button--lg',
+          },
+          {
+            type: 'custom-myAwesomeNavbarItem',
+            position: 'right',
+            className: 'button button--secondary button--lg',
+          },
+          {
+            type: 'doc',
             docId: 'connect_with/donate',
             label: 'Donate',
             position: 'right',
