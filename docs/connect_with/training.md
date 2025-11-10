@@ -68,6 +68,6 @@ Gain foundational skills in research computing while working alongside graduate 
 
 ## Registration and Schedule
 
-Workshops are offered throughout the academic year with both daytime and evening sessions to accommodate different schedules. Registration is free for SLU community members. Check our [news pages](/news) or [Join our Slack workspace](./) for upcoming sessions.
+Workshops are offered throughout the academic year with both daytime and evening sessions to accommodate different schedules. Registration is free for SLU community members. Check our [news pages](/news) or [Join our Slack workspace](https://join.slack.com/t/oswslu/shared_invite/zt-24f0qhjbo-NkSfQ4LOg5wXxBdxP4vzfA) for upcoming sessions.
 
 Contact [oss@slu.edu](mailto:oss@slu.edu) to request specific topics, suggest new workshop ideas, or arrange lab-specific training sessions.
