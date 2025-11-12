@@ -72,9 +72,14 @@ The course provides flexible credit options:
 
 **Apply Now**: Complete the [application form](https://forms.gle/vZuevsy25VGkBEJbA)
 
-**Selection Timeline**: All decisions for Fall 2025 will be made by **August 4th**
+**Selection Timeline**: All decisions for Spring 2026 will be made by **December  10th**
 
-**Pre-Semester Requirement**: All selected students must participate in the Building Open Leadership Toolsets workshop (August 11-19, 2025, 1-5 p.m.) to prepare for the Tech Lead role.
+**Pre-Semester Requirement**: All selected students must participate in the [Building Open Leadership Toolsets workshop](/programs/bolt). The next required training is held daily from 12–5 p.m. across the following two week-long sessions:
+
+* December 15–19, 2025
+* January 5–9, 2026
+
+Each Tech Lead will be matched with a product to support at the start of the workshop and will use the time to prepare fully for the role before the first day of classes.
 
 ## Questions?
 
