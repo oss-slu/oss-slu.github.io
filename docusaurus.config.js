@@ -188,7 +188,7 @@ const config = {
           {
             type: 'custom-SlackButton',
             position: 'right',
-            className: 'navbar__item navbar__link button button--secondary button--lg',
+            className: 'navbar__item navbar__link',
           },
           {
             type: 'doc',
