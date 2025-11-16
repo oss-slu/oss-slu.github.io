@@ -186,6 +186,11 @@ const config = {
           },
           {to: '/news', label: 'News', position: 'left'},
           {
+            type: 'custom-SlackButton',
+            position: 'right',
+            className: 'navbar__item navbar__link',
+          },
+          {
             type: 'doc',
             docId: 'connect_with/donate',
             label: 'Donate',
