@@ -3,5 +3,5 @@ import SlackButton from '@site/src/components/SlackButton';
 
 export default {
   ...ComponentTypes,
-  'custom-myAwesomeNavbarItem': SlackButton,
+  'custom-SlackButton': SlackButton,
 };
