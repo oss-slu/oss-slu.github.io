@@ -186,16 +186,9 @@ const config = {
           },
           {to: '/news', label: 'News', position: 'left'},
           {
-            type: 'doc',
-            docId: 'connect_with/community',
-            label: 'Contribute',
+            type: 'custom-SlackButton',
             position: 'right',
-            className: 'button button--secondary button--lg',
-          },
-          {
-            type: 'custom-myAwesomeNavbarItem',
-            position: 'right',
-            className: 'button button--secondary button--lg',
+            className: 'navbar__item navbar__link button button--secondary button--lg',
           },
           {
             type: 'doc',
