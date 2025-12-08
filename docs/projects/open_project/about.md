@@ -12,14 +12,16 @@ SLU Open Project is a web-based work management tool that enables shared service
 
 - **Source Code:** [https://github.com/oss-slu/open-project/](https://github.com/oss-slu/open-project/) [<img src="/img/git-alt.svg" alt="git" width="25" height="25" />](https://github.com/oss-slu/open-project/)
 - **Client** SLU Center for Additive Manufacturing
-- **Current Tech Lead:** Lakshmi Prasanna Mamillapalli [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/lmamillapalli786) [<img src="/img/linkedin.svg" alt="linkedin" width="25" height="25" />](https://www.linkedin.com/in/lakshmiprasana784/)
+- **Current Tech Lead:** Jack Crane [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/jackcrane) [<img src="/img/linkedin.svg" alt="linkedin" width="25" height="25" />](https://www.linkedin.com/in/jackcranee/)
 - **Developers:**
 
-  - Colin Sepher (capstone) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/colinseper) [<img src="/img/linkedin.svg" alt="linkedin" width="25" height="25" />](https://www.linkedin.com/in/colin-seper/)
+  - Lakshmi Prasanna Mamillapalli (alumni, tech lead) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/lmamillapalli786) [<img src="/img/linkedin.svg" alt="linkedin" width="25" height="25" />](https://www.linkedin.com/in/lakshmiprasana784/)
 
-  - Thomas Macas (capstone) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/ThomasMacas) [<img src="/img/linkedin.svg" alt="linkedin" width="25" height="25" />](https://www.linkedin.com/in/thomas-macas-3730a7251/)
+  - Colin Sepher (capstone) (alumni) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/colinseper) [<img src="/img/linkedin.svg" alt="linkedin" width="25" height="25" />](https://www.linkedin.com/in/colin-seper/)
 
-  - Joi Laws (capstone) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/lawsj) [<img src="/img/linkedin.svg" alt="linkedin" width="25" height="25" />](https://www.linkedin.com/in/joijanaelaws/)
+  - Thomas Macas (capstone) (alumni) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/ThomasMacas) [<img src="/img/linkedin.svg" alt="linkedin" width="25" height="25" />](https://www.linkedin.com/in/thomas-macas-3730a7251/)
+
+  - Joi Laws (capstone) (alumni) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/lawsj) [<img src="/img/linkedin.svg" alt="linkedin" width="25" height="25" />](https://www.linkedin.com/in/joijanaelaws/)
 
 - **Start Date:** Fall, 2025
 - **Adoption Date:** January, 2025
@@ -54,59 +56,59 @@ The stack enables fast, modern UI development, reliable unit/integration testing
 
 #### 🌐 Frontend
 
-- **React with TypeScript**  
+- **React with TypeScript**
   Provides a dynamic, interactive UI with the added benefits of static typing for improved code quality and maintainability.
-- **UI Kit**  
+- **UI Kit**
   Utilizes **Tabler React UI Kit (tabler-react-2)** for a consistent, responsive, and modern design.
 
 ---
 
 #### 🖥 Backend
 
-- **Express.js**  
+- **Express.js**
   A minimalist Node.js framework used for building the API and handling HTTP requests.
-- **File-based Routing**  
+- **File-based Routing**
   Routes are organized in the `/routes` directory with a clean, scalable structure. All API routes are prefixed with `/api/`.
 
 ---
 
 #### 🔐 Authentication
 
-- **JWT-based Authentication**  
+- **JWT-based Authentication**
   Uses JSON Web Tokens to secure API endpoints, with automatic token attachment for secure communication.
-- **SSO Integration**  
+- **SSO Integration**
   Integrates with **SLU’s SAML-based Single Sign-On (SSO)** and **OKTA** for identity and session management.
 
 ---
 
 #### 🔄 Data Fetching
 
-- **Custom `authFetch` Utility**  
+- **Custom `authFetch` Utility**
   A wrapper around the native `fetch` API that automatically attaches JWT tokens to all requests for secure data fetching.
 
 ---
 
 #### ✅ Testing & Quality Assurance
 
-- **Vitest**  
+- **Vitest**
   Used for unit and integration tests to ensure reliability and correctness.
-- **Dockerized PostgreSQL for Testing**  
+- **Dockerized PostgreSQL for Testing**
   Provides an isolated environment for testing, safeguarding production data.
 
 ---
 
 #### 🧩 Modular Structure
 
-- **Component-Based Architecture**  
+- **Component-Based Architecture**
   UI components are organized in `/app/src/components`, grouped by resource (e.g., `User`, `Shop`, `Project`) and follow PascalCase naming conventions.
-- **Custom Hooks**  
+- **Custom Hooks**
   Located in `/app/src/hooks`, used for state management and data fetching, promoting code reuse and separation of concerns.
-- **Scalability & Adaptability**  
+- **Scalability & Adaptability**
   The modular design enables easy customization and future feature development without disrupting existing functionality.
 
 ---
 
 ### ⚙️ Deployment & Environment
 
-- **Docker**  
+- **Docker**
   The backend is containerized using Docker, ensuring consistency across development, testing, and production environments.
