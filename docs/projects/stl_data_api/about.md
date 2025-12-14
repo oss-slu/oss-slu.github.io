@@ -47,6 +47,8 @@ The STL Metro Data API has evolved significantly. The project now follows a **CQ
 
 - **Client:**  *Dr. Sandoval*, Sociology and Anthropology, Saint Louis University
 
+- **IT Architect:**  *Patrick Cuba*, IT Architect, Saint Louis University [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/cubap)
+
 - **Current Tech Lead:**  Prem Kiran Polepalli  [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/premkiran2)
 
 - **Developers:**  
@@ -84,11 +86,11 @@ Users will be able to:
 
 Admin users can manage data sources, announcements, and refresh schedules.
 
-## 🏗 Architecture Diagram
+## Architecture Diagram
 
 ![Software Architecture](architecture.png)
 
-## Development Priorities (Updated)
+## Development Priorities
 
 ### **1. Core System**
 - Finish implementing **CQRS write_service / read_service** separation  
