@@ -17,14 +17,19 @@ The app will categorize the bones into modules such as the bony pelvis, lower li
 
 - **Source Code:** -[https://github.com/oss-slu/DigitalBoneBox](https://github.com/oss-slu/DigitalBoneBox) [<img src="/img/git-alt.svg" alt="git" width="25" height="25" />](https://github.com/oss-slu/DigitalBoneBox)
 - **Client** Dr. Brian Elliot - Program Director - Clinical Health Sciences
-- **Current Tech Lead:** Wendy Onwuagana [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/UcheWendy)  [<img src="/img/linkedin.svg" alt="linkedin" width="25" height="25" />](https://www.linkedin.com/in/wendy-onwuagana-015a771b6/)
+- **Current Tech Lead:** Leandru Martin [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/leandrumartin) [<img src="/img/linkedin.svg" alt="linkedin" width="25" height="25" />](https://www.linkedin.com/in/leandru-martin/)
 
 - **Developers:**
 
-  - Santosh Iragavarapu (alumni, prior tech lead) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/jacksayshi)
-  - Burhan Khan [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/Balijah)  [<img src="/img/linkedin.svg" alt="linkedin" width="25" height="25" />](https://www.linkedin.com/in/burhan~khan/)
-  - Luke Tomlinson [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/tluke900)  [<img src="/img/linkedin.svg" alt="linkedin" width="25" height="25" />](https://www.linkedin.com/in/lucas-tomlinson-2677b32ba/)
-  - Josh Budzynski [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/JoshBudzynski)  [<img src="/img/linkedin.svg" alt="linkedin" width="25" height="25" />](https://www.linkedin.com/in/joshua-budzynski-33b06425a/)
+  - Jennifer Oishee (developer) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/Joishee05)
+  - Brehana Naidu (developer) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/Brehana-Naidu)
+  - Wendy Onwuagana (alum, prior tech lead) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/UcheWendy) [<img src="/img/linkedin.svg" alt="linkedin" width="25" height="25" />](https://www.linkedin.com/in/wendy-onwuagana-015a771b6/)
+  - Sasha Trejo-Arciles (alum) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/strejoarciles)
+  - Taslima Aktar (alum) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/Taktar)
+  - Santosh Iragavarapu (alum, prior tech lead) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/jacksayshi)
+  - Burhan Khan (alum) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/Balijah)  [<img src="/img/linkedin.svg" alt="linkedin" width="25" height="25" />](https://www.linkedin.com/in/burhan~khan/)
+  - Luke Tomlinson (alum) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/tluke900)  [<img src="/img/linkedin.svg" alt="linkedin" width="25" height="25" />](https://www.linkedin.com/in/lucas-tomlinson-2677b32ba/)
+  - Josh Budzynski (alum) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/JoshBudzynski)  [<img src="/img/linkedin.svg" alt="linkedin" width="25" height="25" />](https://www.linkedin.com/in/joshua-budzynski-33b06425a/)
   
 - **Start Date:** Aug, 2024
 - **Technologies Used:**
