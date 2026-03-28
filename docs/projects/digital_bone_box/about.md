@@ -16,12 +16,12 @@ The app will categorize the bones into modules such as the bony pelvis, lower li
 ### Information
 
 - **Source Code:** [https://github.com/oss-slu/DigitalBoneBox](https://github.com/oss-slu/DigitalBoneBox) [<img src="/img/git-alt.svg" alt="git" width="25" height="25" />](https://github.com/oss-slu/DigitalBoneBox)
-- **Client** Dr. Brian Elliot - Program Director - Clinical Health Sciences
+- **Client** Brian Elliot - Program Director, Clinical Health Sciences
 - **Current Tech Lead:** Leandru Martin [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/leandrumartin) [<img src="/img/linkedin.svg" alt="linkedin" width="25" height="25" />](https://www.linkedin.com/in/leandru-martin/)
 
 - **Developers:**
 
-  - Jennifer Oishee (developer) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/Joishee05)
+  - Jennifer Oishee (developer) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/Joishee05) [<img src="/img/linkedin.svg" alt="linkedin" width="25" height="25" />](https://www.linkedin.com/in/jennifer-oishee/)
   - Brehana Naidu (developer) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/Brehana-Naidu)
   - Wendy Onwuagana (alum, prior tech lead) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/UcheWendy) [<img src="/img/linkedin.svg" alt="linkedin" width="25" height="25" />](https://www.linkedin.com/in/wendy-onwuagana-015a771b6/)
   - Sasha Trejo-Arciles (alum) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/strejoarciles)
@@ -54,7 +54,7 @@ Key features of the app will include:
 
 - **Categorized Bone Modules:**
 
-The app will organize bones into six main categories: Boney Pelvis, Lower Limb, Upper Limb, Thorax, Skull, and Vertebrae. 
+The app will organize bones into six main categories: bony pelvis, lower limb, upper limb, thorax, skull, and vertebrae. 
 
 Students can easily navigate through these categories to focus on specific areas of study. 
 
@@ -84,6 +84,9 @@ The web app will be designed with a responsive layout, ensuring optimal viewing 
 
 The app will feature intuitive navigation and a clean, modern design to enhance the user experience and facilitate effective learning. 
 
+- **Study Tools**
+
+The app will feature tools to help students study for their classes, such as quiz and tutor modes.
 
 ## Get Involved
 
