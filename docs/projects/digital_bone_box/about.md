@@ -54,39 +54,39 @@ Key features of the app will include:
 
 - **Categorized Bone Modules:**
 
-The app will organize bones into six main categories: bony pelvis, lower limb, upper limb, thorax, skull, and vertebrae. 
-
-Students can easily navigate through these categories to focus on specific areas of study. 
+  The app will organize bones into six main categories: bony pelvis, lower limb, upper limb, thorax, skull, and vertebrae. 
+  
+  Students can easily navigate through these categories to focus on specific areas of study. 
 
 - **Interactive Bone Exploration:**
 
-Upon selecting a bone category, students will access detailed information about individual bones within that group. 
-
-Each bone module will feature high-quality images from the original PowerPoint, enhanced with interactive elements. 
+  Upon selecting a bone category, students will access detailed information about individual bones within that group. 
+  
+  Each bone module will feature high-quality images from the original PowerPoint, enhanced with interactive elements. 
 
 - **Home and Label Functionality:**
 
-Within each bone module, students will have access to "Home" and "Label" buttons. 
-
-The "Home" button will likely return users to the main view of the selected bone. 
-
-The "Label" button will toggle on/off anatomical labels, allowing students to test their knowledge and learn bone structures. 
+  Within each bone module, students will have access to "Home" and "Label" buttons. 
+  
+  The "Home" button will likely return users to the main view of the selected bone.
+  
+  The "Label" button will toggle on/off anatomical labels, allowing students to test their knowledge and learn bone structures. 
 
 - **Detailed Descriptions:**
 
-The app will incorporate detailed descriptions from the PowerPoint slides, providing students with comprehensive information about each bone and its features. 
+  The app will incorporate detailed descriptions from the PowerPoint slides, providing students with comprehensive information about each bone and its features. 
 
 - **Mobile-Optimized Design:**
 
-The web app will be designed with a responsive layout, ensuring optimal viewing and interaction on various devices, especially mobile phones and tablets. 
+  The web app will be designed with a responsive layout, ensuring optimal viewing and interaction on various devices, especially mobile phones and tablets. 
 
 - **User-Friendly Interface:**
 
-The app will feature intuitive navigation and a clean, modern design to enhance the user experience and facilitate effective learning. 
+  The app will feature intuitive navigation and a clean, modern design to enhance the user experience and facilitate effective learning. 
 
 - **Study Tools**
 
-The app will feature tools to help students study for their classes, such as quiz and tutor modes.
+  The app will feature tools to help students study for their classes, such as quiz and tutor modes.
 
 ## Get Involved
 
