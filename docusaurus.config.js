@@ -71,7 +71,7 @@ const config = {
           src: 'img/navbar-logo-2.png',
           href: 'https://oss-slu.github.io/',
           target: '_self',
-          className: 'oss-navbar-logo', 
+          className: 'oss-navbar-logo',
         },
         items: [
           {
@@ -133,7 +133,7 @@ const config = {
                 type: 'doc',
                 docId: 'connect_with/consult'
               },
-            ]            
+            ]
           },
           {
             type: 'dropdown',
@@ -177,7 +177,7 @@ const config = {
                 type: 'doc',
                 docId: 'people/contributors',
               },
-              { 
+              {
                 label: 'Affiliations',
                 type: 'doc',
                 docId: 'people/affiliations'
@@ -243,7 +243,7 @@ const config = {
                 to: '/connect_with/partners',
               },
               {
-                label: 'Consult wiht OSS',
+                label: 'Consult with OSS',
                 to: '/connect_with/consulting',
               },
               {
