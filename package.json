@@ -14,8 +14,8 @@
     "write-heading-ids": "docusaurus write-heading-ids"
   },
   "dependencies": {
-    "@docusaurus/core": "3.7.0",
-    "@docusaurus/preset-classic": "3.7.0",
+    "@docusaurus/core": "3.10.0",
+    "@docusaurus/preset-classic": "3.10.0",
     "@mdx-js/loader": "^3.1.0",
     "@mdx-js/react": "3.0.1",
     "@next/mdx": "^15.0.3",
@@ -29,8 +29,8 @@
     "react-responsive-carousel": "^3.2.23"
   },
   "devDependencies": {
-    "@docusaurus/module-type-aliases": "3.7.0",
-    "@docusaurus/types": "3.7.0"
+    "@docusaurus/module-type-aliases": "3.10.0",
+    "@docusaurus/types": "3.10.0"
   },
   "browserslist": {
     "production": [
