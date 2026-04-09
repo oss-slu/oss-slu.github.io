@@ -13,24 +13,24 @@ These vanilla default and internally useful interfaces for the TPEN ecosystem th
 
 ### Information
 
-- **Source Code:** [https://github.com/oss-slu/TPEN-interfaces](https://github.com/oss-slu/TPEN-interfaces) [<img src="/img/git-alt.svg" alt="git" width="25" height="25" />](https://github.com/oss-slu/dads)
-- **Client** Dr Artia Larson 
+- **Source Code:** [https://github.com/oss-slu/TPEN-interfaces](https://github.com/oss-slu/TPEN-interfaces) [<img src="/img/git-alt.svg" alt="git" width="25" height="25" />](https://github.com/oss-slu/TPEN-interfaces)
+- **Client** Dr Atria Larson
 - **Current Tech Lead:** Sowmya Mutya [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/MutyaSowmya123)  [<img src="/img/linkedin.svg" alt="linkedin" width="25" height="25" />](https://www.linkedin.com/in/sowmya-mutya-7576211a0/)
 - **Developers:**
-  - Patrick Cuba (SLU Research Computing Group) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/cubap) 
-  - Bryan Haberberger (SLU Research Computing Group) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/thehabes) 
-  - Victor Onoja (Web Developer) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/jsvoo) 
+  - Patrick Cuba (SLU Research Computing Group) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/cubap)
+  - Bryan Haberberger (SLU Research Computing Group) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/thehabes)
+  - Victor Onoja (Web Developer) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/jsvoo)
   - Camille Daugherty (Capstone) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/camilledaugherty)
   - Matthew Clendenning (Capstone) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/Matthew-Clendenning)
   - Sarah Fida Hussain (Capstone) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/sarah-fidahussain-SLU)
-- **Start Date:** Jan, 2023 
+- **Start Date:** Jan, 2023
 - **Adoption Date:** Aug, 2024
-- **Technologies Used:** 
+- **Technologies Used:**
   - Tech Stack- Web pages accessing TPEN API services
-  - Key Languages- HTML, CSS, JavaScript 
+  - Key Languages- HTML, CSS, JavaScript
 
 - **Type:** Web application
-- **License:** Primary Developers: Bryan Haberberger and Patrick Cuba © 2023 Research Computing Group at Saint Louis University
+- **License:** [MIT](https://opensource.org/license/mit)
 
 ### User Guide
 
@@ -40,7 +40,7 @@ These vanilla default and internally useful interfaces for the TPEN ecosystem th
 
     - `index.html`: The default interface to launch,
     - Supporting files: `*.js`, `*.css`, `*.html`, etc.,
-    - Configuration files: `manifest.yml` or `manifest.json` 
+    - Configuration files: `manifest.yml` or `manifest.json`
 
 ## Technical Information
 

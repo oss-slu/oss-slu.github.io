@@ -21,7 +21,7 @@ The StepTB is a project focused on developing a tool that leverages force signal
   - Jack McPhillips (capstone) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/JackMcPhillips1543)
   - Noor Issa (capstone) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/Nissa9902)
   - Jacob Winter (capstone) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/Jaywin2099)
-   - Collin Seper (alumini) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/colinseper)
+  - Collin Seper (alumni) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/colinseper)
 
 
 - **Start Date:** August 2024

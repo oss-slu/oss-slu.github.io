@@ -4,86 +4,41 @@ title: "OSS Dev Analytics"
 custom_edit_url: null
 ---
 
-<!-- A header image is optional; if used should be no greater than 200x600 -->
-<!--![Header Caption](header.png) -->
-
 ## Overview
 
-OSS Dev Analytics project provides developer analytics and general data analytics support to open source projects developed at SLU.
+OSS Dev Analytics provides developer analytics and data-driven insights for open source projects developed at SLU. The team has launched a set of team-centric dashboards that transform GitHub activity into actionable metrics — including Time to Merge, Lead Time, and Velocity — with a dynamic health scoring system and sprint-based filtering.
 
-<!-- Screenshot -->
-<!-- Clear description; 1-2 paragraphs -->
-<!-- Demo/prview video -->
+### Information
 
-### Basic Information
-
-- **Status:** New (greenfield this semester) <!-- Choose applicable: [Proposed (proposed by client), New (greenfield this semester), Active (and ongoing), External (ongoing third-party), -->
-              <!-- Support (limited maintenance), Handoff (back to client), Archived (no further updates will be made)] -->
-- **Platforms:** <!-- Choose applicable: [Mobile, Desktop, Web, API, CLI, Library] -->
-- **Website:** [URL](URL)
-- **Source Code:** [https://github.com/oss-slu/oss_dev_analytics](https://github.com/oss-slu/oss_dev_analytics [<img src="/img/git-alt.svg" alt="git" width="25" height="25" />](https://github.com/oss-slu/oss_dev_analytics)
-<!-- - **Download/Deployment:** 
-  - [URL](URL)
-  - [URL](URL)
-  - [URL](URL) -->
-
-### User Guide
-
-<!-- Clear description; 1-2 paragraphs -->
-<!-- Clear description of who should use this and how -->
-<!-- Getting started steps or quick-start guide -->
-
-**Quick Start:**
-1. [Installation/Setup steps]
-2. [Basic usage]
-3. [Common workflows]
-
-<!-- Link to comprehensive documentation -->
-**Full User Guide:** [Link to detailed docs]
-
-## Core Dev Team:
-
-- **Client** Open Source with SLU
-<!-- - **Staff Developer:** Staff Developer Name [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/username) [<img src="/img/linkedin.svg" alt="linkedin" width="25" height="25" />](https://www.linkedin.com/in/username/) -->
-- **Current Tech Lead:** Kasi Viswanath Reddy Chilakala [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/viswanathreddy1017)
-<!-- [<img src="/img/linkedin.svg" alt="linkedin" width="25" height="25" />](https://www.linkedin.com/in/username/) [<img src="/img/portfolio.svg" alt="portfolio" width="25" height="25" />](Portfolio URL/) -->
+- **Source Code:** [https://github.com/oss-slu/oss_dev_analytics](https://github.com/oss-slu/oss_dev_analytics) [<img src="/img/git-alt.svg" alt="git" width="25" height="25" />](https://github.com/oss-slu/oss_dev_analytics)
+- **Status:** Active (and ongoing)
+- **Platforms:** Internal Developer Services
+- **Client:** Open Source with SLU
+- **Track:** Internal Developer Services
+- **Current Tech Lead:** Hazel Caballero [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/hcaballero2)
 - **Developers:**
-  
-  <!-- - Name (project staff) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/rcAsironman)
-  - One Dev (capstone) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/username)
-  - Two Dev (capstone) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/husernameaneenalsewari)
-  - Green Dev (alumni) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/Ebusernameruns4)
-  - Blue Dev (alumni, prior tech lead) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/SiriChanusernamedanaGarimella) [<img src="/img/linkedin.svg" alt="linkedin" width="25" height="25" />](https://www.linkedin.com/in/username/) -->
- 
-## Technical Information
-
-### Additional Information
-
-- **Start Date:** <!-- Date -->
-- **Adoption Date:** <!-- Date -->
+  - Grace Gondela (capstone) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/ggondela1419)
+  - Kiara Mathews (capstone) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/kiaramathews)
+  - Dhyana Patel (capstone) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/dhyana6466)
+  - Kasi Viswanath Chilakala (alumni, prior tech lead) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/viswanathreddy1017)
+  - Joli Muller (alumni) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/hollowtree11)
+- **Start Date:** August 2025
 - **Technologies Used:**
-  - Tech
-  - Stack
-  - Primary
-  - Tech
-  - Only
-- **License:** [license short name](https://opensource.org/license/...)
-- **Code of Conduct:** [CODE_OF_CONDUCT.md](URL)
-- **Security:** [SECURITY.md](URL)
+  - React 19, Vite, Tailwind CSS (frontend)
+  - Chart.js, Recharts (data visualization)
+  - Python, Pandas, PyGithub (backend data processing)
+  - Vitest (testing)
+- **License:** Not yet established
 
-### Technical Overview
-
-<!-- ![Software Architecture](architecture.png) -->
-<!-- Clear description; 1-2 paragraphs -->
+## Technical Information
 
 ### Development Priorities
 
-- List of current priorities
-- Should be able to succinctly identify what is expected over the current semester
-- Hint at what is coming for the next semester
-- Provide at least one extra priority for external contributors
+- Expand and refine team-centric dashboards with additional metrics
+- Improve health scoring system and sprint-based filtering
+- Enhance data collection pipelines for GitHub activity
+- Build onboarding documentation and contributor guides
 
 ## Get Involved
 
-<!-- Clear description; 1-2 paragraphs -->
-<!-- Link to CONTRIBUTING.md -->
+If you would like to contribute to this project, please visit our [GitHub page](https://github.com/oss-slu/oss_dev_analytics) to create your own issues or pull requests.

@@ -17,73 +17,40 @@ Mithridatium is a set of tools that translates research on detecting and prevent
 
 ### Basic Information
 
-- **Status:** New (greenfield this semester) <!-- Choose applicable: [Proposed (proposed by client), New (greenfield this semester), Active (and ongoing), External (ongoing third-party), -->
-              <!-- Support (limited maintenance), Handoff (back to client), Archived (no further updates will be made)] -->
-- **Platforms:** <!-- Choose applicable: [Mobile, Desktop, Web, API, CLI, Library] -->
-- **Website:** [URL](URL)
+- **Status:** Active (and ongoing)
+- **Platforms:** Library / CLI
 - **Source Code:** [https://github.com/oss-slu/mithridatium](https://github.com/oss-slu/mithridatium) [<img src="/img/git-alt.svg" alt="git" width="25" height="25" />](https://github.com/oss-slu/mithridatium)
-<!-- - **Download/Deployment:** 
-  - [URL](URL)
-  - [URL](URL)
-  - [URL](URL) -->
-
-### User Guide
-
-<!-- Clear description; 1-2 paragraphs -->
-<!-- Clear description of who should use this and how -->
-<!-- Getting started steps or quick-start guide -->
-
-**Quick Start:**
-1. [Installation/Setup steps]
-2. [Basic usage]
-3. [Common workflows]
-
-<!-- Link to comprehensive documentation -->
-**Full User Guide:** [Link to detailed docs]
 
 ## Core Dev Team
 
 - **Client** Dr. Reza Tourani
+- **Track:** Client-driven Product
 <!-- - **Staff Developer:** Staff Developer Name [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/username) [<img src="/img/linkedin.svg" alt="linkedin" width="25" height="25" />](https://www.linkedin.com/in/username/) -->
 - **Current Tech Lead:** Pelumi Oluwategbe [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/pelumitegbe)
-<!-- [<img src="/img/linkedin.svg" alt="linkedin" width="25" height="25" />](https://www.linkedin.com/in/username/) [<img src="/img/portfolio.svg" alt="portfolio" width="25" height="25" />](Portfolio URL/) -->
 - **Developers:**
-  
-  <!-- - Name (project staff) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/rcAsironman)
-  - One Dev (capstone) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/username)
-  - Two Dev (capstone) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/husernameaneenalsewari)
-  - Green Dev (alumni) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/Ebusernameruns4)
-  - Blue Dev (alumni, prior tech lead) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/SiriChanusernamedanaGarimella) [<img src="/img/linkedin.svg" alt="linkedin" width="25" height="25" />](https://www.linkedin.com/in/username/) -->
+
+  - Payton Guffey [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/PGuffey)
+  - Gustavo Lucca [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/GustavoLucca)
+  - Will Phoenix [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/williamphoenix)
  
 ## Technical Information
 
 ### Additional Information
 
-- **Start Date:** <!-- Date -->
-- **Adoption Date:** <!-- Date -->
+- **Start Date:** August 2025
 - **Technologies Used:**
-  - Tech
-  - Stack
-  - Primary
-  - Tech
-  - Only
-- **License:** [license short name](https://opensource.org/license/...)
-- **Code of Conduct:** [CODE_OF_CONDUCT.md](URL)
-- **Security:** [SECURITY.md](URL)
-
-### Technical Overview
-
-<!-- ![Software Architecture](architecture.png) -->
-<!-- Clear description; 1-2 paragraphs -->
+  - Python
+  - AI/ML (poisoning attack detection and prevention)
+- **License:** [MIT](https://opensource.org/license/mit)
+- **Code of Conduct:** [CODE_OF_CONDUCT.md](https://github.com/oss-slu/mithridatium/blob/main/CODE_OF_CONDUCT.md)
 
 ### Development Priorities
 
-- List of current priorities
-- Should be able to succinctly identify what is expected over the current semester
-- Hint at what is coming for the next semester
-- Provide at least one extra priority for external contributors
+- Research and implement AI poisoning attack detection techniques
+- Translate academic research into practical, reusable software tools
+- Build testing frameworks for evaluating model robustness against poisoning
+- Document detection and prevention best practices
 
 ## Get Involved
 
-<!-- Clear description; 1-2 paragraphs -->
-<!-- Link to CONTRIBUTING.md -->
+If you would like to contribute to this project, please visit our [GitHub page](https://github.com/oss-slu/mithridatium) to create your own issues or pull requests.

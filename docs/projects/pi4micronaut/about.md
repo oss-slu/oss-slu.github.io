@@ -16,15 +16,18 @@ The existence of Pi4Micronaut is justified by the need for a robust, scalable, a
 
 - **Source Code:** [https://github.com/oss-slu/Pi4Micronaut/](https://github.com/oss-slu/Pi4Micronaut/) [<img src="/img/git-alt.svg" alt="git" width="25" height="25" />](https://github.com/oss-slu/Pi4Micronaut/)
 - **Client** Jeff Brown - Unity Foundation
-- **Current Tech Lead:** Leandru Martin [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/leandrumartin)
+- **Track:** Client-driven Product
+- **Current Tech Lead:** *No active team*
 - **Developers:**
+  - Leandru Martin (alumni, prior tech lead) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/leandrumartin)
+  - Joey Heitzler (alumni) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/j-heitz)
+  - Thomas Pautler (alumni) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/ThomasPautler952194)
   - Yenkatarajalaxmimanohar (alumni, prior tech lead) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/yrlmanoharreddy)
   - Ava Enke (alumni) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/avaenk)
   - Seyun Jeong (alumni) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/Ed0827)
   - Ralph Tan (alumni) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/RalphTan37)
   - Ruthvik Mannem (alumni, prior tech lead) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/ruthvikm)
-   - Leandru Martin (alumini) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/leandrumartin)
-   - Thomas Macas (alumini) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/tmacas)
+  - Thomas Macas (alumni) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/tmacas)
   - Adrian Swindle (alumni) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/SwindleA)
   - Alex Delgado (alumni) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/adelgadoj3)
   - Joe Folen (alumni) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/joefol)

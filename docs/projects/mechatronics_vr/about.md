@@ -26,59 +26,33 @@ Key Features
 
 ### Basic Information
 
-- **Status:** New (greenfield this semester) <!-- Choose applicable: [Proposed (proposed by client), New (greenfield this semester), Active (and ongoing), External (ongoing third-party), -->
-              <!-- Support (limited maintenance), Handoff (back to client), Archived (no further updates will be made)] -->
-- **Platforms:** <!-- Choose applicable: [Mobile, Desktop, Web, API, CLI, Library] -->
-- **Website:** [URL](URL)
+- **Status:** Active (and ongoing)
+- **Platforms:** Desktop (VR)
 - **Source Code:** [https://github.com/oss-slu/mechatronics-vr](https://github.com/oss-slu/mechatronics-vr) [<img src="/img/git-alt.svg" alt="git" width="25" height="25" />](https://github.com/oss-slu/mechatronics-vr)
-<!-- - **Download/Deployment:** 
-  - [URL](URL)
-  - [URL](URL)
-  - [URL](URL) -->
-
-### User Guide
-
-<!-- Clear description; 1-2 paragraphs -->
-<!-- Clear description of who should use this and how -->
-<!-- Getting started steps or quick-start guide -->
-
-**Quick Start:**
-1. [Installation/Setup steps]
-2. [Basic usage]
-3. [Common workflows]
-
-<!-- Link to comprehensive documentation -->
-**Full User Guide:** [Link to detailed docs]
 
 ## Core Dev Team:
 
 - **Client** Dr. Madi Babaiasl
+- **Track:** Client-driven Product
 <!-- - **Staff Developer:** Staff Developer Name [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/username) [<img src="/img/linkedin.svg" alt="linkedin" width="25" height="25" />](https://www.linkedin.com/in/username/) -->
-- **Current Tech Lead:** Julian Shniter [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/smallrussian)
-<!-- [<img src="/img/linkedin.svg" alt="linkedin" width="25" height="25" />](https://www.linkedin.com/in/username/) [<img src="/img/portfolio.svg" alt="portfolio" width="25" height="25" />](Portfolio URL/) -->
+- **Current Tech Lead:** Anthony Russo [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/AanthonyRusso)
 - **Developers:**
-  
-  <!-- - Name (project staff) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/rcAsironman)
-  - One Dev (capstone) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/username)
-  - Two Dev (capstone) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/husernameaneenalsewari)
-  - Green Dev (alumni) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/Ebusernameruns4)
-  - Blue Dev (alumni, prior tech lead) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/SiriChanusernamedanaGarimella) [<img src="/img/linkedin.svg" alt="linkedin" width="25" height="25" />](https://www.linkedin.com/in/username/) -->
+
+  - Bryce Hayes (capstone) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/bhayes04)
+  - Matt Murawski (capstone) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/MatthewMurawski)
+  - Julian Shniter (alumni, prior tech lead) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/smallrussian)
  
 ## Technical Information
 
 ### Additional Information
 
-- **Start Date:** <!-- Date -->
-- **Adoption Date:** <!-- Date -->
+- **Start Date:** August 2025
 - **Technologies Used:**
-  - Tech
-  - Stack
-  - Primary
-  - Tech
-  - Only
-- **License:** [license short name](https://opensource.org/license/...)
-- **Code of Conduct:** [CODE_OF_CONDUCT.md](URL)
-- **Security:** [SECURITY.md](URL)
+  - Unreal Engine 5
+  - C++
+  - VR (Meta Quest / SteamVR)
+- **License:** Not yet established
+- **Security:** [SECURITY.md](https://github.com/oss-slu/mechatronics-vr/blob/main/SECURITY.md)
 
 ### Technical Overview
 
@@ -87,12 +61,11 @@ Key Features
 
 ### Development Priorities
 
-- List of current priorities
-- Should be able to succinctly identify what is expected over the current semester
-- Hint at what is coming for the next semester
-- Provide at least one extra priority for external contributors
+- Develop VR assembly training scenarios with realistic part interaction
+- Implement snap-based assembly with predefined attachment points
+- Build guided lesson system with step-by-step progress tracking
+- Add visual feedback (ghost previews, highlighting) for assembly guidance
 
 ## Get Involved
 
-<!-- Clear description; 1-2 paragraphs -->
-<!-- Link to CONTRIBUTING.md -->
+If you would like to contribute to this project, please visit our [GitHub page](https://github.com/oss-slu/mechatronics-vr) to create your own issues or pull requests.

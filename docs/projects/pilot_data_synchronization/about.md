@@ -12,14 +12,17 @@ The Flight Simulator Data Synchronization Project is a research initiative aimed
 This interdisciplinary project involves collaboration between Aeronautics students, who will act as system analysts, and Computer Science students, who will serve as software developers. The students will gain hands-on experience in both software design and validation. The project addresses a significant challenge identified in previous research at the Department of Aviation Science, where post-hoc synchronization of flight simulator data with biometric signals was time-consuming and inefficient. By establishing a Transmission Control Protocol (TCP) connection and leveraging advanced software tools, this project seeks to create a stand-alone multimodal physiological test battery for primary flight training. This will enable the aviation training community to better understand and improve pilot training effectiveness by visualizing and measuring the synergy between task management, attention, and workload in real-time.
 
 ### Information
-- **Source Code:**  https://github.com/oss-slu/PilotDataSynchronization [<img src="/img/git-alt.svg" alt="git" width="25" height="25" />](https://github.com/oss-slu/PilotDataSynchronization)
+- **Source Code:** [https://github.com/oss-slu/PilotDataSynchronization](https://github.com/oss-slu/PilotDataSynchronization) [<img src="/img/git-alt.svg" alt="git" width="25" height="25" />](https://github.com/oss-slu/PilotDataSynchronization)
 - **Client** Gajapriya Tamilselvan - Aviation Science
-- **Current Tech Lead:** Vamsi Brahmadevi [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/vbrahmadevi)
+- **Track:** Client-driven Product
+- **Current Tech Lead:** Vamsi Bramhadevi [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/vbramhadevi)
 - **Developers:**
+  - Nyla Hughes (capstone) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/Nyla-Hughes)
+  - Jacob Thomas (capstone) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/jthomas39)
   - Devi Priya Kolla (alumni, prior tech lead) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/DeviPriya-Kolla)
-  - Ali Elnour (alumni) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/aelnourSLU) 
+  - Ali Elnour (alumni) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/aelnourSLU)
   - Carly Hoover (alumni) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/carlyrhoover)
-  - Henry Meiners (alumni) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/hrmeiners) 
+  - Henry Meiners (alumni) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/hrmeiners)
   - Harshita Thota (alumni, prior tech lead) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/harshitha-thota)
 
 - **Start Date:** August 2024

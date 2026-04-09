@@ -12,9 +12,13 @@ CoreDesk is a web-based work management tool that enables shared service provide
 
 - **Source Code:** [https://github.com/oss-slu/core_desk/](https://github.com/oss-slu/core_desk/) [<img src="/img/git-alt.svg" alt="git" width="25" height="25" />](https://github.com/oss-slu/core_desk/)
 - **Client** SLU Center for Additive Manufacturing
+- **Track:** Client-driven Product
 - **Current Tech Lead:** Jack Crane [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/jackcrane) [<img src="/img/linkedin.svg" alt="linkedin" width="25" height="25" />](https://www.linkedin.com/in/jackcranee/)
 - **Developers:**
 
+  - Yousuf Muhammud (capstone) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/Muhammudy)
+  - Bella Ott (capstone) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/bellao314)
+  - Paul Ongkiko (alumni) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/paulongkiko)
   - Lakshmi Prasanna Mamillapalli (alumni, tech lead) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/lmamillapalli786) [<img src="/img/linkedin.svg" alt="linkedin" width="25" height="25" />](https://www.linkedin.com/in/lakshmiprasana784/)
 
   - Colin Sepher (capstone) (alumni) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/colinseper) [<img src="/img/linkedin.svg" alt="linkedin" width="25" height="25" />](https://www.linkedin.com/in/colin-seper/)

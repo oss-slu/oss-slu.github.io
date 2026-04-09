@@ -44,16 +44,18 @@ TheHealthApp allows patients to securely log in, explore and choose health featu
 ## Core Dev Team:
 
 - **Client** Dr. Fardeen Dadan, Dr. Ashok Kumar Chidi
+- **Track:** Client-driven Product
 <!-- - **Staff Developer:** Staff Developer Name [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/username) [<img src="/img/linkedin.svg" alt="linkedin" width="25" height="25" />](https://www.linkedin.com/in/username/) -->
-- **Current Tech Lead:** Munnazah Rakhangi [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/Munazzah-Rakhangi)
-<!-- [<img src="/img/linkedin.svg" alt="linkedin" width="25" height="25" />](https://www.linkedin.com/in/username/) [<img src="/img/portfolio.svg" alt="portfolio" width="25" height="25" />](Portfolio URL/) -->
+- **Current Tech Lead:** Sameer Maayiz Sirajudeen [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/Smagen12)
 - **Developers:**
-  
-  - Sameer Maayiz (volunteer)<!-- [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/username) -->
-  - Mohamed Naasir (volunteer)<!--  [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/username) -->
-  - Mujaina Begum (volunteer)<!--  [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/username) -->
-  - Mohammed Fazil (volunteer)<!--  [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/username) -->
-  - Harish (volunteer)<!--  [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/username) [<img src="/img/linkedin.svg" alt="linkedin" width="25" height="25" />](https://www.linkedin.com/in/username/) -->
+
+  - Hashir Hashir (capstone) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/mhashir03)
+  - Zukai Sagan (capstone) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/ZukaiSagan)
+  - Munazzah Rizwan Rakhangi (alumni, prior tech lead) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/Munazzah-Rakhangi)
+  - Mohamed Naasir (volunteer)
+  - Mujaina Begum (volunteer)
+  - Mohammed Fazil (volunteer)
+  - Harish (volunteer)
 
 ## Technical Information
 
@@ -67,9 +69,7 @@ TheHealthApp allows patients to securely log in, explore and choose health featu
   – PostgreSQL
   – Tailwind CSS
   – Docker (subject to change)
-- **License:** [TBD](https://opensource.org/license/)
-<!-- - **Code of Conduct:** [CODE_OF_CONDUCT.md](URL) -->
-<!-- - **Security:** [SECURITY.md](URL) -->
+- **License:** Not yet established
 
 ### Technical Overview
 

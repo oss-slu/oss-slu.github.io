@@ -15,10 +15,16 @@ By combining advanced 3D medical imaging, segmentation algorithms, and simulatio
 - **Source Code:** [https://github.com/oss-slu/pao_surgery_simulator](https://github.com/oss-slu/pao_surgery_simulator) [<img src="/img/git-alt.svg" alt="git" width="25" height="25" />](https://github.com/oss-slu/pao_surgery_simulator)
 
 - **Client:** Vinieth Bijanki
+- **Track:** Client-driven Product
+- **License:** [MIT](https://opensource.org/license/mit)
 
-- **Current Tech Lead:** Sri Ram Duvvuri [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/sriram1302) 
+- **Current Tech Lead:** Sri Ram Duvvuri [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/sriram1302)
 
 - **Developers:**
+  - Rawan Alhachami (capstone) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/rawana7912)
+  - Sahana Gujja (capstone) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/sahanagujja)
+  - Zhihui Wu (capstone) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/Zhihuiwu646)
+  - Justin Duong (alumni) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/justinduong5)
   
 
 ### User Guide

@@ -15,15 +15,16 @@ Our team at OSS is dedicated to enhancing Drone World’s capabilities, includin
 
 ### Information
 
-- **Source Code:**  https://github.com/oss-slu/DroneWorld [<img src="/img/git-alt.svg" alt="git" width="25" height="25" />](https://github.com/oss-slu/DroneWorld)
+- **Source Code:** [https://github.com/oss-slu/DroneWorld](https://github.com/oss-slu/DroneWorld) [<img src="/img/git-alt.svg" alt="git" width="25" height="25" />](https://github.com/oss-slu/DroneWorld)
 - **Client:** [Dr. Ankit Agrawal](https://www.slu.edu/science-and-engineering/academics/computer-science/faculty-and-staff/ankit-agrawal.php) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/ankyAgrawal)
-- **Current Tech Lead:** Prakhyat Pandit [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/prakhyatpandit)
+- **Track:** Client-driven Product
+- **Current Tech Lead:** Charlie Wells [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/CharlieWells13)
 - **Developers:**
-    - Ahmed Bektic (capstone) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/ahmedbektic)
-    - Charlie Wells (capstone) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/CharlieWells13)
     - Henry Barsanti (capstone) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/Hbarsanti)
+    - Ahmed Bektic (capstone) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/ahmedbektic)
+    - Prakhyat Pandit (alumni, prior tech lead) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/prakhyatpandit)
     - Darweshi Amerson (capstone) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/damerson1)
-    - Noah Guzinski (capstone) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/nguzinski) 
+    - Noah Guzinski (capstone) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/nguzinski)
     - Valerie Galiano (capstone) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/Hoshi-Okami)
     - Mohammad Al-Hanoosh (prior tech lead) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/mohamdlog)
     - Yashaswini Shivalingaiah (alumni, prior tech lead) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/yashaswini-slu)

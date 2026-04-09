@@ -14,9 +14,13 @@ Created mainly for SLU researchers, this software is used for collecting and ana
 
 - **Source Code:** [https://github.com/oss-slu/Mouser](https://github.com/oss-slu/Mouser) [<img src="/img/git-alt.svg" alt="git" width="25" height="25" />](https://github.com/oss-slu/Mouser)
 - **Client:** Dr. Karoly Toth
+- **Track:** Client-driven Product
 - **Current Tech Lead:** Jahnavi Darisetti [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/Jahnavidarisetti)
 - **Developers:**
- - Jack Belyeu(alumni, prior tech lead) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/jackbelyeu)
+  - Ansel Panicker (capstone) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/PanickerAnsel)
+  - Mathieu Sze (capstone) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/Mathieu25900)
+  - Abhi Malladi (alumni) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/amalladi017)
+  - Jack Belyeu (alumni, prior tech lead) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/jackbelyeu)
   - Eric Bruns (alumni) [<img src="/img/github.svg" alt="github" width="25" height="25" />](http://github.com/Ebruns4)
   - Ibro Kardasevic (alumni) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/ikardasevic)
   - Nicholas Newbauer (alumni) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/NNewbauer)
