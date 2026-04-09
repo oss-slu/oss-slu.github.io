@@ -12,8 +12,14 @@ MaterialDerailleur shifts donations into drive for BWorks. It streamlines the pr
 
 - **Source Code:** [https://github.com/oss-slu/material-derailleur](https://github.com/oss-slu/material-derailleur) [<img src="/img/git-alt.svg" alt="git" width="25" height="25" />](https://github.com/oss-slu/material-derailleur)
 - **Client:** BWorks Organization
-- **Current Tech Lead:** - Vinay Billa [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/vinay-billa-slu) [<img src="/img/linkedin.svg" alt="linkedin" width="25" height="25" />](https://www.linkedin.com/in/vinay-billa-612757170/) [<img src="/img/portfolio.svg" alt="portfolio" width="25" height="25" />](https://billavinay.netlify.app/)
+- **Track:** Client-driven Product
+- **Current Tech Lead:** Mathew Shereni [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/MATHEW-SHERENI)
 - **Developers:**
+  - Cole Patrick (capstone) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/colepatrick)
+  - Tori Willis (capstone) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/twillis8)
+  - Vinay Billa (alumni, prior tech lead) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/vinay-billa-slu) [<img src="/img/linkedin.svg" alt="linkedin" width="25" height="25" />](https://www.linkedin.com/in/vinay-billa-612757170/) [<img src="/img/portfolio.svg" alt="portfolio" width="25" height="25" />](https://billavinay.netlify.app/)
+  - Gayatri Jawharkar (alumni) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/Gayatrinj)
+  - Sarvesh Sonawane (alumni) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/Sarvesh-7777)
   - Lalith Adithya Reddy Avuthu (alumni, previous tech lead) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/alar12)
   - Sam Kann (capstone)[<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/dracpak)
   - Josheph Hansen (capstone) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/truffer11)
@@ -60,4 +66,4 @@ After logging in, users are redirected to the homepage where they are presented 
 
 ## Get Involved
 
-If you would like to contribute to this project, please visit our [GitHub page](https://github.com/oss-slu/material-donor-mutual-assist) to create your own issues or pull requests.
+If you would like to contribute to this project, please visit our [GitHub page](https://github.com/oss-slu/material-derailleur) to create your own issues or pull requests.

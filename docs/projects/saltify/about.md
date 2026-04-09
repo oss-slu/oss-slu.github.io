@@ -16,13 +16,17 @@ _Note: careful review by a knowledgeable speech-language pathologist is required
 - **Clients:**
   - [Dr. Sara Steele](https://www.slu.edu/doisy/faculty/steele-sara.php)
   - [Dr. Elizabeth Roepke](https://www.slu.edu/doisy/faculty/roepke-elizabeth.php)
-- **Current Tech Lead:**  Savikhya Kadiyala [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/Savikhya)
+- **Track:** Client-driven Product
+- **Current Tech Lead:** Savikhya Kadiyala [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/Savikhya)
 - **Developers:**
+  - Breona Saffouri (capstone) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/bsaffouri)
+  - Risha Bhosekar (alumni) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/rbhosekar)
+  - Leah Bragg (alumni) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/LeahBragg)
+  - Megh Hareshkumar Patel (alumni) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/MeghPatel6)
   - Sagar Rajesh Badgujar (alumni, prior tech lead) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/sagar3181)
   - Abhi Malladi (alumni) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/amalladi017)
   - Krishna Pothuganti (alumni) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/kpothuganti)
   - Manali Gaikwad (alumni) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/mgaikwad129)
-   - Risha Bosekar (alumni) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/rbhosekar)
   - Logan Wyas (alumni, prior tech lead) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/loganwyas)
    - Emra Meduseljac (alumni) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/emrameduseljac)
   - Samuel Sheldon (alumni) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/samfred)

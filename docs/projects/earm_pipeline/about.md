@@ -4,6 +4,10 @@ title: eARM HPC Workflow Deployment
 custom_edit_url: null
 ---
 
+:::info Project Merged
+The eARM Pipeline has been merged into the **HPC Projects** umbrella. Please visit the [HPC Projects page](/projects/hpc_projects/about) for the latest information.
+:::
+
 ## Overview
 
 Standing up the **eARM molecular modeling workflow** on SLU’s HPC cluster.  
@@ -13,7 +17,7 @@ It chains together multiple molecular modeling and simulation tools, all coordin
 
 ## Information
 
-- **Source Code:** -[https://github.com/oss-slu/earm_pipeline](https://github.com/oss-slu/earm_pipeline) [<img src="/img/git-alt.svg" alt="git" width="25" height="25" />](https://github.com/oss-slu/earm_pipeline)
+- **Source Code:** [https://github.com/oss-slu/earm_pipeline](https://github.com/oss-slu/earm_pipeline) [<img src="/img/git-alt.svg" alt="git" width="25" height="25" />](https://github.com/oss-slu/earm_pipeline)
 - **Client:** eARM Scientific Community
 - **Current Tech Lead:** Vani Walvekar [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/vani-walvekar1494)
 - **Developers:** Collaborators at SLU HPC team, with support from Filippo and Massimo
@@ -26,7 +30,7 @@ It chains together multiple molecular modeling and simulation tools, all coordin
   - SLURM job scheduler
   - Crontab automation
 - **Type:** Scientific Workflow / HPC Deployment
-- **License:** MIT (https://opensource.org/license/mit)
+- **License:** [MIT](https://opensource.org/license/mit)
 
 ## Technical Information
 

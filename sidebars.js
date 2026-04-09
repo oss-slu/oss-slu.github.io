@@ -257,6 +257,10 @@ const sidebars = {
                 },
                 {
                   type: 'doc',
+                  id: 'projects/civickit/about',
+                },
+                {
+                  type: 'doc',
                   id: 'projects/coredesk/about',
                 },
                 {
@@ -269,10 +273,6 @@ const sidebars = {
                 },
                 {
                   type: 'doc',
-                  id: 'projects/deer/about-deer',
-                },
-                {
-                  type: 'doc',
                   id: 'projects/digital_bone_box/about',
                 },
                 {
@@ -281,19 +281,7 @@ const sidebars = {
                 },
                 {
                   type: 'doc',
-                  id: 'projects/earm_pipeline/about',
-                },
-                {
-                  type: 'doc',
-                  id: 'projects/esp/about',
-                },
-                {
-                  type: 'doc',
-                  id: 'projects/gallery_of_glosses/about',
-                },
-                {
-                  type: 'doc',
-                  id: 'projects/gallery_of_glosses/about',
+                  id: 'projects/gradeval360/about',
                 },
                 {
                   type: 'doc',
@@ -301,15 +289,7 @@ const sidebars = {
                 },
                 {
                   type: 'doc',
-                  id: 'projects/hpc_rag_agent_chatbot/about',
-                },
-                {
-                  type: 'doc',
-                  id: 'projects/innerpeacetime/about',
-                },
-                {
-                  type: 'doc',
-                  id: 'projects/iris/about',
+                  id: 'projects/iperf/about',
                 },
                 {
                   type: 'doc',
@@ -325,11 +305,11 @@ const sidebars = {
                 },
                 {
                   type: 'doc',
-                  id: 'projects/mouser/about',
+                  id: 'projects/morph/about',
                 },
                 {
                   type: 'doc',
-                  id: 'projects/meltshiny/about',
+                  id: 'projects/mouser/about',
                 },
                 {
                   type: 'doc',
@@ -339,7 +319,8 @@ const sidebars = {
                   type: 'doc',
                   id: 'projects/oss_cybersecurity/about',
                 },
-                { type: 'doc',
+                {
+                  type: 'doc',
                   id: 'projects/oss_dev_analytics/about',
                 },
                 {
@@ -348,19 +329,15 @@ const sidebars = {
                 },
                 {
                   type: 'doc',
-                  id: 'projects/pi4micronaut/about',
-                },
-                {
-                  type: 'doc',
                   id: 'projects/pilot_data_synchronization/about',
                 },
                 {
                   type: 'doc',
-                  id: 'projects/rerum_geolocator/about',
+                  id: 'projects/rerum_playground/about',
                 },
                 {
                   type: 'doc',
-                  id: 'projects/rerum_playground/about',
+                  id: 'projects/rerum_server/about',
                 },
                 {
                   type: 'doc',
@@ -372,28 +349,7 @@ const sidebars = {
                 },
                 {
                   type: 'doc',
-                  id: 'projects/smartrobot/about',
-                },
-                {
-                  type: 'doc',
                   id: 'projects/simulation_surgery/about',
-                },
-                {
-                  type: 'doc',
-                  id: 'projects/step_time_biofeedback/about',
-                },
-                {
-                  type: 'link',
-                  label: 'TBE support Liraries',
-                  href: 'https://github.com/oss-slu/tbe',
-                },
-                {
-                  type: 'doc',
-                  id: 'projects/tpen_interfaces/about',
-                },
-                {
-                  type: 'doc',
-                  id: 'projects/stl_data_api/about',
                 },
                 {
                   type: 'doc',
@@ -407,12 +363,70 @@ const sidebars = {
             },
             {
               type: 'category',
-              label: 'Inactive Projects',
+              label: 'Stable Projects',
               items: [
                 {
                   type: 'doc',
                   id: 'projects/bubblescan/about',
                 },
+                {
+                  type: 'doc',
+                  id: 'projects/deer/about-deer',
+                },
+                {
+                  type: 'doc',
+                  id: 'projects/esp/about',
+                },
+                {
+                  type: 'doc',
+                  id: 'projects/gallery_of_glosses/about',
+                },
+                {
+                  type: 'doc',
+                  id: 'projects/hpc_projects/about',
+                },
+                {
+                  type: 'doc',
+                  id: 'projects/innerpeacetime/about',
+                },
+                {
+                  type: 'doc',
+                  id: 'projects/iris/about',
+                },
+                {
+                  type: 'doc',
+                  id: 'projects/meltshiny/about',
+                },
+                {
+                  type: 'doc',
+                  id: 'projects/montis/about',
+                },
+                {
+                  type: 'doc',
+                  id: 'projects/pi4micronaut/about',
+                },
+                {
+                  type: 'doc',
+                  id: 'projects/rerum_geolocator/about',
+                },
+                {
+                  type: 'doc',
+                  id: 'projects/step_time_biofeedback/about',
+                },
+                {
+                  type: 'doc',
+                  id: 'projects/stl_data_api/about',
+                },
+                {
+                  type: 'doc',
+                  id: 'projects/tpen_interfaces/about',
+                },
+              ]
+            },
+            {
+              type: 'category',
+              label: 'Inactive Projects',
+              items: [
                 {
                   type: 'link',
                   label: 'Congestion Control Emulator',
@@ -435,7 +449,7 @@ const sidebars = {
                 {
                   type: 'doc',
                   id: 'projects/open_energy_dashboard/about',
-                },  
+                },
                 {
                   type: 'link',
                   label: 'Santiago',

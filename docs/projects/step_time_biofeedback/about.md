@@ -9,6 +9,8 @@ title: Step Time Biofeedback
 
 The StepTB is a project focused on developing a tool that leverages force signal data from a Bertec split-belt treadmill to calculate step time and project target zones into a biofeedback system. This system is intended to replicate a specific walking perturbation paradigm used in motor and gait learning protocols. The primary aim is to facilitate research comparing explicit (attentional) and implicit (procedural) methods of motor learning, which is crucial for developing optimal interventions for individuals with movement deficits and enhancing human performance.
 
+> **Note:** This project is currently stable with no active development team.
+
 ### Information
 
 - **Source Code:** [https://github.com/oss-slu/Step_Time_Biofeedback](https://github.com/oss-slu/Step_Time_Biofeedback) [<img src="/img/git-alt.svg" alt="git" width="25" height="25" />](https://github.com/oss-slu/Step_Time_Biofeedback)
@@ -21,7 +23,7 @@ The StepTB is a project focused on developing a tool that leverages force signal
   - Jack McPhillips (capstone) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/JackMcPhillips1543)
   - Noor Issa (capstone) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/Nissa9902)
   - Jacob Winter (capstone) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/Jaywin2099)
-   - Collin Seper (alumini) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/colinseper)
+  - Collin Seper (alumni) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/colinseper)
 
 
 - **Start Date:** August 2024

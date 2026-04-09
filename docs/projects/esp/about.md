@@ -11,6 +11,8 @@ custom_edit_url: null
 
 The SLU computational chemistry researchers, working on understanding various properties of molecules, use various software tools. Some of such tools are ORCA, Jaguar, and Gaussian software. These tools process input data and produce results in the form of a log file (text format). These log files contain information about the calculations, the progress of the calculations, and the results of the calculations. To make use of the calculation results, researchers manually process numerous log files, copy and paste the data to spreadsheets and Word documents, and then proceed with their work. The objective of this project is to remove the manual labor associated with processing these log files through software automation.
 
+> **Note:** This project is currently stable with no active development team.
+
 ### Information
 
 - **Source Code:** [https://github.com/oss-slu/esp](https://github.com/oss-slu/esp) [<img src="/img/git-alt.svg" alt="git" width="25" height="25" />](https://github.com/oss-slu/esp)

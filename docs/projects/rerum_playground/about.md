@@ -17,15 +17,20 @@ This is a web space that uses the RERUM installation at the Walter J. Ong, S.J. 
     - Patrick Cuba [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/cubap)
     - Bryan Haberberger [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/thehabes)
 
-- **Current Tech Lead:** Devayani Chakravarthi Konakalla  [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/Devayani1612)[<img src="/img/linkedin.svg" alt="linkedin" width="25" height="25" />](https://www.linkedin.com/in/devayani-chakravarthi-konakalla-455aa3348/)
+- **Track:** Client-driven Product
+- **Current Tech Lead:** Devayani Konakalla [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/Devayani1612) [<img src="/img/linkedin.svg" alt="linkedin" width="25" height="25" />](https://www.linkedin.com/in/devayani-chakravarthi-konakalla-455aa3348/)
 
 - **Developers:**
-    - Lalith Adithya Reddy Avuthu(alumni, prior tech lead)[<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/alar12)[<img src="/img/linkedin.svg" alt="linkedin" width="25" height="25" />](https://www.linkedin.com/in/lalith-adithya-reddy-avuthu-1a409b192/)
-    - Haneen AlSewari [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/haneenalsewari)
-    - Hayden Karl [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/haydenkarl22)
-    - Samuel Sheppard [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/sesheppard)
-    - Bryan Haberberger [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/thehabes)  (alumni)
-    - Patrick Cuba [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/cubap)  (alumni)
+    - Ahmada Kearney (capstone) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/akearney6)
+    - Nikhil Muthukumar (capstone) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/teamomiamigo)
+    - Joel Aikkarakudiyil Joby (alumni) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/joeljoby02)
+    - Luis Palmejar (alumni) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/LuisPalmejar21)
+    - Lalith Adithya Reddy Avuthu (alumni, prior tech lead) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/alar12) [<img src="/img/linkedin.svg" alt="linkedin" width="25" height="25" />](https://www.linkedin.com/in/lalith-adithya-reddy-avuthu-1a409b192/)
+    - Haneen AlSewari (alumni) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/haneenalsewari)
+    - Hayden Karl (alumni) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/haydenkarl22)
+    - Samuel Sheppard (alumni) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/sesheppard)
+    - Bryan Haberberger (alumni) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/thehabes)
+    - Patrick Cuba (alumni) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/cubap)
 
 - **Start Date:**  June 2020
 - **Adoption Date:**  Aug 2024
@@ -33,7 +38,7 @@ This is a web space that uses the RERUM installation at the Walter J. Ong, S.J. 
     - Tech Stack: Web development (RERUM APIs)
     - Key Languages: JavaScript, HTML, CSS, Backend services (TBD)
 - **Type:** Web application
-- **License:** Primary Developers: Bryan Haberberger and Patrick Cuba © 2023 Research Computing Group at Saint Louis University
+- **License:** [MIT](https://opensource.org/license/mit)
 
 ### User Guide
 

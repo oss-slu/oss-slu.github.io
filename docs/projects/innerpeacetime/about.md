@@ -11,6 +11,8 @@ custom_edit_url: null
 Our goal is to help children and families grow stronger together. We help children and their parents breathe for calm and find their safe place for love and healing with guided meditations and powerful mind-body tools. The app is also geared to professionals and therapists who work with children. Let's make CALM our SUPERPOWER! 
 
 
+> **Note:** This project is currently stable with no active development team.
+
 ### Information
 
 - **Source Code:** [https://github.com/ytadvisors/inner-peace-time-private](https://github.com/ytadvisors/inner-peace-time-private) [<img src="/img/git-alt.svg" alt="git" width="25" height="25" />](https://github.com/ytadvisors/inner-peace-time-private)

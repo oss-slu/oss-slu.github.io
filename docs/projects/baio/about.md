@@ -13,13 +13,22 @@ This project aims to develop a tool leveraging large language models (LLMs) to r
 - **Source Code:** [https://github.com/oss-slu/baio](https://github.com/oss-slu/baio) [<img src="/img/git-alt.svg" alt="git" width="25" height="25" />](https://github.com/oss-slu/baio)
 
 - **Client** Dr. Tae-Hyuk (Ted) Ahn
+- **Track:** Client-driven Product
 
-- **Current Tech Lead:** Ajith Akuthota [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/AjithAkuthota23) [<img src="/img/linkedin.svg" alt="linkedin" width="25" height="25" />](https://www.linkedin.com/in/ajith-akuthota-4693081a8/)
+- **Current Tech Lead:** Mainuddin [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/mainuddinMains)
 
 - **Developers:**
-  - Oam Khatavkar [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/oam67) [<img src="/img/linkedin.svg" alt="linkedin" width="25" height="25" />](https://www.linkedin.com/in/oam-khatavkar-557775278/)
-  -  Pranavi Kolouju [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/PranaviKolouju) [<img src="/img/linkedin.svg" alt="linkedin" width="25" height="25" />](https://www.linkedin.com/in/pranavi-kolouju-a77582247/)
-  - Om Patel [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/Omp06) [<img src="/img/linkedin.svg" alt="linkedin" width="25" height="25" />](https://www.linkedin.com/in/om-patel-73a0b220a/) 
+  - Luis Palmejar (capstone) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/LuisPalmejar21)
+  - Kevin Yang (capstone) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/TommySailami)
+  - Tanzim Farhan (alumni, prior tech lead) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/tanzim10)
+  - Eric Bruns (alumni) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/Ebruns4)
+  - Manali Avinash Gaikwad (alumni) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/mgaikwad129)
+  - Sahana Gujja (alumni) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/sahanagujja)
+  - Mustafa Hashmi (alumni) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/mhashm1)
+  - Ajith Akuthota (prior tech lead) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/AjithAkuthota23) [<img src="/img/linkedin.svg" alt="linkedin" width="25" height="25" />](https://www.linkedin.com/in/ajith-akuthota-4693081a8/)
+  - Oam Khatavkar (alumni) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/oam67) [<img src="/img/linkedin.svg" alt="linkedin" width="25" height="25" />](https://www.linkedin.com/in/oam-khatavkar-557775278/)
+  - Pranavi Kolouju (alumni) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/PranaviKolouju) [<img src="/img/linkedin.svg" alt="linkedin" width="25" height="25" />](https://www.linkedin.com/in/pranavi-kolouju-a77582247/)
+  - Om Patel (alumni) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/Omp06) [<img src="/img/linkedin.svg" alt="linkedin" width="25" height="25" />](https://www.linkedin.com/in/om-patel-73a0b220a/) 
 
 ### User Guide
 

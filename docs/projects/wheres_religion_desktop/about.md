@@ -13,17 +13,20 @@ Where's Religion? is conceptualized and designed for diverse users with interest
 
 - **Source Code:** [https://github.com/oss-slu/lrda_website](https://github.com/oss-slu/lrda_website) [<img src="/img/git-alt.svg" alt="git" width="25" height="25" />](https://github.com/oss-slu/lrda_website)
 - **Client:** Dr. Adam Park
-- **Senior Developer:** [Yash Bhatia](https://yashb196.github.io/yashb196/) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/yashb196) [<img src="/img/linkedin.svg" alt="linkedin" width="25" height="25" />](https://www.linkedin.com/in/yashbhatia238/)
+- **Track:** Client-driven Product
 - **Current Tech Lead:** [Jacob Maynard](https://jacobmaynard.dev) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/InfinityBowman) [<img src="/img/linkedin.svg" alt="linkedin" width="25" height="25" />](https://www.linkedin.com/in/jacob-maynard-283767230/)
 - **Developers:**
-  - Zanxiang Wang (prior tech lead) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/BaloneyBoy97) [<img src="/img/linkedin.svg" alt="linkedin" width="25" height="25" />](https://www.linkedin.com/in/zanxiang-wang-352b112a0/)
+  - Andres Castellanos Carrillo (capstone) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/andycaste2004)
+  - Puneet Sontha (capstone) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/PunSon)
+  - [Yash Bhatia](https://yashb196.github.io/yashb196/) (alumni, prior senior developer) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/yashb196) [<img src="/img/linkedin.svg" alt="linkedin" width="25" height="25" />](https://www.linkedin.com/in/yashbhatia238/)
+  - Hashir Hashir (alumni) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/mhashir03)
+  - Zanxiang Wang (alumni, prior tech lead) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/BaloneyBoy97) [<img src="/img/linkedin.svg" alt="linkedin" width="25" height="25" />](https://www.linkedin.com/in/zanxiang-wang-352b112a0/)
   - Amy Chen (alumni) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/amychen108)
   - Justin Wang (alumni) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/jwang-101)
-   - Samuel Sheppard (alumni) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/sesheppard)
+  - Samuel Sheppard (alumni) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/sesheppard)
   - Stuart Ray (alumni) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/Stuartwastaken)
   - Izak Robles (alumni) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/izakrobles)
   - Josh Hogan (alumni) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/Josh-Hogan-87)
-
   - Varsith Reddy Legala (volunteer) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/VarsithReddyLegala)
 - **Start Date:** 25 Aug 2023
 - **Adoption Date:** 25 Aug 2023
@@ -58,7 +61,7 @@ Where’s Religion is an open-source mobile and desktop application that support
 
 ### Development Priorities
 
-- There is user interface changes required which should follow (ShadCN)[https://github.com/shadcn-ui/ui]
+- There is user interface changes required which should follow [ShadCN](https://github.com/shadcn-ui/ui)
 - The Pages to add note/edit note should have the functionality to access photos and videos from local systems.
 - The Map Page should be built based on either open street maps or leaflet.
 - The notes should be fetched onto the home page.

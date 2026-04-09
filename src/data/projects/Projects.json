@@ -1,5 +1,40 @@
 [
     {
+      "name": "BAIO: Baio (바이오) AI Output",
+      "url": "/projects/baio/about",
+      "description": "This project is focused on developing an AI-driven tool that supports bioinformatics research by providing intelligent API recommendations, detecting errors, and offering real-time corrections. The tool leverages large language models trained on bioinformatics codebases to ensure reliable data retrieval and analysis, ultimately improving research accuracy and efficiency.",
+      "status": "current",
+      "image": "/img/projects/baio.png"
+    },
+    {
+      "name": "Bubble Scan",
+      "url": "/projects/bubblescan/about",
+      "description": "The bubble scan is a web application where the user provides digital copies of standard paper scantron sheets in a PDF format and the software produces tabular results in a CSV file.",
+      "status": "stable",
+      "image": "/img/projects/bubblescan.png"
+    },
+    {
+      "name": "CivicKit",
+      "url": "/projects/civickit/about",
+      "description": "CivicKit is an open-source toolkit for civic engagement, providing reusable components and templates that help communities build digital tools for local governance and participation.",
+      "status": "current",
+      "image": "/img/projects/default.png"
+    },
+    {
+      "name": "Congestion Control Emulator",
+      "url": "https://github.com/oss-slu/Congestion-control-emulator",
+      "description": "CLI application that emulates a network and runs congestion control algorithms under various network conditions.",
+      "status": "completed",
+      "image": "/img/projects/congestion_control_emulator.png"
+    },
+    {
+      "name": "CoreDesk",
+      "url": "/projects/coredesk/about",
+      "description": "CoreDesk is a web-based work management tool that enables shared service providers in universities and similar contexts. It was originally built to support the SLU Center for Additive Manufacturing (SLU-CAM), and is expanding to support a variety of use cases.",
+      "status": "current",
+      "image": "/img/projects/open_project.png"
+    },
+    {
       "name": "CV Zebrafish",
       "url": "/projects/cv_zebrafish/about",
       "description": "CV Zebrafish is a web application that automates the analysis of zebrafish body parts and movement from high-speed video recordings.",
@@ -10,8 +45,15 @@
       "name": "DADS: Database of Arithmetic Dynamical Systems",
       "url": "/projects/dads/about",
       "description": "DADS is a flexible, web-based, search-driven user interface for a database of information about a class of mathematical functions known as arithmetic dynamical systems.",
-      "status": "stable",
+      "status": "current",
       "image": "/img/projects/dads.png"
+    },
+    {
+      "name": "DEER: Data Entry & Exhibition for Rerum",
+      "url": "/projects/deer/about",
+      "description": "A designer's framework for non-destructive annotation and template rendering for distributed digital resources and collections.",
+      "status": "stable",
+      "image": "/img/projects/deer.png"
     },
     {
       "name": "Digital Bone Box",
@@ -28,6 +70,13 @@
       "image": "/img/projects/droneworld.png"
     },
     {
+      "name": "DroneSwarm",
+      "url": "",
+      "description": "Recover and update drone swarm research software.",
+      "status": "completed",
+      "image": "/img/projects/droneswarm.png"
+    },
+    {
       "name": "ESP: Electronic Structure Parser",
       "url": "/projects/esp/about",
       "description": "ESP is a web application that allows the user to upload the ORCA/Gaussian data, and quickly extract relevant tabular results in a Word document.",
@@ -35,25 +84,67 @@
       "image": "/img/projects/esp.png"
     },
     {
-      "name": "BAIO: Baio (바이오) AI Output",
-      "url": "/projects/baio/about",
-      "description": "This project is focused on developing an AI-driven tool that supports bioinformatics research by providing intelligent API recommendations, detecting errors, and offering real-time corrections. The tool leverages large language models trained on bioinformatics codebases to ensure reliable data retrieval and analysis, ultimately improving research accuracy and efficiency.",
-      "status": "current",
-      "image": "/img/projects/baio.png"
+      "name": "Gallery of Glosses",
+      "url": "/projects/gallery_of_glosses/about",
+      "description": "Interfaces to view and manage Glosses.",
+      "status": "stable",
+      "image": "/img/projects/gallery_of_glosses.png"
     },
     {
-      "name": "TheHealthApp",
-      "url": "/projects/health_app/about",
-      "description": "TheHealthApp enable basic AI powered health assessments, connects patients with services services, gives patients simple and secure access to their health data.",
+      "name": "GradEval360",
+      "url": "/projects/gradeval360/about",
+      "description": "GradEval360 is a comprehensive graduate program evaluation platform that streamlines the collection, analysis, and reporting of program assessment data.",
       "status": "current",
-      "image": "/img/projects/health_app.png"
+      "image": "/img/projects/default.png"
+    },
+    {
+      "name": "HPC Projects",
+      "url": "/projects/hpc_projects/about",
+      "description": "HPC Projects encompasses work on SLU's high-performance computing resources, including the eARM molecular modeling pipeline and an AI-powered RAG chatbot for HPC documentation and system interaction.",
+      "status": "stable",
+      "image": "/img/projects/hpc_rag_agent_chatbot.png"
+    },
+    {
+      "name": "Inner Peace Time",
+      "url": "/projects/innerpeacetime/about",
+      "description": "Inner peace time is a guided meditation app developed to help children and families breathe for calm and find their safe place for LOVE and HEALING.",
+      "status": "stable",
+      "image": "/img/projects/innerpeacetime.png"
+    },
+    {
+      "name": "iperf3",
+      "url": "/projects/iperf/about",
+      "description": "Contributing to the open-source iperf3 network performance measurement tool, focusing on testing, documentation, and feature development.",
+      "status": "current",
+      "image": "/img/projects/default.png"
     },
     {
       "name": "IRIS: Image Recognition Integration System",
       "url": "/projects/iris/about",
       "description": "IRIS is a framework for creating custom mobile applications that can handle specialized image search problems. The framework was developed to create an application that uses a custom AI model to identify details about orthopedic screws from x-ray images of a patient.",
-      "status": "current",
+      "status": "stable",
       "image": "/img/projects/iris.png"
+    },
+    {
+      "name": "iSpraak",
+      "url": "/projects/ispraak/about",
+      "description": "Automates speech evaluation of language learners and to provide them with instantaneous corrective feedback.",
+      "status": "completed",
+      "image": "/img/projects/ispraak.png"
+    },
+    {
+      "name": "MaterialDerailleur",
+      "url": "/projects/md/about",
+      "description": "MaterialDerailleur shifts donations into drive for BWorks. It streamlines the process of managing material donations, providing a transparent view into the journey of each donated item.",
+      "status": "current",
+      "image": "/img/projects/md.png"
+    },
+    {
+      "name": "MechatronicsVR",
+      "url": "/projects/mechatronics_vr/about",
+      "description": "MechatronicsVR provides an interactive VR environment for learning mechanical assembly skills.",
+      "status": "current",
+      "image": "/img/projects/vr_robotics.png"
     },
     {
       "name": "MeltShiny",
@@ -70,102 +161,32 @@
       "image": "/img/projects/mithridatium.png"
     },
     {
+      "name": "ML Code Generator",
+      "url": "https://github.com/oss-slu/ml_code_generator",
+      "description": "A point and click user interface for generating python code for machine learning (ML) pipelines.",
+      "status": "completed",
+      "image": "/img/projects/ml_code_generator.png"
+    },
+    {
+      "name": "Montis Peaks 3D",
+      "url": "/projects/montis/about",
+      "description": "Montis Peaks 3D is an interactive 3D mountain peak visualization and exploration tool built for outdoor enthusiasts and geographic education.",
+      "status": "stable",
+      "image": "/img/projects/default.png"
+    },
+    {
+      "name": "MORPH",
+      "url": "/projects/morph/about",
+      "description": "MORPH (Modular Open-source Robotic Programming Hub) is a collection of educational robotics kits, software modules, lesson plans, learning materials, and a platform that makes them simple to use.",
+      "status": "current",
+      "image": "/img/projects/smartrobot.png"
+    },
+    {
       "name": "Mouser",
       "url": "/projects/mouser/about",
       "description": "Mouser is a desktop app for tracking the data of animal experiments.",
       "status": "current",
       "image": "/img/projects/mouser.png"
-    },
-    {
-      "name": "OSS Cybersecurity",
-      "url": "/projects/oss_cybersecurity/about",
-      "description": "The OSS Cybersecurity project provides cybersecurity services to open source projects developed at SLU, including security assessments, vulnerability scanning, and best practices guidance.",
-      "status": "current",
-      "image": "/img/projects/default.png"
-    },
-    {
-      "name": "OSS Infra/Ops",
-      "url": "/projects/infra_ops/about",
-      "description": "The OSS Infra/Ops project provides infrastructure and operations support for open source projects developed at SLU, including shared development environments, infrastructure as code support, instrumentation for observability, and development observability services.",
-      "status": "current",
-      "image": "/img/projects/infra_ops.png"
-    },
-    {
-      "name": "OSS CI/CD & Automation",
-      "url": "/projects/cicd_automation/about",
-      "description": "OSS CI/CD & Automation project provides continuous integration and continuous deployment (CI/CD) services to open source projects developed at SLU, including automated testing, deployment pipelines, and release management.",
-      "status": "current",
-      "image": "/img/projects/cicd_automation.png"
-    },
-    {
-      "name": "OSS Dev Analytics",
-      "url": "/projects/dev_analytics/about",
-      "description": "OSS Dev Analytics project provides developer analytics and general data analytics support to open source projects developed at SLU.",
-      "status": "current",
-      "image": "/img/projects/dev_analytics.png"
-    },
-    {
-      "name": "CoreDesk",
-      "url": "/projects/coredesk/about",
-      "description": "CoreDesk is a web-based work management tool that enables shared service providers in universities and similar contexts. It was originally built to support the SLU Center for Additive Manufacturing (SLU-CAM), and is expanding to support a variety of use cases.",
-      "status": "current",
-      "image": "/img/projects/open_project.png"
-    },
-    {
-      "name": "Pilot Data Synchronization",
-      "url": "/projects/pilot_data_synchronization/about",
-      "description": "PDS establishes a real-time data synchronization channel between a flight simulator and the iMotions platform, enabling the accurate capture and analysis of critical flight data to enhance pilot performance evaluation.",
-      "status": "current",
-      "image": "/img/projects/pilot_data_synchronization.png"
-    },
-    {
-      "name": "Python TBE Library",
-      "url": "https://github.com/oss-slu/python_tbe",
-      "description": "Python TBE is a set of libraries that enables use of TBE files, a format for metadata-enriched tabular data.",
-      "status": "current",
-      "image": "/img/projects/python_tbe.png"
-    },
-    {
-      "name": "Saltify Speech Transcription",
-      "url": "/projects/saltify/about",
-      "description": "Saltify Speech Tagging software transcribes an audio sample into a written format that is accepted by SALT software.",
-      "status": "current",
-      "image": "/img/projects/saltify.png"
-    },
-    {
-      "name": "Step Time Biofeedback",
-      "url": "/projects/step_time_biofeedback/about",
-      "description": "Step Time Biofeedback is a tool that leverages force signal data from a Bertec split-belt treadmill to calculate step time and project target zones into a biofeedback system.",
-      "status": "stable",
-      "image": "/img/projects/step_time_biofeedback.png"
-    },
-    {
-      "name": "Where's Religion Desktop",
-      "url": "/projects/wheres_religion_desktop/about",
-      "description": "Where's Religion Desktop is a web app for ethnographers of 'Lived Religion' that enables detailed reflection and analysis of events captured with the Where's Religion Mobile app.",
-      "status": "current",
-      "image": "/img/projects/wheres_religion_desktop.png"
-    },
-    {
-      "name": "Where's Religion Mobile",
-      "url": "/projects/wheres_religion_mobile/about",
-      "description": "Where's Religion Mobile is a mobile app for ethnographers of 'Lived Religion' to capture the events happening around them along with some audio/visual representation of the event.",
-      "status": "current",
-      "image": "/img/projects/wheres_religion_mobile.png"
-    },
-    {
-      "name": "Inner Peace Time",
-      "url": "/projects/innerpeacetime/about",
-      "description": "Inner peace time is a guided meditation app developed to help children and families breathe for calm and find their safe place for LOVE and HEALING.",
-      "status": "stable",
-      "image": "/img/projects/innerpeacetime.png"
-    },
-    {
-      "name": "MaterialDerailleur",
-      "url": "/projects/md/about",
-      "description": "MaterialDerailleur shifts donations into drive for BWorks. It streamlines the process of managing material donations, providing a transparent view into the journey of each donated item.",
-      "status": "current",
-      "image": "/img/projects/md.png"
     },
     {
       "name": "Open Energy Dashboard",
@@ -175,94 +196,46 @@
       "image": "/img/projects/open_energy_dashboard.png"
     },
     {
+      "name": "OSS CI/CD & Automation",
+      "url": "/projects/cicd_automation/about",
+      "description": "OSS CI/CD & Automation project provides continuous integration and continuous deployment (CI/CD) services to open source projects developed at SLU, including automated testing, deployment pipelines, and release management.",
+      "status": "current",
+      "image": "/img/projects/cicd_automation.png"
+    },
+    {
+      "name": "OSS Cybersecurity",
+      "url": "/projects/oss_cybersecurity/about",
+      "description": "The OSS Cybersecurity project provides cybersecurity services to open source projects developed at SLU, including security assessments, vulnerability scanning, and best practices guidance.",
+      "status": "current",
+      "image": "/img/projects/default.png"
+    },
+    {
+      "name": "OSS Dev Analytics",
+      "url": "/projects/dev_analytics/about",
+      "description": "OSS Dev Analytics project provides developer analytics and general data analytics support to open source projects developed at SLU.",
+      "status": "current",
+      "image": "/img/projects/dev_analytics.png"
+    },
+    {
+      "name": "OSS Infra/Ops",
+      "url": "/projects/infra_ops/about",
+      "description": "The OSS Infra/Ops project provides infrastructure and operations support for open source projects developed at SLU, including shared development environments, infrastructure as code support, instrumentation for observability, and development observability services.",
+      "status": "current",
+      "image": "/img/projects/infra_ops.png"
+    },
+    {
       "name": "Pi4Micronaut",
       "url": "/projects/pi4micronaut/about",
       "description": "Pi4Micronaut is a Java library crafted for developers who aim to build IoT applications leveraging the Raspberry Pi platform.",
-      "status": "current",
+      "status": "stable",
       "image": "/img/projects/pi4micronaut.png"
     },
     {
-      "name": "Shelter Volunteers Rapid Response",
-      "url": "/projects/shelter_volunteers/about",
-      "description": "Simplify the process of scheduling work shifts for volunteers at temporary shelters, and to give homeless shelters visibility into their upcoming staffing.",
+      "name": "Pilot Data Synchronization",
+      "url": "/projects/pilot_data_synchronization/about",
+      "description": "PDS establishes a real-time data synchronization channel between a flight simulator and the iMotions platform, enabling the accurate capture and analysis of critical flight data to enhance pilot performance evaluation.",
       "status": "current",
-      "image": "/img/projects/shelter_volunteers.png"
-    },
-    {
-      "name": "TPEN Interfaces",
-      "url": "/projects/tpen_interfaces/about",
-      "description": "The TPEN Interfaces project provides a set of customizable web interfaces that leverage the TPEN Services API.",
-      "status": "stable",
-      "image": "/img/projects/tpeninterfaces.png"
-    },
-    {
-      "name": "STL Data API",
-      "url": "/projects/stl_data_api/about",
-      "description": "STL Data API unifies regional public data for analysis, visualization, and policy-making..",
-      "status": "current",
-      "image": "/img/projects/stl_data_api.png"
-    },
-    {
-      "name": "Simulation Surgery",
-      "url": "/projects/simulation_surgery/about",
-      "description": "The Simulation Surgery focuses on creating a 3D visualization tool a web based platform to simulate surgical procedures for educational and research purposes.",
-      "status": "current"
-    },
-    {
-      "name": "SMARTRobot",
-      "url": "/projects/smartrobot/about",
-      "description": "SLU Mobile Autonomous Robotics Toolkit is a collection of educational robotics kits, software modules, lesson plans, learning materials, and a platform that makes them simple to use.",
-      "status": "current",
-      "image": "/img/projects/smartrobot.png"
-    },
-    {
-      "name": "Bubble Scan",
-      "url": "/projects/bubblescan/about",
-      "description": "The bubble scan is a web application where the user provides digital copies of standard paper scantron sheets in a PDF format and the software produces tabular results in a CSV file.",
-      "status": "stable",
-      "image": "/img/projects/bubblescan.png"
-    },
-    {
-      "name": "Congestion Control Emulator",
-      "url": "https://github.com/oss-slu/Congestion-control-emulator",
-      "description": "CLI application that emulates a network and runs congestion control algorithms under various network conditions.",
-      "status": "completed",
-      "image": "/img/projects/congestion_control_emulator.png"
-    },
-    {
-      "name": "DEER: Data Entry & Exhibition for Rerum",
-      "url": "/projects/deer/about",
-      "description": "A designer's framework for non-destructive annotation and template rendering for distributed digital resources and collections.",
-      "status": "stable",
-      "image": "/img/projects/deer.png"
-    },
-    {
-      "name": "DroneSwarm",
-      "url": "",
-      "description": "Recover and update drone swarm research software.",
-      "status": "completed",
-      "image": "/img/projects/droneswarm.png"
-    },
-    {
-      "name": "Gallery of Glosses",
-      "url": "/projects/gallery_of_glosses/about",
-      "description": "Interfaces to view and manage Glosses.",
-      "status": "stable",
-      "image": "/img/projects/gallery_of_glosses.png"
-    },
-    {
-      "name": "iSpraak",
-      "url": "/projects/ispraak/about",
-      "description": "Automates speech evaluation of language learners and to provide them with instantaneous corrective feedback.",
-      "status": "completed",
-      "image": "/img/projects/ispraak.png"
-    },
-    {
-      "name": "ML Code Generator",
-      "url": "https://github.com/oss-slu/ml_code_generator",
-      "description": "A point and click user interface for generating python code for machine learning (ML) pipelines.",
-      "status": "completed",
-      "image": "/img/projects/ml_code_generator.png"
+      "image": "/img/projects/pilot_data_synchronization.png"
     },
     {
       "name": "Rerum Geolocator",
@@ -279,6 +252,20 @@
       "image": "/img/projects/rerum_playground.png"
     },
     {
+      "name": "Rerum Server",
+      "url": "/projects/rerum_server/about",
+      "description": "Rerum Server is a Node.js-based API server that provides CRUD operations and IIIF-compliant services for managing linked data objects in the RERUM ecosystem.",
+      "status": "current",
+      "image": "/img/projects/default.png"
+    },
+    {
+      "name": "Saltify Speech Transcription",
+      "url": "/projects/saltify/about",
+      "description": "Saltify Speech Tagging software transcribes an audio sample into a written format that is accepted by SALT software.",
+      "status": "current",
+      "image": "/img/projects/saltify.png"
+    },
+    {
       "name": "Santiago",
       "url": "https://github.com/oss-slu/Santiago",
       "description": "Desktop app to visualize microscopy of neurons based on a MatLab library.",
@@ -293,26 +280,59 @@
       "image": "/img/projects/sib.png"
     },
     {
-      "name": "HPC RAG Agent Chatbot",
-      "url": "/projects/hpc_rag_agent_chatbot/about",
-      "description": "Developing an AI-powered chatbot using Retrieval-Augmented Generation (RAG) to assist researchers in interacting with SLU’s HPC resources. Designing integration with HPC documentation, schedulers, and real-time system data.",
+      "name": "Shelter Volunteers Rapid Response",
+      "url": "/projects/shelter_volunteers/about",
+      "description": "Simplify the process of scheduling work shifts for volunteers at temporary shelters, and to give homeless shelters visibility into their upcoming staffing.",
       "status": "current",
-      "image": "/img/projects/hpc_rag_agent_chatbot.png"
+      "image": "/img/projects/shelter_volunteers.png"
     },
     {
-      "name": "eARM Pipeline",
-      "url": "/projects/earm_pipeline/about",
-      "description": "Contributing to open-source eARM molecular modeling workflows and deploying the scientific workflow on SLU HPC systems.",
+      "name": "Simulation Surgery",
+      "url": "/projects/simulation_surgery/about",
+      "description": "The Simulation Surgery focuses on creating a 3D visualization tool a web based platform to simulate surgical procedures for educational and research purposes.",
       "status": "current",
-      "image": "/img/projects/earm_pipeline.png"
+      "image": "/img/projects/default.png"
     },
     {
-      "name": "MechatronicsVR",
-      "url": "/projects/mechatronics_vr/about",
-      "description": "MechatronicsVR provides an interactive VR environment for learning mechanical assembly skills.",
+      "name": "Step Time Biofeedback",
+      "url": "/projects/step_time_biofeedback/about",
+      "description": "Step Time Biofeedback is a tool that leverages force signal data from a Bertec split-belt treadmill to calculate step time and project target zones into a biofeedback system.",
+      "status": "stable",
+      "image": "/img/projects/step_time_biofeedback.png"
+    },
+    {
+      "name": "STL Data API",
+      "url": "/projects/stl_data_api/about",
+      "description": "STL Data API unifies regional public data for analysis, visualization, and policy-making.",
+      "status": "stable",
+      "image": "/img/projects/stl_data_api.png"
+    },
+    {
+      "name": "TheHealthApp",
+      "url": "/projects/health_app/about",
+      "description": "TheHealthApp enable basic AI powered health assessments, connects patients with services services, gives patients simple and secure access to their health data.",
       "status": "current",
-      "image": "/img/projects/vr_robotics.png"
+      "image": "/img/projects/health_app.png"
+    },
+    {
+      "name": "TPEN Interfaces",
+      "url": "/projects/tpen_interfaces/about",
+      "description": "The TPEN Interfaces project provides a set of customizable web interfaces that leverage the TPEN Services API.",
+      "status": "stable",
+      "image": "/img/projects/tpeninterfaces.png"
+    },
+    {
+      "name": "Where's Religion Desktop",
+      "url": "/projects/wheres_religion_desktop/about",
+      "description": "Where's Religion Desktop is a web app for ethnographers of 'Lived Religion' that enables detailed reflection and analysis of events captured with the Where's Religion Mobile app.",
+      "status": "current",
+      "image": "/img/projects/wheres_religion_desktop.png"
+    },
+    {
+      "name": "Where's Religion Mobile",
+      "url": "/projects/wheres_religion_mobile/about",
+      "description": "Where's Religion Mobile is a mobile app for ethnographers of 'Lived Religion' to capture the events happening around them along with some audio/visual representation of the event.",
+      "status": "current",
+      "image": "/img/projects/wheres_religion_mobile.png"
     }
-    
   ]
-  

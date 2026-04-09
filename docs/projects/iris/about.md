@@ -8,14 +8,20 @@ custom_edit_url: null
 
 IRIS is a framework for creating custom mobile applications that can handle specialized image search problems. The framework was developed to create an application that uses a custom AI model to identify details about orthopedic screws from x-ray images of a patient.
 
+> **Note:** This project is currently stable with no active development team.
+
 ## Information
 
 - **Source Code:** [https://github.com/oss-slu/image-recognition-integration-system/](https://github.com/oss-slu/image-recognition-integration-system/) [<img src="/img/git-alt.svg" alt="git" width="25" height="25" />](https://github.com/oss-slu/image-recognition-integration-system/)
 - **Client** Dr Abby Stylianou
-- **Current Tech Lead:** Obsa Sendaba [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/Obssaa)
+- **Track:** Client-driven Product
+- **Current Tech Lead:** *No active team*
 - **Developers:**
-
-  - Julian Shniter(prior pech lead) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/smallrussian)
+  - Obsa Sendaba (alumni, prior tech lead) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/Obssaa)
+  - Tyrek Blanks (alumni) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/tyrekblanks)
+  - Brehana Naidu (alumni) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/Brehana-Naidu)
+  - Dhyana Patel (alumni) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/dhyana6466)
+  - Julian Shniter (prior tech lead) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/smallrussian)
   - Karthik (project staff) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/rcAsironman)
   - Mustafa Hashmi (alumni) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/mhashm1)
   - Ramez Mosad (alumni) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/ramezmosad)

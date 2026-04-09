@@ -15,9 +15,13 @@ The goal of this project is to create a flexible, web-based, search-driven user 
 
 - **Source Code:** [https://github.com/oss-slu/dads](https://github.com/oss-slu/dads) [<img src="/img/git-alt.svg" alt="git" width="25" height="25" />](https://github.com/oss-slu/dads)
 - **Client** Dr Benjamin Hutz
-- **Current Tech Lead:** Supraja Mannava [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/suprajamannava17)
+- **Track:** Client-driven Product
+- **Current Tech Lead:** Jon Honeycutt [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/Cheezyrock)
 - **Developers:**
 
+  - Joli Muller (capstone) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/hollowtree11)
+  - Dylan Reyes Reyes (capstone) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/DylAstralith)
+  - Supraja Mannava (prior tech lead) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/suprajamannava17)
   - Bradley Sheldon (capstone) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/BradleySheldon)
   - Syed Omair (capstone) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/iamsyedomair)
   - Ngan Nguyen (capstone) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/DaisyNBN)

@@ -4,81 +4,45 @@ title: "OSS Infra/Ops"
 custom_edit_url: null
 ---
 
-<!-- A header image is optional; if used should be no greater than 200x600 -->
-<!--![Header Caption](header.png) -->
-
 ## Overview
 
-The OSS Infra/Ops team provides infrastructure and operations support for open source projects developed at SLU, including shared development environments, infrastructure as code support, instrumentation for observability, and development observability services.
+The OSS Infra/Ops team provides infrastructure and operations support for open source projects developed at SLU. This includes building and managing shared development environments, maintaining a Kubernetes cluster, infrastructure as code support, instrumentation for observability, and on-premise networking in SSE 210.
 
+### Information
 
-<!-- Screenshot -->
-<!-- Clear description; 1-2 paragraphs -->
-<!-- Demo/prview video -->
-
-### Basic Information
-
-- **Status:** New (greenfield this semester) <!-- Choose applicable: [Proposed (proposed by client), New (greenfield this semester), Active (and ongoing), External (ongoing third-party), -->
-              <!-- Support (limited maintenance), Handoff (back to client), Archived (no further updates will be made)] -->
+- **Source Code:**
+  - [https://github.com/oss-slu/oss_infra_ops](https://github.com/oss-slu/oss_infra_ops) [<img src="/img/git-alt.svg" alt="git" width="25" height="25" />](https://github.com/oss-slu/oss_infra_ops)
+  - [https://github.com/oss-slu/slu-cluster-mgmt](https://github.com/oss-slu/slu-cluster-mgmt) [<img src="/img/git-alt.svg" alt="git" width="25" height="25" />](https://github.com/oss-slu/slu-cluster-mgmt)
+- **Status:** Active (and ongoing)
 - **Platforms:** Internal Developer Services
-<!-- - **Website:** [URL](URL) -->
-- **Source Code:** [https://github.com/oss-slu/oss_infra_ops](https://github.com/oss-slu/oss_infra_ops [<img src="/img/git-alt.svg" alt="git" width="25" height="25" />](https://github.com/oss-slu/oss_infra_ops)
-<!-- - **Download/Deployment:** 
-  - [URL](URL)
-  - [URL](URL)
-  - [URL](URL) -->
-
-<!-- ### User Guide -->
-
-<!-- Clear description; 1-2 paragraphs -->
-<!-- Clear description of who should use this and how -->
-<!-- Getting started steps or quick-start guide -->
-
-<!-- **Quick Start:**
-1. [Installation/Setup steps]
-2. [Basic usage]
-3. [Common workflows] -->
-
-<!-- Link to comprehensive documentation -->
-<!-- **Full User Guide:** [Link to detailed docs] -->
-
-## Core Dev Team
-
-- **Client** Open Source with SLU
-<!-- - **Staff Developer:** Staff Developer Name [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/username) [<img src="/img/linkedin.svg" alt="linkedin" width="25" height="25" />](https://www.linkedin.com/in/username/) -->
-- **Current Tech Lead:** Daniel Shown [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/kungfuchicken)[<img src="/img/linkedin.svg" alt="linkedin" width="25" height="25" />](https://www.linkedin.com/in/daniel.shown/)
-<!-- [<img src="/img/linkedin.svg" alt="linkedin" width="25" height="25" />](https://www.linkedin.com/in/username/) [<img src="/img/portfolio.svg" alt="portfolio" width="25" height="25" />](Portfolio URL/) -->
+- **Client:** Open Source with SLU
+- **Track:** Internal Developer Services
+- **Current Tech Lead:** Daniel Awodeyi [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/AyoAwodeyi)
 - **Developers:**
-  - Daniel Awodeyi [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/AyoAwodeyi)
-  - Ava Enke [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/sudoava)
-  
-  <!-- - Name (project staff) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/rcAsironman)
-  - One Dev (capstone) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/username)
-  - Two Dev (capstone) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/husernameaneenalsewari)
-  - Green Dev (alumni) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/Ebusernameruns4)
-  - Blue Dev (alumni, prior tech lead) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/SiriChanusernamedanaGarimella) [<img src="/img/linkedin.svg" alt="linkedin" width="25" height="25" />](https://www.linkedin.com/in/username/) -->
- 
-## Technical Information
-
-### Additional Information
-
+  - Hunter Cataldo (capstone) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/HuntC19)
+  - Joey Heitzler (capstone) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/j-heitz)
+  - Ava Enke (alumni) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/sudoava)
+  - Daniel Shown (project staff) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/kungfuchicken) [<img src="/img/linkedin.svg" alt="linkedin" width="25" height="25" />](https://www.linkedin.com/in/daniel.shown/)
 - **Start Date:** August 2025
+- **Technologies Used:**
+  - Kubernetes, Helm
+  - Ansible (cluster management and orchestration)
+  - Infrastructure as Code (IaC templates)
+  - Shell/Bash scripting
+- **License:** Not yet established
 
-### Technical Overview
-
-<!-- ![Software Architecture](architecture.png) -->
-<!-- Clear description; 1-2 paragraphs -->
+## Technical Information
 
 ### Development Priorities
 
-- Support urgent infrastructure & operations needs
-- Internal CloudNative shared dev environment
-- Dedicated workstations & physical developer environment in SSE 210
-- Asset tracking OSS hardware
-- Observability platform
-- Instrumentation of OSS apps
+- Maintain and expand the Kubernetes cluster environment
+- Support urgent infrastructure and operations needs across OSS projects
+- Build out observability platform and application instrumentation
+- Manage dedicated workstations and physical developer environment in SSE 210
+- Asset tracking for OSS hardware
 
-<!-- ## Get Involved -->
+## Get Involved
 
-<!-- Clear description; 1-2 paragraphs -->
-<!-- Link to CONTRIBUTING.md -->
+If you would like to contribute to this project, please visit our GitHub pages to create your own issues or pull requests:
+- [oss_infra_ops](https://github.com/oss-slu/oss_infra_ops)
+- [slu-cluster-mgmt](https://github.com/oss-slu/slu-cluster-mgmt)

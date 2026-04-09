@@ -9,55 +9,40 @@ custom_edit_url: null
 
 ## Overview
 
-The CV Zebrafish project aims to develop an interactive, user-friendly software tool to track and analyze zebrafish body parts and movements from high-resolution, high-speed imaging data. It will integrate with machine learning outputs like DeepLabCut to process large datasets and generate detailed metrics, including speed, fin angles, movement timing, phase synchronization, and behavior classification. The modular design will make it adaptable for researchers at SLU and beyond, supporting diverse movement analysis and visualization needs in aquatic behavioral studies.
+CV Zebrafish is a desktop application that automates the analysis of zebrafish movement data from DeepLabCut tracking outputs. It replaces a manual process that takes 2–3 hours per dataset with an automated pipeline that completes in roughly 5 minutes. The tool validates DeepLabCut CSV files, auto-generates analysis configurations, computes kinematic metrics (fin angles, head yaw, tail dynamics, swim bouts, spine angles), and renders interactive Plotly graphs — all through a guided PyQt desktop interface. It also supports cross-correlation analysis between body part movements and multi-dataset comparison.
 
 ### Information
 
 - **Source Code:** [https://github.com/oss-slu/cv_zebrafish](https://github.com/oss-slu/cv_zebrafish) [<img src="/img/git-alt.svg" alt="git" width="25" height="25" />](https://github.com/oss-slu/cv_zebrafish)
 - **Client:** Mohini Sengupta, Ph.D.
-- **Current Tech Lead:** Madhuritha Alle [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/madhuritha22)  
+- **Track:** Client-driven Product
+- **Current Tech Lead:** Madhuritha Alle [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/madhuritha22)
 - **Developers:**
-   - Jacob Winter [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/jaywin2099) [<img src="/img/linkedin.svg" alt="linkedin" width="25" height="25" />](https://www.linkedin.com/in/USERNAME/)
-  - Gihwan Jung [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/Jung0219) [<img src="/img/linkedin.svg" alt="linkedin" width="25" height="25" />](https://www.linkedin.com/in/USERNAME/)
-  - Nilesh Gupta [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/ngup1) [<img src="/img/linkedin.svg" alt="linkedin" width="25" height="25" />](https://www.linkedin.com/in/USERNAME/)
+  - Bruce Miller (capstone) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/bruceamiller)
+  - Kwabena Adjei Omanhene-Gyimah (capstone) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/Omanhene20)
+  - Nilesh Gupta (alumni) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/ngup1)
+  - Gihwan Jung (alumni) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/Jung0219)
+  - Jacob Winter (alumni) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/jaywin2099)
 - **Start Date:** Aug 11, 2025
 - **Technologies Used:**
-  - Python (OpenCV, NumPy, Pandas)
-  - Flask / React (for web interface, if applicable)
-  - Machine Learning frameworks (e.g., PyTorch or TensorFlow)
-- **Type:** Computer Vision Application
-- **License:** MIT (https://opensource.org/license/mit)
+  - Python 3.10, PyQt5 (desktop GUI)
+  - NumPy, Pandas, SciPy (data processing and kinematic calculations)
+  - Plotly, Kaleido (interactive graphs and static image export)
+  - OpenCV (computer vision utilities)
+  - SQLite (session and run persistence)
+  - Conda (environment management)
+- **Type:** Desktop Application
+- **License:** [MIT](https://opensource.org/license/mit)
 
 ## Technical Information
 
 ### Development Priorities
 
-#### Zebrafish Tracking and Analysis
-
-<!-- - **From Manual Observation to Automated Analysis:** The current zebrafish tracking process often involves manual observation or semi-automated tools. This project will replace these with a fully automated, computer vision–driven system.
-
-- **Features of the Planned CV Zebrafish Tool:**  
-  Includes motion tracking, behavioral pattern recognition, and data visualization to help researchers quantify zebrafish activity.
-
-Key planned features include:   -->
-
-<!-- - **Automated Tracking:**
-  Detect and track individual zebrafish in video recordings with high accuracy.
-
-- **Behavior Analysis:**
-  Identify and log patterns such as swimming speed, direction changes, grouping behavior, and inactivity.
-
-- **Data Visualization & Export:**
-  Provide visual plots and allow exporting metrics for further statistical analysis.
-
-- **Multi-Fish Support:**
-  Handle scenarios with multiple zebrafish in the same tank without losing tracking accuracy.
-
-- **User-Friendly Interface:**
-  Clean, intuitive controls for loading videos, starting analysis, and reviewing results.
-
-- **Adaptable for Research Needs:**
-  Modular design to allow additional behavioral metrics or machine learning models. -->
+- Integrate multi-CSV comparison results and cross-correlation display into the Graph Viewer UI
+- Add interactive graph controls (clickable points, local extrema capture)
+- Validate angle calculations across new dataset formats
+- Set up CI/CD pipeline with GitHub Actions
+- Modernize application interface and interactivity
 
 ## Get Involved
 

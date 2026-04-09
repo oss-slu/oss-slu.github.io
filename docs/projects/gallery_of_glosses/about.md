@@ -11,6 +11,8 @@ custom_edit_url: null
 The Gallery of Glosses is a combination of interfaces that allow non-technical users to perform research and classify Glosses (on-page commentary) from the Gospel of Matthew and other source manuscripts. There is a NextJS interface for the [public-facing website](https://gog-public-site.vercel.app/) bootstrapped with style. This interface can be used by anyone to view information regarding glosses and manuscripts. There is another interface built which is used by researchers and administration for adding and editing gloss and manuscript information. The data for these interfaces is stored in [RERUM](https://rerum.io).
 
 
+> **Note:** This project is currently stable with no active development team.
+
 ### Information
 
 - **Source Code:**

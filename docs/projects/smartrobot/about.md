@@ -4,8 +4,9 @@ title: SMARTRobot
 custom_edit_url: null
 ---
 
-<!-- A header image is optional; if used should be no greater than 200x600 -->
-<!--![Header Alt Text](header.png) -->
+:::info Project Renamed
+SMARTRobot has been renamed to **MORPH** (Modular Open-source Robotic Programming Hub). Please visit the [MORPH project page](/projects/morph/about) for the latest information.
+:::
 
 ## Overview
 
