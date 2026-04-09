@@ -11,6 +11,8 @@ custom_edit_url: https://github.com/oss-slu/TPEN-interfaces
 These vanilla default and internally useful interfaces for the TPEN ecosystem that exemplify how you might build your own interfaces for specific projects. The directories each contain a named interface that serves as an example for how an external developer might use the TPEN Services API to implement a custom interface that leverages the TPEN platform. Interfaces are typically a web application, a simple HTML document, that utilizes Web Components that might be reused by others.
 
 
+> **Note:** This project is currently stable with no active development team.
+
 ### Information
 
 - **Source Code:** [https://github.com/oss-slu/TPEN-interfaces](https://github.com/oss-slu/TPEN-interfaces) [<img src="/img/git-alt.svg" alt="git" width="25" height="25" />](https://github.com/oss-slu/TPEN-interfaces)

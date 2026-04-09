@@ -10,6 +10,8 @@ custom_edit_url: null
 
 DEER is a framework for designers to quickly template web components for exhibition or data entry. By default, these components all follow the Rerum API, connect to the public sandbox instance of RERUM, and simplify descriptive annotation.
 
+> **Note:** This project is currently stable with no active development team.
+
 ### Information
 
 - **Source Code:** [https://github.com/CenterForDigitalHumanities/deer](https://github.com/CenterForDigitalHumanities/deer)

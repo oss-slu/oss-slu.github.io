@@ -51,7 +51,7 @@ Key Features
   - Unreal Engine 5
   - C++
   - VR (Meta Quest / SteamVR)
-- **License:** Not yet established
+- **License:** [MIT](https://opensource.org/license/mit)
 - **Security:** [SECURITY.md](https://github.com/oss-slu/mechatronics-vr/blob/main/SECURITY.md)
 
 ### Technical Overview

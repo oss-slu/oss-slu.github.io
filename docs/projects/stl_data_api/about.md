@@ -12,6 +12,8 @@ The **STL Metro Data API** is an open-source platform designed to centralize, st
 
 This project solves that problem.
 
+> **Note:** This project is currently stable with no active development team.
+
 We are building a **high-quality, scalable, event-driven data pipeline** and a **RESTful API layer** that makes St. Louis public data accessible, reliable, and easy to integrate into applications, reports, and research.
 
 Imagine a single platform that brings together all regional datasets—transit information, zoning records, public health data, crime statistics, environmental datasets, and more—into one consistent, developer-friendly API.

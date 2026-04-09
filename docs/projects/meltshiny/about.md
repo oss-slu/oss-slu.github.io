@@ -8,6 +8,8 @@ custom_edit_url: https://github.com/oss-slu/MeltWin2.0
 
 MeltShiny is a software application that automates the analysis and visualization of DNA melting curves for researchers in chemistry, biology, and genetics. It is built on tools like MeltWin and MeltR, resulting an intuitive graphical user interface with robust data processing capabilities powered by R. MeltShiny removes the need for manual curve fitting with just a few clicks, researchers can upload their DNA melting data and automatically generate graphs and tables. Key benefits include automated outlier removal, compatibility with modern operating systems, and accessibility for non-programmers. By streamlining tedious tasks like handling file formats and filtering data, MeltShiny allows researchers to focus their time on scientific analysis and interpretation. Its simple yet powerful interface makes complex computational analysis of DNA thermodynamics accessible to scientists with varied technical skill levels.
 
+> **Note:** This project is currently stable with no active development team.
+
 ### Information
 
 - **Source Code:** [https://github.com/oss-slu/MeltWin2.0](https://github.com/oss-slu/MeltWin2.0) [<img src="/img/git-alt.svg" alt="git" width="25" height="25" />](https://github.com/oss-slu/MeltWin2.0)

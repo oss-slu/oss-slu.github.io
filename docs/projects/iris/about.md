@@ -8,6 +8,8 @@ custom_edit_url: null
 
 IRIS is a framework for creating custom mobile applications that can handle specialized image search problems. The framework was developed to create an application that uses a custom AI model to identify details about orthopedic screws from x-ray images of a patient.
 
+> **Note:** This project is currently stable with no active development team.
+
 ## Information
 
 - **Source Code:** [https://github.com/oss-slu/image-recognition-integration-system/](https://github.com/oss-slu/image-recognition-integration-system/) [<img src="/img/git-alt.svg" alt="git" width="25" height="25" />](https://github.com/oss-slu/image-recognition-integration-system/)
