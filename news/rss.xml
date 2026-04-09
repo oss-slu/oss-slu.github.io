@@ -4,10 +4,100 @@
         <title>Open Source with SLU Blog</title>
         <link>https://oss-slu.github.io/news</link>
         <description>Open Source with SLU Blog</description>
-        <lastBuildDate>Sun, 08 Dec 2024 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 07 Dec 2025 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[Real-Time Pilot Data Synchronization for Research Platforms]]></title>
+            <link>https://oss-slu.github.io/news/2025/12/07/Pilot-data-synchronization-imotions-integration</link>
+            <guid>https://oss-slu.github.io/news/2025/12/07/Pilot-data-synchronization-imotions-integration</guid>
+            <pubDate>Sun, 07 Dec 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Overview]]></description>
+            <content:encoded><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="overview">Overview<a href="https://oss-slu.github.io/news/2025/12/07/Pilot-data-synchronization-imotions-integration#overview" class="hash-link" aria-label="Direct link to Overview" title="Direct link to Overview">​</a></h2>
+<p>The <strong>Pilot Data Synchronization</strong> project is an open-source research infrastructure initiative designed to enable real-time data transfer from flight simulation environments into behavioral research platforms such as <strong>iMotions</strong>. This system bridges the gap between technical simulation data and applied human-subject research by allowing synchronized physiological and environmental measurements.</p>
+<p>Originally developed to support aviation-focused behavioral studies, the platform has evolved into a modular, cross-platform telemetry relay suitable for a wide range of real-time human-in-the-loop research applications.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="the-problem">The Problem<a href="https://oss-slu.github.io/news/2025/12/07/Pilot-data-synchronization-imotions-integration#the-problem" class="hash-link" aria-label="Direct link to The Problem" title="Direct link to The Problem">​</a></h2>
+<p>In many research environments, behavioral datasets and simulation-based telemetry operate in isolation. Researchers conducting experiments in simulated environments often lack:</p>
+<ul>
+<li>Reliable real-time data pipelines</li>
+<li>Cross-platform simulation compatibility</li>
+<li>Automated data validation and delivery</li>
+<li>Integration with commercial research platforms</li>
+</ul>
+<p>This limits reproducibility, introduces manual data handling overhead, and significantly delays experimental analysis.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="the-solution">The Solution<a href="https://oss-slu.github.io/news/2025/12/07/Pilot-data-synchronization-imotions-integration#the-solution" class="hash-link" aria-label="Direct link to The Solution" title="Direct link to The Solution">​</a></h2>
+<p>The <strong>Pilot Data Synchronization system</strong> solves this problem through an open, modular data pipeline composed of:</p>
+<ul>
+<li><strong>X-Plane Plugin</strong> – extracts live simulation telemetry</li>
+<li><strong>Baton IPC Layer</strong> – handles local inter-process communication</li>
+<li><strong>Relay Server (Rust)</strong> – normalizes and transmits data streams</li>
+<li><strong>iMotions Platform</strong> – consumes synchronized research events</li>
+</ul>
+<p>The system currently supports continuous real-time transmission of:</p>
+<ul>
+<li>Altitude</li>
+<li>Airspeed</li>
+<li>Vertical Speed</li>
+<li>Heading</li>
+</ul>
+<p>Data is streamed at millisecond resolution with verified stability across Mac and Windows environments.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="system-architecture">System Architecture<a href="https://oss-slu.github.io/news/2025/12/07/Pilot-data-synchronization-imotions-integration#system-architecture" class="hash-link" aria-label="Direct link to System Architecture" title="Direct link to System Architecture">​</a></h2>
+<p>The data flow follows a layered safety and validation model:</p>
+<ol>
+<li><strong>X-Plane Plugin</strong> captures flight telemetry</li>
+<li><strong>Baton IPC</strong> transports structured payloads locally</li>
+<li><strong>Rust Relay</strong> performs normalization, safety checks, and transmission</li>
+<li><strong>iMotions</strong> receives validated research events</li>
+</ol>
+<p>By isolating concurrency and memory safety inside the Rust relay, the system ensures high reliability even under sustained telemetry loads.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="technical-achievements">Technical Achievements<a href="https://oss-slu.github.io/news/2025/12/07/Pilot-data-synchronization-imotions-integration#technical-achievements" class="hash-link" aria-label="Direct link to Technical Achievements" title="Direct link to Technical Achievements">​</a></h2>
+<p>This iteration achieved several critical milestones:</p>
+<ul>
+<li>Full real-time transmission of four synchronized flight metrics into iMotions</li>
+<li>Cross-platform build validation for Mac and Windows systems</li>
+<li>Rust-based network relay hardening with structured packet validation</li>
+<li>CI pipeline modernization with pinned toolchains and test automation</li>
+<li>Dynamic data visualization support for research validation</li>
+</ul>
+<p>Most importantly, the system now enables <strong>live experimental workflows</strong> where researchers can observe simulation conditions and behavioral responses simultaneously.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="research-impact">Research Impact<a href="https://oss-slu.github.io/news/2025/12/07/Pilot-data-synchronization-imotions-integration#research-impact" class="hash-link" aria-label="Direct link to Research Impact" title="Direct link to Research Impact">​</a></h2>
+<p>This integration directly enabled the completion of a long-running research workflow that had previously been blocked due to infrastructure limitations. By providing a stable, real-time data pipeline, researchers can now:</p>
+<ul>
+<li>Focus on behavioral analysis instead of data engineering</li>
+<li>Conduct reproducible, synchronized experiments</li>
+<li>Expand into multi-modal physiological and simulator-based studies</li>
+</ul>
+<p>The system is now serving as active research infrastructure rather than a proof-of-concept prototype.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="open-source-and-community-value">Open Source and Community Value<a href="https://oss-slu.github.io/news/2025/12/07/Pilot-data-synchronization-imotions-integration#open-source-and-community-value" class="hash-link" aria-label="Direct link to Open Source and Community Value" title="Direct link to Open Source and Community Value">​</a></h2>
+<p>The project emphasizes:</p>
+<ul>
+<li>Open modular architecture</li>
+<li>Strong documentation for onboarding</li>
+<li>Contributor-friendly issue tracking</li>
+<li>Cross-platform compatibility</li>
+<li>Research-driven product design</li>
+</ul>
+<p>This makes the project suitable for future student teams, external open-source contributors, and interdisciplinary researchers.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="future-direction">Future Direction<a href="https://oss-slu.github.io/news/2025/12/07/Pilot-data-synchronization-imotions-integration#future-direction" class="hash-link" aria-label="Direct link to Future Direction" title="Direct link to Future Direction">​</a></h2>
+<p>Planned next steps include:</p>
+<ul>
+<li>Dynamic IP handling for multi-host laboratory environments</li>
+<li>Automated device discovery</li>
+<li>Research-grade data loss detection</li>
+<li>Expanded real-time metrics pipeline</li>
+<li>Public API for additional simulation sources</li>
+</ul>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="conclusion">Conclusion<a href="https://oss-slu.github.io/news/2025/12/07/Pilot-data-synchronization-imotions-integration#conclusion" class="hash-link" aria-label="Direct link to Conclusion" title="Direct link to Conclusion">​</a></h2>
+<p>Pilot Data Synchronization demonstrates how open-source infrastructure can directly enable scientific research. By integrating flight simulation telemetry with behavioral research platforms, the project removes a significant technical barrier and creates new possibilities for human-simulation hybrid experiments.</p>
+<p>This work highlights the value of sustainable, community-driven research software as a foundation for long-term experimental innovation.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="project-links">Project Links<a href="https://oss-slu.github.io/news/2025/12/07/Pilot-data-synchronization-imotions-integration#project-links" class="hash-link" aria-label="Direct link to Project Links" title="Direct link to Project Links">​</a></h2>
+<ul>
+<li>GitHub Repository:<br>
+<a href="https://github.com/oss-slu/PilotDataSynchronization" target="_blank" rel="noopener noreferrer">https://github.com/oss-slu/PilotDataSynchronization</a></li>
+</ul>
+<p><em>This project is part of the Open Source with SLU initiative supporting sustainable research software and collaborative engineering education.</em></p>]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[Open Source with SLU Tech Leads Visit Local Code and Coffee Meetup]]></title>
             <link>https://oss-slu.github.io/news/2024/12/8/code-and-coffee</link>
