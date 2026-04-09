@@ -282,7 +282,7 @@ Where's Religion project is a combination of a [desktop (web browser based) appl
 This project was successful based on the following success metrics (as described in this playbook):
 
 - The project is actively used by the client (success metric from the [Project Selection, Deliveray, and Support](#1-project-selection-delivery-and-support) section)
-- All students working on these projects received top grades (success metric from the [Software Development with Enrolled Students](#2-software-deveopment-with-enrolled-students) section)
+- All students working on these projects received top grades (success metric from the [Software Development with Enrolled Students](#2-software-development-with-enrolled-students) section)
 - COLR staff applied for an NEH Digital Humanities Advancement Grant to continue their studies, based on the preliminary tools we built (success metric from the [Faculty Outreach](#5-faculty-outreach) section)
 - Tech lead from this project received a job offer from COLR (success metric from the [Industry Outreach](#6-industry-outreach) section)
 
@@ -293,7 +293,7 @@ MeltShiny allows computational chemists to perform the analysis of the aminoacid
 This project was successful based on the following success metrics (as described in this playbook):
 
 - The client is intersted in continuing to work with us (after two years of collaboration). There are a few fixes that remain to be done to get this application to the state when it can be actively used by clients. (success metric from the [Project Selection, Deliveray, and Support](#1-project-selection-delivery-and-support) section)
-- All students working on this rpoject recieved top grades. (success metric from the [Software Development with Enrolled Students](#2-software-deveopment-with-enrolled-students) section)
+- All students working on this rpoject recieved top grades. (success metric from the [Software Development with Enrolled Students](#2-software-development-with-enrolled-students) section)
 - We secured $25K in internal funding to continue development of this application. (success metric from the [Faculty Outreach](#5-faculty-outreach) section)
 
 ### Failed Project - Santiago

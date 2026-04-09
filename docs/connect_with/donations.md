@@ -26,7 +26,7 @@ Just follow these steps:
 
 ## Want to Sponsor a Project or Program?
 
-Organizations seeking deeper engagement can explore [sponsorship opportunities](connect_with/sponsorship) with us. Sponsorships align strategic investments with workforce development, innovation initiatives, and community impact goals. These partnerships offer structured collaboration opportunities including project sponsorship, talent pipeline access, and research collaboration that create mutual value while advancing our shared mission of using technology to serve others.
+Organizations seeking deeper engagement can explore [sponsorship opportunities](/connect_with/sponsor) with us. Sponsorships align strategic investments with workforce development, innovation initiatives, and community impact goals. These partnerships offer structured collaboration opportunities including project sponsorship, talent pipeline access, and research collaboration that create mutual value while advancing our shared mission of using technology to serve others.
 
 ---
 *Ready to make a lasting impact on technology education and open source innovation? Your gift creates opportunities for students to develop real-world skills while building software that serves researchers, nonprofits, and communities. Every contribution helps build a more inclusive, innovative future where technology serves humanity's highest aspirations—join our community of supporters who are investing in transformative change.*
