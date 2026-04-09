@@ -33,7 +33,7 @@ Partner with us to get custom software solutions while providing invaluable lear
 
 Help us expand access to experiential learning through sponsorship, mentorship, or other forms of program support.
 
-**[Support the Program →](/connect_with/sponsorship/)**
+**[Support the Program →](/connect_with/sponsor)**
 
 ![Community event with program supporters](/img/community_supporters.jpg)
 

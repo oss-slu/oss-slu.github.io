@@ -244,11 +244,11 @@ const config = {
               },
               {
                 label: 'Consult with OSS',
-                to: '/connect_with/consulting',
+                to: '/connect_with/consult',
               },
               {
                 label: 'Sponsor Open Source with SLU',
-                to: '/connect_with/donations',
+                to: '/connect_with/donate',
               },
             ],
           },
