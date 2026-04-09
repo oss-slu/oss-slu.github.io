@@ -1,10 +1,5 @@
 [
     {
-        "name": "Munazzah Rizwan Rakhangi",
-        "image": "",
-        "profileLink": "https://github.com/Munazzah-Rakhangi"
-    },
-    {
         "name": "Pelumi Oluwategbe",
         "image": "",
         "profileLink": "https://github.com/pelumitegbe"
@@ -25,31 +20,6 @@
         "profileLink": "https://github.com/vbramhadevi"
     },
     {
-        "name": "Obsa Sendaba",
-        "image": "",
-        "profileLink": "https://github.com/Obssaa"
-    },
-    {
-        "name": "Tanzim Farhan",
-        "image": "",
-        "profileLink": "https://github.com/tanzim10"
-    },
-    {
-        "name": "Prakhyat Pandit",
-        "image": "",
-        "profileLink": "https://github.com/prakhyatpandit"
-    },
-    {
-        "name": "Kasi Viswanath Reddy Chilakala",
-        "image": "",
-        "profileLink": "https://github.com/viswanathreddy1017"
-    },
-    {
-        "name": "Varma Penmetsa",
-        "image": "",
-        "profileLink": "https://github.com/SrinivasaVarmaP"
-    },
-    {
         "name": "Samuel Kann",
         "image": "",
         "profileLink": "https://github.com/dracpak"
@@ -60,11 +30,6 @@
         "profileLink": "https://github.com/leandrumartin"
     },
     {
-        "name": "Vinay Billa",
-        "image": "/img/vinay_billa.jpg",
-        "profileLink": "https://github.com/vinay-billa-slu"
-    },
-     {
         "name": "Supraja Chitmilla",
         "image": "",
         "profileLink": "https://github.com/Supraja050202"
@@ -85,16 +50,6 @@
         "profileLink": "https://github.com/InfinityBowman"
     },
     {
-        "name": "Wendy Onwuagana",
-        "image": "",
-        "profileLink": "https://github.com/UcheWendy"
-    },
-    {
-        "name": "Julian Shniter",
-        "image": "",
-        "profileLink": "https://github.com/smallrussian"
-    },
-    {
         "name": "Devayani Chakravarthi Konakalla",
         "image": "",
         "profileLink": "https://github.com/Devayani1612"
@@ -105,18 +60,73 @@
         "profileLink": "https://github.com/premkiran2"
     },
     {
-        "name": "Vani Walvekar",
+        "name": "Sri Ram Duvvuri",
         "image": "",
-        "profileLink": "https://github.com/vani-walvekar1494"
+        "profileLink": "https://github.com/sriram1302"
     },
     {
-       "name": "Sri Ram Duvvuri",
-       "image": "",
-       "profileLink": "https://github.com/sriram1302" 
+        "name": "Mainuddin",
+        "image": "",
+        "profileLink": "https://github.com/mainuddinMains"
     },
     {
-        "name": "Shahid Shabeer Malik",
+        "name": "Jon Honeycutt",
         "image": "",
-        "profileLink": "https://github.com/Shahid1Malik"
+        "profileLink": "https://github.com/Cheezyrock"
+    },
+    {
+        "name": "Sameer Maayiz Sirajudeen",
+        "image": "",
+        "profileLink": "https://github.com/Smagen12"
+    },
+    {
+        "name": "Mansi Gidugu",
+        "image": "",
+        "profileLink": "https://github.com/Mansi-SLU"
+    },
+    {
+        "name": "Mathew Shereni",
+        "image": "",
+        "profileLink": "https://github.com/MATHEW-SHERENI"
+    },
+    {
+        "name": "Reshma Dudekula",
+        "image": "",
+        "profileLink": "https://github.com/allenbakki"
+    },
+    {
+        "name": "Charlie Wells",
+        "image": "",
+        "profileLink": "https://github.com/CharlieWells13"
+    },
+    {
+        "name": "Anthony Russo",
+        "image": "",
+        "profileLink": "https://github.com/AanthonyRusso"
+    },
+    {
+        "name": "Ngan Nguyen",
+        "image": "",
+        "profileLink": "https://github.com/daisyNBN"
+    },
+    {
+        "name": "Henry Wang",
+        "image": "",
+        "profileLink": "https://github.com/ImJustHenry"
+    },
+    {
+        "name": "Briana Huelsman",
+        "image": "",
+        "profileLink": "https://github.com/bhuelsman"
+    },
+    {
+        "name": "Daniel Awodeyi",
+        "image": "",
+        "profileLink": "https://github.com/AyoAwodeyi"
+    },
+    {
+        "name": "Hazel Caballero",
+        "image": "",
+        "profileLink": "https://github.com/hcaballero2"
     }
 ]
