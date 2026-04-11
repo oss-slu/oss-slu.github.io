@@ -72,9 +72,10 @@ const sidebars = {
     },
     {
       type: 'category',
-      label: 'Projects & Products',
+      label: 'Projects',
       items: [
         {
+          label: 'Product Portfolio',
           type: 'doc',
           id: 'projects/portfolio',
         },
@@ -86,104 +87,124 @@ const sidebars = {
     },
     {
       type: 'category',
-      label: 'Connect with OSS',
+      label: 'Connect',
+      items: [
+        {
+          label: 'For Students',
+          type: 'doc',
+          id: 'connect_with/student_opportunities',
+        },
+        {
+          label: 'For Researchers',
+          type: 'doc',
+          id: 'connect_with/researcher_opportunities',
+        },
+        {
+          label: 'For Community',
+          type: 'doc',
+          id: 'connect_with/community_opportunities',
+        },
+        {
+          label: 'For Organizations',
+          type: 'doc',
+          id: 'connect_with/organization_opportunities',
+        },
+        {
+          label: 'For Volunteers',
+          type: 'doc',
+          id: 'connect_with/volunteer_opportunities',
+        },
+      ],
+    },
+    {
+      type: 'category',
+      label: 'Get Involved',
       items: [
         {
           type: 'category',
-          label: 'Get involved as an individual',
+          label: 'Contribute',
+          link: { type: 'doc', id: 'get_involved/contribute' },
           items: [
             {
-              label: 'Participate',
+              label: 'Contribute Code',
               type: 'doc',
-              id: 'connect_with/participants',
+              id: 'get_involved/community'
             },
             {
-              label: 'Contribute',
+              label: 'Gain Experience',
               type: 'doc',
-              id: 'connect_with/community'
+              id: 'get_involved/experience'
             },
             {
-              label: 'Experience',
+              label: 'Lead a Team',
               type: 'doc',
-              id: 'connect_with/experience'
-            },
-            {
-              label: 'Lead',
-              type: 'doc',
-              id: 'connect_with/leadership'
+              id: 'get_involved/leadership'
             },
             {
               label: 'Mentor',
               type: 'doc',
-              id: 'connect_with/mentor'
+              id: 'get_involved/mentor'
             },
           ]
         },
         {
           type: 'category',
-          label: 'Partner as an organization',
+          label: 'Partner',
+          link: { type: 'doc', id: 'get_involved/partner' },
           items: [
-            {
-              label: 'Partner',
-              type: 'doc',
-              id: 'connect_with/partners',
-            },
             {
               label: 'Engage Programs',
               type: 'doc',
-              id: 'connect_with/engage'
+              id: 'get_involved/engage'
             },
             {
               label: 'Develop Software',
               type: 'doc',
-              id: 'connect_with/solutions'
+              id: 'get_involved/solutions'
             },
             {
               label: 'Discover Talent',
               type: 'doc',
-              id: 'connect_with/talent'
+              id: 'get_involved/talent'
             },
             {
               label: 'Sponsor',
               type: 'doc',
-              id: 'connect_with/sponsor'
+              id: 'get_involved/sponsor'
             },
           ]
         },
         {
           type: 'category',
-          label: 'Consult with an expert',
+          label: 'Get Help',
+          link: { type: 'doc', id: 'get_involved/get_help' },
           items: [
-          { 
-            type: 'doc',
-            id: 'connect_with/consult',
-          },
           {
             label: 'Research Software Consults',
             type: 'doc',
-            id: 'connect_with/rse'
+            id: 'get_involved/rse'
           },
           {
             label: 'Clinics and Workshops',
             type: 'doc',
-            id: 'connect_with/training'
+            id: 'get_involved/training'
           },
           {
             label: 'Open Data Planning',
             type: 'doc',
-            id: 'connect_with/data'
+            id: 'get_involved/data'
           },
           {
             label: 'Open Science',
             type: 'doc',
-            id: 'connect_with/open_science'
+            id: 'get_involved/open_science'
           },
           ]
         },
         {
-          label: 'Make a gift',
+          label: 'Support Us',
           type: 'doc',
-          id: 'connect_with/donate',
+          id: 'get_involved/donate',
         },
       ],
     },
@@ -241,15 +262,15 @@ const sidebars = {
     },
     {
       type: 'category',
-      label: 'Projects & Products',
+      label: 'Projects',
       items: [
         {
           type: 'category',
-          label: 'Portfolio',
+          label: 'Product Portfolio',
           items: [
             {
               type: 'category',
-              label: 'Active Products & Projects',
+              label: 'Active Products',
               items: [
                 {
                   type: 'doc',
@@ -363,7 +384,7 @@ const sidebars = {
             },
             {
               type: 'category',
-              label: 'Stable Projects',
+              label: 'Stable Products',
               items: [
                 {
                   type: 'doc',
@@ -425,7 +446,7 @@ const sidebars = {
             },
             {
               type: 'category',
-              label: 'Inactive Projects',
+              label: 'Inactive Products',
               items: [
                 {
                   type: 'link',
@@ -477,8 +498,13 @@ const sidebars = {
     },
     {
       type: 'ref',
-      label: 'Connect with OSS',
-      id: 'connect_with/oss',
+      label: 'Connect',
+      id: 'connect_with/student_opportunities',
+    },
+    {
+      type: 'ref',
+      label: 'Get Involved',
+      id: 'get_involved/contribute',
     },
     {
       type: 'ref',

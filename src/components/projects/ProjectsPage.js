@@ -64,7 +64,7 @@ export default function ProjectsPage() {
   const sections = [
     { title: "Current Open Source with SLU Product Development", key: "current" },
     { title: "Stable & Supported Products", key: "stable" },
-    { title: "Completed & Inactive Projects", key: "completed" }
+    { title: "Completed & Inactive Products", key: "completed" }
   ];
 
   return (
