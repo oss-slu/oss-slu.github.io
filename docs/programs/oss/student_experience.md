@@ -3,19 +3,13 @@ id: student_experience
 title: Student Experience
 custom_edit_url: null
 ---
-*From classroom learning to professional development: how students grow through real-world software engineering*
-
-## Transformation Through Authentic Work
 
 Students enter Opening Skills and Solutions with varying levels of programming experience but share a common goal: becoming professional developers. Through sustained work on real products with actual clients, they develop both technical expertise and professional confidence.
 
-<!-- ![Before/after comparison showing student growth or portfolio development over time]() -->
+<details>
+<summary>Technical Skills</summary>
 
-## Technical Skills Development
-
-### Industry-Standard Practices
-
-Students gain proficiency in the tools and workflows that define modern software development:
+**Industry-Standard Practices:**
 
 - **Version control systems** like Git and collaborative development on GitHub
 - **Code review processes** that ensure quality and promote learning
@@ -23,7 +17,7 @@ Students gain proficiency in the tools and workflows that define modern software
 - **Deployment practices** using modern CI/CD approaches
 - **Documentation standards** for sustainable open source projects
 
-### Real-World Problem Solving
+**Real-World Problem Solving:**
 
 Working with authentic client requirements teaches students to navigate the complexity of professional development:
 
@@ -33,11 +27,12 @@ Working with authentic client requirements teaches students to navigate the comp
 - Balancing feature requests with technical constraints
 - Managing technical debt and refactoring legacy code
 
-<!-- ![Student working through complex code]() -->
+</details>
 
-## Professional Growth
+<details>
+<summary>Professional Growth</summary>
 
-### Portfolio Building
+**Portfolio Building:**
 
 Every contribution becomes part of a public portfolio that demonstrates real-world capabilities to potential employers and graduate programs. Students graduate with:
 
@@ -46,13 +41,11 @@ Every contribution becomes part of a public portfolio that demonstrates real-wor
 - **Client testimonials** validating their professional impact
 - **Technical documentation** showcasing communication skills
 
-### Network Development
+**Network Development:**
 
 Direct engagement with open source communities, industry professionals, and fellow developers creates lasting professional relationships that extend far beyond the academic program.
 
-<!-- ![student presenting at conference/meetup showing professional connections]() -->
-
-### Communication Skills
+**Communication Skills:**
 
 Working with clients develops crucial professional communication abilities:
 
@@ -61,43 +54,39 @@ Working with clients develops crucial professional communication abilities:
 - **Technical explanation** to non-technical stakeholders
 - **Collaborative problem-solving** in team environments
 
-## Confidence Through Experience
+</details>
 
-- **Authentic Responsibility** Students work as professional developers with real accountability to clients, teammates, and product quality. This authentic responsibility builds confidence that can't be replicated in classroom simulations.
-- **Iterative Learning** Semester-long engagements allow students to see the full development lifecycle while building deep expertise in specific products and technologies.
-- **Mistake Recovery** The supportive environment of faculty oversight and near-peer mentorship allows students to learn from real mistakes without career-ending consequences.
+<details>
+<summary>Confidence Through Experience</summary>
 
-<!-- ![Team celebration]() -->
+- **Authentic Responsibility**: Students work as professional developers with real accountability to clients, teammates, and product quality. This authentic responsibility builds confidence that can't be replicated in classroom simulations.
+- **Iterative Learning**: Semester-long engagements allow students to see the full development lifecycle while building deep expertise in specific products and technologies.
+- **Mistake Recovery**: The supportive environment of faculty oversight and near-peer mentorship allows students to learn from real mistakes without career-ending consequences.
 
-## Career Preparation
+</details>
 
-- **Immediate Impact** Graduates enter the workforce with proven experience rather than theoretical knowledge. They start careers as experienced developers, not entry-level programmers learning professional practices for the first time.
-- **Industry Recognition** Employers value candidates who understand collaborative development, client communication, and open source contribution. Our graduates stand out in competitive job markets.
-- **Continued Growth** The foundation built through Opening Skills and Solutions supports continued learning and advancement throughout professional careers.
+<details>
+<summary>Career Preparation</summary>
 
-<!-- ![Alumni in professional roles]() -->
+- **Immediate Impact**: Graduates enter the workforce with proven experience rather than theoretical knowledge. They start careers as experienced developers, not entry-level programmers learning professional practices for the first time.
+- **Industry Recognition**: Employers value candidates who understand collaborative development, client communication, and open source contribution. Our graduates stand out in competitive job markets.
+- **Continued Growth**: The foundation built through Opening Skills and Solutions supports continued learning and advancement throughout professional careers.
 
-<!-- collecting real, not imagined, stories
-## Student Success Stories
+</details>
 
-- **Technical Achievement** *"Working on the data analysis platform taught me more about scalable architecture in one semester than I learned in all my other courses combined. When I started my job, I was already familiar with the deployment tools and database optimization techniques my team was using."*
-- **Professional Development** *"Learning to communicate with our client about technical trade-offs prepared me for stakeholder meetings in my current role. I'm comfortable explaining complex technical decisions to non-technical managers."*
-- **Confidence Building** *"By the end of the program, I wasn't afraid of large codebases anymore. I knew how to dive in, understand existing systems, and make meaningful contributions without breaking things."* -->
+<details>
+<summary>Getting Started</summary>
 
-<!-- ![Student testimonial photos]() -->
-
-## Getting Started
-
-### Application Process
+**What We Look For:**
 
 We focus on motivation and learning potential rather than existing expertise. Successful candidates demonstrate:
 
 - **Curiosity** about software development and problem-solving
-- **Commitment** to sustained effort and professional growth  
+- **Commitment** to sustained effort and professional growth
 - **Collaboration** skills for effective teamwork
 - **Communication** abilities for client interaction
 
-### Preparation
+**Preparation:**
 
 While we don't require extensive programming experience, students benefit from:
 
@@ -106,10 +95,10 @@ While we don't require extensive programming experience, students benefit from:
 - Experience with collaborative tools like Git (helpful but not required)
 - Interest in open source software and community contribution
 
-<!-- ![Onboarding process, a welcoming, accessible entry point]() -->
+</details>
 
 ---
 
-**Ready to apply?** Learn about [Getting Involved →](./get_involved.md) and start your journey as a professional developer.
+**Ready to get involved?** Learn about [Getting Involved](./get_involved.md) and the different ways to participate.
 
-**Want the details?** Review our [Team Structure →](team_structure.md) and [How It Works →](how_it_works.md) pages.
+**Want the details?** Review our [Team Structure](team_structure.md) and [How It Works](how_it_works.md) pages.

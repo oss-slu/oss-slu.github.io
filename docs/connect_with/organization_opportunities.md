@@ -1,6 +1,6 @@
 ---
 id: organization_opportunities
-title: For Organizations
+title: Organizations
 custom_edit_url: null
 ---
 

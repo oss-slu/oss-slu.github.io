@@ -1,6 +1,6 @@
 ---
 id: student_opportunities
-title: For Students
+title: Students
 custom_edit_url: null
 ---
 

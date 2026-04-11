@@ -11,13 +11,13 @@ custom_edit_url: null
 
 Join a capstone team and work as a software engineer on real client projects while earning course credit and building your professional portfolio.
 
-**[Learn about Capstone →](/connect_with/experience)**
+**[Learn about Capstone →](/get_involved/experience)**
 
 ## For Graduate Students
 
 Lead product teams as a Tech Lead, developing both technical and leadership skills while guiding undergraduate developers and coordinating with clients.
 
-**[Apply for Tech Lead Roles →](/connect_with/leadership)**
+**[Apply for Tech Lead Roles →](/get_involved/leadership)**
 
 ![undergraduate developers and graduate student leaders collaborating](/img/grad_and_undergrads_collab.jpg)
 
@@ -25,7 +25,7 @@ Lead product teams as a Tech Lead, developing both technical and leadership skil
 
 Partner with us to get custom software solutions while providing invaluable learning opportunities for emerging developers.
 
-**[Become a Client →](/connect_with/solutions)**
+**[Become a Client →](/get_involved/solutions)**
 
 <!-- ![delivered software in use]() -->
 
@@ -33,7 +33,7 @@ Partner with us to get custom software solutions while providing invaluable lear
 
 Help us expand access to experiential learning through sponsorship, mentorship, or other forms of program support.
 
-**[Support the Program →](/connect_with/sponsor)**
+**[Support the Program →](/get_involved/sponsor)**
 
 ![Community event with program supporters](/img/community_supporters.jpg)
 

@@ -21,7 +21,6 @@ Our [Industry Fellows](/programs/fellows/) program creates structured mentorship
 
 ## Apply to Become an Industry Fellow
 
-Ready to make a meaningful impact on the next generation of software developers? Applications for our Industry Fellows program are now open. ***Applications should be submitted by July 31st, 2025***. Selected participants will be notified by August 5th, followed by a multi-week onboarding process to prepare you for success in your mentoring role. The first in-person mentoring event will take place on September 1st, marking the beginning of an enriching semester of collaboration with student development teams. Don't miss this opportunity to combine professional development, community engagement, and talent pipeline building while contributing to innovative open-source projects that support research and community needs. [Find out more detail, and apply today](/programs/fellows/apply)
+Applications for the Industry Fellows program are accepted on a rolling basis, with priority deadlines before each semester. See [current dates and application process](/programs/fellows/process_dates) for the upcoming cohort timeline.
 
----
-*Ready to shape the future of software development while building meaningful professional connections? Whether you're looking to join our growing development community through Slack or commit to our structured Industry Fellows program, your expertise can make a real difference in student careers while contributing to impactful open source projects. The next generation of developers is waiting to learn from your experience—and you might just discover your next great hire or collaboration partner along the way.*
+[Apply today ⇨](/programs/fellows/apply)

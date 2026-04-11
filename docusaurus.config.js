@@ -78,6 +78,8 @@ const config = {
           { from: '/connect_with/data', to: '/get_involved/data' },
           { from: '/connect_with/open_science', to: '/get_involved/open_science' },
           { from: '/connect_with/donate', to: '/get_involved/donate' },
+          // Tech Lead Dates moved from Get Involved to Programs
+          { from: '/get_involved/tech_lead_dates', to: '/programs/oss/dossp_dates' },
         ],
       },
     ],

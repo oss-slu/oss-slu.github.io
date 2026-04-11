@@ -1,6 +1,6 @@
 ---
 id: researcher_opportunities
-title: For Researchers
+title: Researchers
 custom_edit_url: null
 ---
 

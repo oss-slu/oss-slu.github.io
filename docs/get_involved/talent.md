@@ -26,7 +26,7 @@ Our flexible engagement models are tailored to meet your needs.
 
 + Access to a skilled and cost-effective team of developers.
 + Hire key personnel immediately after the project ends.
-+ Accelerate R&D projects or open source contributions.` 
++ Accelerate R&D projects or open source contributions.
 + Avoid committing or distracting internal resources.
 + Identify and cultivate top talent for future hiring opportunities.
 + Gain fresh perspectives and innovative ideas.
@@ -67,5 +67,3 @@ E-mail [oss@slu.edu](mailto:oss@slu.edu)
 
 Unleash the potential of open-source software development and drive innovation with our talented student teams.
 
----
-*Ready to discover your next great hire while advancing innovation? Our talent pipeline program offers direct access to motivated student developers who deliver real results on projects that matter to your organization. Skip the traditional internship challenges and gain meaningful insights into future talent while accelerating your R&D goals and contributing to open source infrastructure. Connect with emerging developers who are ready to drive your innovation forward—let's discuss how our managed talent pipeline can serve your needs.*

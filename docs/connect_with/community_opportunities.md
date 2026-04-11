@@ -1,6 +1,6 @@
 ---
 id: community_opportunities
-title: For Community
+title: Community
 custom_edit_url: null
 ---
 

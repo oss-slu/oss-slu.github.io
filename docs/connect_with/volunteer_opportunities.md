@@ -1,6 +1,6 @@
 ---
 id: volunteer_opportunities
-title: For Volunteers
+title: Volunteers
 custom_edit_url: null
 ---
 

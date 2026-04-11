@@ -37,21 +37,45 @@ const sidebars = {
                 { type: 'doc', id: 'programs/oss/how_it_works' },
                 { type: 'doc', id: 'programs/oss/student_experience' },
                 { type: 'doc', id: 'programs/oss/team_structure' },
+                {
+                  type: 'category',
+                  label: 'CS Capstone',
+                  link: { type: 'doc', id: 'programs/oss/capstone' },
+                  items: [
+                    { type: 'doc', id: 'programs/oss/capstone_dates', label: 'Dates & Timeline' },
+                  ]
+                },
+                {
+                  type: 'category',
+                  label: 'Developing OSS Products',
+                  link: { type: 'doc', id: 'programs/oss/dossp' },
+                  items: [
+                    { type: 'doc', id: 'programs/oss/dossp_dates', label: 'Dates & Timeline' },
+                  ]
+                },
                 { type: 'doc', id: 'programs/oss/get_involved' },
               ]
             },
             {
-              type: 'doc',
-              id: 'programs/bolt'
+              type: 'category',
+              label: 'BOLT Workshop',
+              link: { type: 'doc', id: 'programs/bolt/overview' },
+              items: [
+                { type: 'doc', id: 'programs/bolt/workshop', label: 'Workshop Content' },
+                { type: 'doc', id: 'programs/bolt/participate', label: 'Participate' },
+                { type: 'doc', id: 'programs/bolt/dates', label: 'Dates & Timeline' },
+              ]
             },
             {
               type: 'category',
               label: 'Industry Fellows',
               link: { type: 'doc', id: 'programs/fellows/overview'},
               items: [
-                { type: 'doc', id: 'programs/fellows/process_dates' },
+                { type: 'doc', id: 'programs/fellows/role', label: 'The Role' },
+                { type: 'doc', id: 'programs/fellows/process_dates', label: 'Application Process' },
                 { type: 'doc', id: 'programs/fellows/faq' },
                 { type: 'doc', id: 'programs/fellows/apply' },
+                { type: 'doc', id: 'programs/fellows/key_dates', label: 'Key Dates' },
               ]
             },
             {
@@ -90,27 +114,27 @@ const sidebars = {
       label: 'Connect',
       items: [
         {
-          label: 'For Students',
+          label: 'Students',
           type: 'doc',
           id: 'connect_with/student_opportunities',
         },
         {
-          label: 'For Researchers',
+          label: 'Researchers',
           type: 'doc',
           id: 'connect_with/researcher_opportunities',
         },
         {
-          label: 'For Community',
+          label: 'Community',
           type: 'doc',
           id: 'connect_with/community_opportunities',
         },
         {
-          label: 'For Organizations',
+          label: 'Organizations',
           type: 'doc',
           id: 'connect_with/organization_opportunities',
         },
         {
-          label: 'For Volunteers',
+          label: 'Volunteers',
           type: 'doc',
           id: 'connect_with/volunteer_opportunities',
         },
@@ -210,45 +234,53 @@ const sidebars = {
     },
     {
       type: 'category',
-      label: 'Open Resources',
+      label: 'About',
+      collapsible: true,
+      collapsed: false,
       items: [
         {
-          type: 'doc',
-          id: 'resources/open/open',
+          type: 'category',
+          label: 'People',
+          items: [
+            {
+              label: 'Leadership',
+              type: 'doc',
+              id: 'people/leadership'
+            },
+            {
+              label: 'Staff',
+              type: 'doc',
+              id: 'people/staff',
+            },
+            {
+              label: 'Contributors',
+              type: 'doc',
+              id: 'people/contributors'
+            },
+            {
+              label: 'Affiliations',
+              type: 'doc',
+              id: 'people/affiliations'
+            },
+          ],
         },
         {
-          type: 'doc',
-          id: 'resources/playbooks/playbook',
-        },
-        {
-          type: 'doc',
-          id: 'resources/role_guides/role_guides',
-        },
-      ]
-    },
-    {
-      type: 'category',
-      label: 'People',
-      items: [
-        {
-          label: 'Leadership',
-          type: 'doc',
-          id: 'people/leadership'
-        },
-        {
-          label: 'Staff',
-          type: 'doc',
-          id: 'people/staff',
-        },
-        { 
-          label: 'Contributors',
-          type: 'doc',
-          id: 'people/contributors'
-        },
-        { 
-          label: 'Affiliations',
-          type: 'doc',
-          id: 'people/affiliations'
+          type: 'category',
+          label: 'Open Resources',
+          items: [
+            {
+              type: 'doc',
+              id: 'resources/open/open',
+            },
+            {
+              type: 'doc',
+              id: 'resources/playbooks/playbook',
+            },
+            {
+              type: 'doc',
+              id: 'resources/role_guides/role_guides',
+            },
+          ],
         },
       ],
     },
