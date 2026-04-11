@@ -27,3 +27,13 @@ Resources for the Building Open Leadership Toolsets workshop, an intensive onboa
 <!-- ## Consulting Services -->
 
 <!-- ## Advocating "Open" on Campus -->
+
+---
+
+# General Resources
+
+Resources applicable across programs, roles, and semesters.
+
+## [Codebase Technical Assessment: Guidebook & Rubric](https://github.com/oss-slu/guidebook_tech_debt)
+
+A practical framework for measuring and managing technical debt. Includes a guidance document for conducting assessments and a structured scoring rubric across code quality dimensions. Useful for Tech Leads conducting self-assessments, mentors evaluating projects, and teams preparing for handoffs.
