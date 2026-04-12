@@ -1,64 +1,82 @@
 import React from 'react';
 import projects from '../../data/projects/Projects.json';
+import { kindLabels, domainLabels } from '../../data/projects/productTypes';
 import ProjectCard from './ProjectCard';
 import '../../css/ProjectsPage.css';
 
-const highlights = [
-    {
-      title: "Technologies We Use",
-      items: [
-        { icon: "🧠", text: "AI/ML" },
-        { icon: "⚙️", text: "IoT" },
-        { icon: "🌐", text: "Web Development" },
-        { icon: "📊", text: "Data Visualization" },
-        { icon: "🎤", text: "Speech Processing" },
-        { icon: "📈", text: "ETL Pipelines" },
-      ],
-    },
-    {
-      title: "Industries Served",
-      items: [
-        { icon: "🏥", text: "Healthcare" },
-        { icon: "🧪", text: "Research" },
-        { icon: "🎓", text: "Education" },
-        { icon: "✈️", text: "Aerospace" },
-        { icon: "🧬", text: "Bioinformatics" },
-        { icon: "📚", text: "Digital Humanities" },
-      ],
-    },
-    {
-      title: "Core Capabilities",
-      items: [
-        { icon: "🔎", text: "Data Processing" },
-        { icon: "🖼️", text: "Image Recognition" },
-        { icon: "🗣️", text: "Speech Evaluation" },
-        { icon: "📱", text: "Mobile Apps" },
-        { icon: "🔬", text: "Scientific Visualization" },
-      ],
-    },
-  ];
-  
-  const Highlights = () => {
-    return (
-      <div className="highlights-container">
-        <div className="highlights-grid">
-          {highlights.map((section, idx) => (
-            <div key={idx} className="highlights-card">
-              <h3 className="highlights-title">{section.title}</h3>
-              <ul className="highlights-list">
-                {section.items.map((item, itemIdx) => (
-                  <li key={itemIdx} className="highlights-item">
-                    <span className="highlights-icon">{item.icon}</span>
-                    <span>{item.text}</span>
-                  </li>
-                ))}
-              </ul>
-            </div>
-          ))}
+// Future use: richer highlight cards for technologies, industries, and capabilities.
+// const highlights = [
+//   {
+//     title: "Technologies We Use",
+//     items: ["AI/ML", "IoT", "Web Development", "Data Visualization",
+//             "Speech Processing", "ETL Pipelines"],
+//   },
+//   {
+//     title: "Industries Served",
+//     items: ["Healthcare", "Research", "Education", "Aerospace",
+//             "Bioinformatics", "Digital Humanities"],
+//   },
+//   {
+//     title: "Core Capabilities",
+//     items: ["Data Processing", "Image Recognition", "Speech Evaluation",
+//             "Mobile Apps", "Scientific Visualization"],
+//   },
+// ];
+
+const statusLabels = {
+  current: 'Active',
+  stable: 'Stable & Supported',
+  completed: 'Completed',
+};
+
+function PortfolioHeader() {
+  const total = projects.length;
+  const researchCount = projects.filter(p => p.research).length;
+  const counts = {};
+  for (const p of projects) {
+    counts[p.status] = (counts[p.status] || 0) + 1;
+  }
+
+  // Derive the sets of kinds and domains actually present in the data.
+  const kinds = [...new Set(projects.map(p => p.kind))];
+  const kindList = kinds
+    .map(k => kindLabels[k] || k)
+    .sort()
+    .join(' \u00b7 ');
+
+  const domains = [...new Set(projects.flatMap(p => p.domain || []))];
+  const domainList = domains
+    .map(d => domainLabels[d] || d)
+    .sort()
+    .join(' \u00b7 ');
+
+  return (
+    <div className="stats-header">
+      <div className="stats-row">
+        <div className="stat-item stat-item--total">
+          <span className="stat-number">{total}</span>
+          <span className="stat-label">Total</span>
+        </div>
+        {Object.entries(statusLabels).map(([key, label]) => (
+          <div key={key} className="stat-item">
+            <span className="stat-number">{counts[key] || 0}</span>
+            <span className="stat-label">{label}</span>
+          </div>
+        ))}
+        <div className="stat-item stat-item--divider">
+          <span className="stat-number">{researchCount}</span>
+          <span className="stat-label">Research</span>
         </div>
       </div>
-    );
-  };
+      <p className="stats-subtitle">
+        <strong>Product types:</strong> {kindList}
+      </p>
+      <p className="stats-subtitle">
+        <strong>Domains:</strong> {domainList}
+      </p>
+    </div>
+  );
+}
 
 export default function ProjectsPage() {
   const sections = [
@@ -69,7 +87,7 @@ export default function ProjectsPage() {
 
   return (
     <>
-      {/* <Highlights /> */}
+      <PortfolioHeader />
       <div className="projects-page">
         {sections.map(section => (
           <div key={section.key}>
@@ -87,5 +105,4 @@ export default function ProjectsPage() {
       </div>
     </>
   );
-  
 }

@@ -1,0 +1,66 @@
+/*
+ * Staggered two-column layout that mirrors the intro section above:
+ *   Left (portfolio):    wider  — aligns under the "What is OSS?" text
+ *   Right (contributors): narrower — aligns under the carousel image
+ *
+ * The intro section uses flex: 1 1 300px (text) / flex: 1 1 400px (carousel).
+ * We flip the proportions so the wider card sits under the text column
+ * and the narrower card sits under the image column.
+ */
+
+.statsSection {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 2rem 2rem;
+}
+
+.statsRow {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  gap: 2rem;
+  align-items: flex-start;
+}
+
+/* Wider: matches the carousel column width above */
+.portfolioCard {
+  flex: 1 1 400px;
+  min-width: 260px;
+}
+
+/* Narrower: matches the text column width above */
+.contributorsCard {
+  flex: 1 1 300px;
+  min-width: 260px;
+}
+
+.cardTitle {
+  margin: 0 0 0.75rem;
+  font-size: 1.1rem;
+  font-weight: 600;
+  color: var(--ifm-color-emphasis-700);
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+}
+
+.cardLink {
+  display: block;
+  margin-top: 0.75rem;
+  font-size: 0.9rem;
+}
+
+@media (max-width: 768px) {
+  .statsSection {
+    padding: 0 2rem 2rem;
+  }
+
+  .statsRow {
+    flex-direction: column;
+  }
+
+  .portfolioCard,
+  .contributorsCard {
+    flex: unset;
+    width: 100%;
+  }
+}

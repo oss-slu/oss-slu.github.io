@@ -4,6 +4,7 @@ import Link from "@docusaurus/Link";
 import useDocusaurusContext from "@docusaurus/useDocusaurusContext";
 import Layout from "@theme/Layout";
 import HomepageFeatures from "@site/src/components/HomepageFeatures";
+import HomepageStats from "@site/src/components/HomepageStats";
 import { Carousel } from 'react-responsive-carousel';
 import 'react-responsive-carousel/lib/styles/carousel.min.css';
 
@@ -76,6 +77,7 @@ export default function Home() {
           </div>
         </div>
 
+        <HomepageStats />
         <HomepageFeatures />
       </main>
     </Layout>
