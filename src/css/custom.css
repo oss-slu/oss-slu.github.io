@@ -313,7 +313,7 @@
   transform: scale(1.1);
 }
 
-/* Stats header - shared by Portfolio and Contributors pages */
+/* Stats header - shared by Homepage, Portfolio, and Contributors pages */
 .stats-header {
   margin-bottom: 2rem;
   padding: 1.5rem 2rem;
