@@ -56,6 +56,35 @@ const config = {
     ],
   ],
 
+  plugins: [
+    [
+      '@docusaurus/plugin-client-redirects',
+      {
+        redirects: [
+          // Old connect_with/* pages → new get_involved/* locations
+          { from: '/connect_with/participants', to: '/get_involved/contribute' },
+          { from: '/connect_with/community', to: '/get_involved/community' },
+          { from: '/connect_with/experience', to: '/get_involved/experience' },
+          { from: '/connect_with/leadership', to: '/get_involved/leadership' },
+          { from: '/connect_with/mentor', to: '/get_involved/mentor' },
+          { from: '/connect_with/partners', to: '/get_involved/partner' },
+          { from: '/connect_with/engage', to: '/get_involved/engage' },
+          { from: '/connect_with/solutions', to: '/get_involved/solutions' },
+          { from: '/connect_with/talent', to: '/get_involved/talent' },
+          { from: '/connect_with/sponsor', to: '/get_involved/sponsor' },
+          { from: '/connect_with/consult', to: '/get_involved/get_help' },
+          { from: '/connect_with/rse', to: '/get_involved/rse' },
+          { from: '/connect_with/training', to: '/get_involved/training' },
+          { from: '/connect_with/data', to: '/get_involved/data' },
+          { from: '/connect_with/open_science', to: '/get_involved/open_science' },
+          { from: '/connect_with/donate', to: '/get_involved/donate' },
+          // Tech Lead Dates moved from Get Involved to Programs
+          { from: '/get_involved/tech_lead_dates', to: '/programs/oss/dossp_dates' },
+        ],
+      },
+    ],
+  ],
+
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
@@ -119,48 +148,67 @@ const config = {
             label: 'Connect',
             items: [
               {
-                label: 'Participate (as an individual)',
+                label: 'Students',
                 type: 'doc',
-                docId: 'connect_with/participants'
+                docId: 'connect_with/student_opportunities',
               },
               {
-                label: 'Partner (as an organization)',
+                label: 'Researchers',
                 type: 'doc',
-                docId: 'connect_with/partners'
+                docId: 'connect_with/researcher_opportunities',
               },
               {
-                label: 'Consult with an expert',
+                label: 'Community',
                 type: 'doc',
-                docId: 'connect_with/consult'
+                docId: 'connect_with/community_opportunities',
+              },
+              {
+                label: 'Organizations',
+                type: 'doc',
+                docId: 'connect_with/organization_opportunities',
+              },
+              {
+                label: 'Volunteers',
+                type: 'doc',
+                docId: 'connect_with/volunteer_opportunities',
               },
             ]
           },
           {
             type: 'dropdown',
             position: 'left',
-            label: 'Docs',
+            label: 'Get Involved',
             items: [
               {
-                label: 'All About \'Open\'',
+                label: 'Contribute',
                 type: 'doc',
-                docId: 'resources/open/open',
+                docId: 'get_involved/contribute',
               },
               {
-                label: 'Program Playbooks',
+                label: 'Partner',
                 type: 'doc',
-                docId: 'resources/playbooks/playbook',
+                docId: 'get_involved/partner',
               },
               {
-                label: 'Guides for Participants',
+                label: 'Get Help',
                 type: 'doc',
-                docId: 'resources/role_guides/role_guides',
+                docId: 'get_involved/get_help',
+              },
+              {
+                label: 'Support Us',
+                type: 'doc',
+                docId: 'get_involved/donate',
+              },
+              {
+                label: 'Join Slack',
+                href: 'https://join.slack.com/t/oswslu/shared_invite/zt-24f0qhjbo-NkSfQ4LOg5wXxBdxP4vzfA',
               },
             ]
           },
           {
             type: 'dropdown',
             position: 'left',
-            label: 'Team',
+            label: 'About',
             items: [
               {
                 label: 'Leadership',
@@ -180,22 +228,27 @@ const config = {
               {
                 label: 'Affiliations',
                 type: 'doc',
-                docId: 'people/affiliations'
+                docId: 'people/affiliations',
               },
+              {
+                label: 'Open Knowledge',
+                type: 'doc',
+                docId: 'resources/open/open',
+              },
+              {
+                label: 'Playbooks & Guides',
+                type: 'doc',
+                docId: 'resources/playbooks/playbook',
+              },
+              {to: '/news', label: 'News'},
             ]
           },
-          {to: '/news', label: 'News', position: 'left'},
           {
             type: 'doc',
-            docId: 'connect_with/donate',
+            docId: 'get_involved/donate',
             label: 'Donate',
             position: 'right',
             className: 'button button--secondary button--lg',
-          },
-          {
-            href: 'https://github.com/oss-slu',
-            label: 'Find us on GitHub',
-            position: 'right',
           },
         ],
       },
@@ -206,74 +259,68 @@ const config = {
             title: 'Open Source with SLU',
             items: [
               {
-                label: 'Programs',
-                to: '/programs/',
+                label: 'Experiential Learning',
+                to: '/programs/experiential_learning',
               },
               {
-                label: 'Projects',
-                to: '/projects/portfolio',
+                label: 'Consulting',
+                to: '/programs/consulting',
               },
               {
-                label: 'Resources',
-                to: '/resources/open',
+                label: 'Advocacy',
+                to: '/programs/advocacy',
               },
               {
-                label: 'People',
-                to: '/people/leadership',
+                html: '<a href="/projects/portfolio" class="footer__link-item"><strong>Projects</strong></a>',
               },
               {
-                label: 'News',
-                to: '/news',
+                html: '<a href="/people/leadership" class="footer__link-item"><strong>About</strong></a>',
               },
             ]
+          },
+          {
+            title: 'Connect',
+            items: [
+              {
+                label: 'Students',
+                to: '/connect_with/student_opportunities',
+              },
+              {
+                label: 'Researchers',
+                to: '/connect_with/researcher_opportunities',
+              },
+              {
+                label: 'Community',
+                to: '/connect_with/community_opportunities',
+              },
+              {
+                label: 'Organizations',
+                to: '/connect_with/organization_opportunities',
+              },
+              {
+                label: 'Volunteers',
+                to: '/connect_with/volunteer_opportunities',
+              },
+            ],
           },
           {
             title: 'Get Involved',
             items: [
               {
-                label: 'Find out how to get involved',
-                to: '/connect_with/oss',
+                label: 'Contribute',
+                to: '/get_involved/contribute',
               },
               {
-                label: 'Join with OSS',
-                to: '/connect_with/participants',
+                label: 'Partner',
+                to: '/get_involved/partner',
               },
               {
-                label: 'Partner with OSS',
-                to: '/connect_with/partners',
+                label: 'Get Help',
+                to: '/get_involved/get_help',
               },
               {
-                label: 'Consult with OSS',
-                to: '/connect_with/consult',
-              },
-              {
-                label: 'Sponsor Open Source with SLU',
-                to: '/connect_with/donate',
-              },
-            ],
-          },
-          {
-            title: 'Saint Louis University',
-            items: [
-              {
-                label: 'slu.edu',
-                href: 'https://slu.edu',
-              },
-              {
-                label: 'SSE',
-                href: 'https://www.slu.edu/science-and-engineering/index.php'
-              },
-              {
-                label: 'Research',
-                href: 'https://www.slu.edu/research/about-slu-research/index.php'
-              },
-              {
-                label: 'Libraries',
-                href: 'https://www.slu.edu/library/index.php',
-              },
-              {
-                label: 'Github',
-                href: 'https://github.com/oss-slu',
+                label: 'Support Us',
+                to: '/get_involved/donate',
               },
             ],
           },
@@ -284,12 +331,32 @@ const config = {
                 label: 'OSS News',
                 to: '/news',
               },
-              { label: 'OSS on LinkedIn',
-                href: 'https://www.linkedin.com/company/open-source-with-slu/'
+              {
+                label: 'OSS on LinkedIn',
+                href: 'https://www.linkedin.com/company/open-source-with-slu/',
               },
               {
-                label: 'OSS on GitHub',
-                href: 'https://github.com/oss-slu',
+                label: 'OSS on Slack',
+                href: 'https://join.slack.com/t/oswslu/shared_invite/zt-24f0qhjbo-NkSfQ4LOg5wXxBdxP4vzfA',
+              },
+              {
+                html: '<hr style="border-color: rgba(255,255,255,0.2); margin: 0.5rem 0;" />',
+              },
+              {
+                label: 'SLU.edu',
+                href: 'https://slu.edu',
+              },
+              {
+                label: 'School of Science & Engineering',
+                href: 'https://www.slu.edu/science-and-engineering/index.php',
+              },
+              {
+                label: 'SLU Research',
+                href: 'https://www.slu.edu/research/about-slu-research/index.php',
+              },
+              {
+                label: 'SLU Libraries',
+                href: 'https://www.slu.edu/library/index.php',
               },
             ],
           },

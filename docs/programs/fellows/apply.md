@@ -20,7 +20,7 @@ Ready to make a lasting impact on the next generation of software developers whi
 **Before You Apply:**
 
 - Review our [program overview](./index.md) to ensure alignment with your goals
-- Consider your availability for the [dates](./process_dates.md) required on-site events in
+- Consider your availability for the [required on-site events](./key_dates.md)
 - Gather professional references, GitHub, and LinkedIn profile information
 - Reflect on your mentoring philosophy and student development approach
 

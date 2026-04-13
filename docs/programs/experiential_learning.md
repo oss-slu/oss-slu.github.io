@@ -25,7 +25,7 @@ Our flagship program connects students as developers with real-world software de
 
 BOLT is an intensive workshop designed to equip participants with essential skills and knowledge needed to lead open source software projects, particularly in research contexts. Offered strategically every summer and winter before classes begin, BOLT ensures that new graduate student Tech Leads are fully prepared to guide their teams from day one.
 
-[Discover BOLT Workshop details →](./bolt.md)
+[Discover BOLT Workshop details →](/programs/bolt)
 
 ### Industry Fellows
 

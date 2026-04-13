@@ -36,5 +36,3 @@ Let's innovate together toward a future where technology serves humanity's highe
 + Feasibility studies
 + Skilled talent
 
----
-*Ready to be part of transformative change that combines academic innovation with real-world impact? Whether you're looking to develop digital infrastructure, build workforce capabilities, or create meaningful community partnerships, Open Source with SLU offers a collaborative pathway to achieve your goals while advancing social good. Let's explore how our shared values of transparency, collaboration, and inclusive excellence can drive innovation that serves humanity's highest aspirations—your next partnership in building a better future starts with a conversation.*
