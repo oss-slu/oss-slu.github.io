@@ -1,9 +1,8 @@
 import React from 'react';
 import '../../css/ProjectsPage.css';  // You will design styles here
 
-export default function ProjectCard({ project }) {
-  const isGithubUrl = project.url?.includes("github.com"); 
-  const githubLink = project.github || (isGithubUrl ? project.url : null);
+export default function ProjectCard({ project }) { 
+  const githubLink = project.github || null;
   return (
     <div className="project-card">
       {githubLink && (

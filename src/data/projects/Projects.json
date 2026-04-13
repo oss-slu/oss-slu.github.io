@@ -40,7 +40,8 @@
       "image": "/img/projects/congestion_control_emulator.png",
       "kind": "cli",
       "domain": ["networking"],
-      "research": true
+      "research": true,
+      "github": "https://github.com/oss-slu/Congestion-control-emulator"
     },
     {
       "name": "CoreDesk",
@@ -253,7 +254,8 @@
       "image": "/img/projects/ml_code_generator.png",
       "kind": "web-app",
       "domain": ["ai-ml", "education"],
-      "research": false
+      "research": false,
+      "github": "https://github.com/oss-slu/ml_code_generator"
     },
     {
       "name": "Montis Peaks 3D",
