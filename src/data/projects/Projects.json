@@ -7,7 +7,8 @@
       "image": "/img/projects/baio.png",
       "kind": "web-app",
       "domain": ["life-sciences", "ai-ml"],
-      "research": true
+      "research": true,
+      "github": "https://github.com/oss-slu/baio"
     },
     {
       "name": "Bubble Scan",
@@ -17,7 +18,8 @@
       "image": "/img/projects/bubblescan.png",
       "kind": "web-app",
       "domain": ["education", "work-management", "ai-ml"],
-      "research": false
+      "research": false,
+      "github": "https://github.com/oss-slu/bubble_scan"
     },
     {
       "name": "CivicKit",
@@ -27,7 +29,8 @@
       "image": "/img/projects/default.png",
       "kind": "library",
       "domain": ["civic", "entrepreneurship"],
-      "research": false
+      "research": false,
+      "github": "https://github.com/oss-slu/civickit"
     },
     {
       "name": "Congestion Control Emulator",
@@ -37,7 +40,8 @@
       "image": "/img/projects/congestion_control_emulator.png",
       "kind": "cli",
       "domain": ["networking"],
-      "research": true
+      "research": true,
+      "github": "https://github.com/oss-slu/Congestion-control-emulator"
     },
     {
       "name": "CoreDesk",
@@ -47,7 +51,8 @@
       "image": "/img/projects/open_project.png",
       "kind": "web-app",
       "domain": ["work-management", "manufacturing", "education"],
-      "research": false
+      "research": false,
+      "github": "https://github.com/oss-slu/core_desk"
     },
     {
       "name": "CV Zebrafish",
@@ -57,7 +62,8 @@
       "image": "/img/projects/cv_zebrafish.png",
       "kind": "web-app",
       "domain": ["life-sciences", "ai-ml", "simulation"],
-      "research": true
+      "research": true,
+      "github": "https://github.com/oss-slu/cv_zebrafish"
     },
     {
       "name": "DADS: Database of Arithmetic Dynamical Systems",
@@ -67,7 +73,8 @@
       "image": "/img/projects/dads.png",
       "kind": "web-app",
       "domain": ["mathematics"],
-      "research": true
+      "research": true,
+      "github": "https://github.com/oss-slu/dads"
     },
     {
       "name": "DEER: Data Entry & Exhibition for Rerum",
@@ -87,7 +94,8 @@
       "image": "/img/projects/digital_bone_box.png",
       "kind": "web-app",
       "domain": ["education", "healthcare"],
-      "research": true
+      "research": true,
+      "github": "https://github.com/oss-slu/DigitalBonesBox"
     },
     {
       "name": "Drone World",
@@ -97,7 +105,8 @@
       "image": "/img/projects/droneworld.png",
       "kind": "platform",
       "domain": ["aerospace", "simulation"],
-      "research": true
+      "research": true,
+      "github": "https://github.com/oss-slu/DroneWorld"
     },
     {
       "name": "DroneSwarm",
@@ -117,7 +126,8 @@
       "image": "/img/projects/esp.png",
       "kind": "web-app",
       "domain": ["life-sciences", "chemistry"],
-      "research": true
+      "research": true,
+      "github": "https://github.com/oss-slu/esp"
     },
     {
       "name": "Gallery of Glosses",
@@ -137,7 +147,8 @@
       "image": "/img/projects/default.png",
       "kind": "web-app",
       "domain": ["education", "work-management"],
-      "research": false
+      "research": false,
+      "github": "https://github.com/oss-slu/GradEval360"
     },
     {
       "name": "HPC Projects",
@@ -167,7 +178,8 @@
       "image": "/img/projects/default.png",
       "kind": "cli",
       "domain": ["networking"],
-      "research": false
+      "research": false,
+      "github": "https://github.com/oss-slu/iperf"
     },
     {
       "name": "IRIS: Image Recognition Integration System",
@@ -177,7 +189,8 @@
       "image": "/img/projects/iris.png",
       "kind": "library",
       "domain": ["healthcare", "ai-ml"],
-      "research": true
+      "research": true,
+      "github": "https://github.com/oss-slu/image-recognition-integration-system"
     },
     {
       "name": "iSpraak",
@@ -197,7 +210,8 @@
       "image": "/img/projects/md.png",
       "kind": "web-app",
       "domain": ["civic", "work-management"],
-      "research": false
+      "research": false,
+      "github": "https://github.com/oss-slu/material-derailleur"
     },
     {
       "name": "MechatronicsVR",
@@ -207,7 +221,8 @@
       "image": "/img/projects/vr_robotics.png",
       "kind": "vr",
       "domain": ["education", "robotics", "simulation"],
-      "research": true
+      "research": true,
+      "github": "https://github.com/oss-slu/mechatronics-vr"
     },
     {
       "name": "MeltShiny",
@@ -217,7 +232,8 @@
       "image": "/img/projects/meltshiny.png",
       "kind": "web-app",
       "domain": ["life-sciences", "chemistry"],
-      "research": true
+      "research": true,
+      "github": "https://github.com/oss-slu/MeltShiny"
     },
     {
       "name": "Mithridatium",
@@ -227,7 +243,8 @@
       "image": "/img/projects/mithridatium.png",
       "kind": "platform",
       "domain": ["cybersecurity", "ai-ml", "dev-tools"],
-      "research": true
+      "research": true,
+      "github": "https://github.com/oss-slu/mithridatium"
     },
     {
       "name": "ML Code Generator",
@@ -237,7 +254,8 @@
       "image": "/img/projects/ml_code_generator.png",
       "kind": "web-app",
       "domain": ["ai-ml", "education"],
-      "research": false
+      "research": false,
+      "github": "https://github.com/oss-slu/ml_code_generator"
     },
     {
       "name": "Montis Peaks 3D",
@@ -247,7 +265,8 @@
       "image": "/img/projects/default.png",
       "kind": "web-app",
       "domain": ["geospatial", "education", "civic", "entrepreneurship"],
-      "research": false
+      "research": false,
+      "github": "https://github.com/oss-slu/montis"
     },
     {
       "name": "MORPH",
@@ -257,7 +276,8 @@
       "image": "/img/projects/smartrobot.png",
       "kind": "platform",
       "domain": ["education", "robotics", "entrepreneurship"],
-      "research": false
+      "research": false,
+      "github": "https://github.com/oss-slu/MORPH"
     },
     {
       "name": "Mouser",
@@ -267,7 +287,8 @@
       "image": "/img/projects/mouser.png",
       "kind": "desktop-app",
       "domain": ["life-sciences", "work-management"],
-      "research": true
+      "research": true,
+      "github": "https://github.com/oss-slu/mouser"
     },
     {
       "name": "Open Energy Dashboard",
@@ -277,7 +298,8 @@
       "image": "/img/projects/open_energy_dashboard.png",
       "kind": "web-app",
       "domain": ["energy", "work-management"],
-      "research": false
+      "research": false,
+      "github": "https://github.com/oss-slu/OED"
     },
     {
       "name": "OSS CI/CD & Automation",
@@ -287,7 +309,8 @@
       "image": "/img/projects/cicd_automation.png",
       "kind": "service",
       "domain": ["devops"],
-      "research": false
+      "research": false,
+      "github": "https://github.com/oss-slu/oss_cicd_automation"
     },
     {
       "name": "OSS Cybersecurity",
@@ -297,7 +320,8 @@
       "image": "/img/projects/default.png",
       "kind": "service",
       "domain": ["devops", "cybersecurity"],
-      "research": false
+      "research": false,
+      "github": "https://github.com/oss-slu/oss_cybersecurity"
     },
     {
       "name": "OSS Dev Analytics",
@@ -307,7 +331,8 @@
       "image": "/img/projects/dev_analytics.png",
       "kind": "service",
       "domain": ["devops", "data"],
-      "research": false
+      "research": false,
+      "github": "https://github.com/oss-slu/oss_dev_analytics"
     },
     {
       "name": "OSS Infra/Ops",
@@ -317,7 +342,8 @@
       "image": "/img/projects/infra_ops.png",
       "kind": "service",
       "domain": ["devops"],
-      "research": false
+      "research": false,
+      "github": "https://github.com/oss-slu/oss_infra_ops"
     },
     {
       "name": "Pi4Micronaut",
@@ -327,7 +353,8 @@
       "image": "/img/projects/pi4micronaut.png",
       "kind": "library",
       "domain": ["iot"],
-      "research": true
+      "research": true,
+      "github": "https://github.com/oss-slu/Pi4Micronaut"
     },
     {
       "name": "Pilot Data Synchronization",
@@ -337,7 +364,8 @@
       "image": "/img/projects/pilot_data_synchronization.png",
       "kind": "desktop-app",
       "domain": ["aerospace"],
-      "research": true
+      "research": true,
+      "github": "https://github.com/oss-slu/PilotDataSynchronization"
     },
     {
       "name": "Rerum Geolocator",
@@ -357,7 +385,8 @@
       "image": "/img/projects/rerum_playground.png",
       "kind": "web-app",
       "domain": ["dev-tools", "data"],
-      "research": true
+      "research": true,
+      "github": "https://github.com/oss-slu/rerum-playground"
     },
     {
       "name": "Rerum Server",
@@ -367,7 +396,8 @@
       "image": "/img/projects/default.png",
       "kind": "platform",
       "domain": ["ai-ml", "data"],
-      "research": true
+      "research": true,
+      "github": "https://github.com/oss-slu/rerum_server_nodejs"
     },
     {
       "name": "Saltify Speech Transcription",
@@ -377,7 +407,8 @@
       "image": "/img/projects/saltify.png",
       "kind": "web-app",
       "domain": ["speech-language", "healthcare", "work-management"],
-      "research": true
+      "research": true,
+      "github": "https://github.com/oss-slu/SpeechTranscription"
     },
     {
       "name": "Santiago",
@@ -387,7 +418,8 @@
       "image": "/img/projects/santiago.png",
       "kind": "desktop-app",
       "domain": ["life-sciences", "simulation"],
-      "research": true
+      "research": true,
+      "github": "https://github.com/oss-slu/Santiago"
     },
     {
       "name": "Seeing Is Believing",
@@ -397,7 +429,8 @@
       "image": "/img/projects/sib.png",
       "kind": "web-app",
       "domain": ["education", "speech-language"],
-      "research": false
+      "research": false,
+      "github": "https://github.com/oss-slu/Seeing-is-Believing"
     },
     {
       "name": "Shelter Volunteers Rapid Response",
@@ -407,7 +440,8 @@
       "image": "/img/projects/shelter_volunteers.png",
       "kind": "web-app",
       "domain": ["civic", "work-management"],
-      "research": false
+      "research": false,
+      "github": "https://github.com/oss-slu/shelter_volunteers"
     },
     {
       "name": "Simulation Surgery",
@@ -417,7 +451,8 @@
       "image": "/img/projects/default.png",
       "kind": "web-app",
       "domain": ["healthcare", "education", "simulation"],
-      "research": true
+      "research": true,
+      "github": "https://github.com/oss-slu/pao_surgery_simulator"
     },
     {
       "name": "Step Time Biofeedback",
@@ -427,7 +462,8 @@
       "image": "/img/projects/step_time_biofeedback.png",
       "kind": "desktop-app",
       "domain": ["healthcare"],
-      "research": true
+      "research": true,
+      "github": "https://github.com/oss-slu/Step_Time_Biofeedback"
     },
     {
       "name": "STL Data API",
@@ -437,7 +473,8 @@
       "image": "/img/projects/stl_data_api.png",
       "kind": "platform",
       "domain": ["civic", "data"],
-      "research": true
+      "research": true,
+      "github": "https://github.com/oss-slu/stl_metro_data_api"
     },
     {
       "name": "TheHealthApp",
@@ -447,7 +484,8 @@
       "image": "/img/projects/health_app.png",
       "kind": "web-app",
       "domain": ["healthcare", "ai-ml", "civic"],
-      "research": false
+      "research": false,
+      "github": "https://github.com/oss-slu/TheHealthApp"
     },
     {
       "name": "TPEN Interfaces",
@@ -457,7 +495,8 @@
       "image": "/img/projects/tpeninterfaces.png",
       "kind": "web-app",
       "domain": ["digital-humanities"],
-      "research": true
+      "research": true,
+      "github": "https://github.com/oss-slu/TPEN-interfaces"
     },
     {
       "name": "Where's Religion Desktop",
@@ -477,6 +516,7 @@
       "image": "/img/projects/wheres_religion_mobile.png",
       "kind": "mobile-app",
       "domain": ["digital-humanities", "social-science"],
-      "research": true
+      "research": true,
+      "github": "https://github.com/oss-slu/lrda_mobile"
     }
   ]
