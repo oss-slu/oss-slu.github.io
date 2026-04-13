@@ -312,3 +312,89 @@
 .badge img:hover {
   transform: scale(1.1);
 }
+
+/* Stats header - shared by Homepage, Portfolio, and Contributors pages */
+.stats-header {
+  margin-bottom: 2rem;
+  padding: 1.5rem 2rem;
+  background: var(--ifm-color-emphasis-100);
+  border-radius: 12px;
+  border-left: 4px solid var(--ifm-color-primary);
+  width: fit-content;
+}
+
+.stats-row {
+  display: flex;
+  gap: 2rem;
+  flex-wrap: wrap;
+  align-items: flex-end;
+}
+
+.stat-item {
+  text-align: center;
+}
+
+a.stat-item {
+  text-decoration: none;
+  transition: opacity 0.2s;
+}
+
+a.stat-item:hover {
+  text-decoration: none;
+  opacity: 0.75;
+}
+
+.stat-item--total {
+  padding-right: 2rem;
+  border-right: 2px solid var(--ifm-color-emphasis-300);
+}
+
+.stat-item--divider {
+  padding-left: 2rem;
+  border-left: 2px solid var(--ifm-color-emphasis-300);
+}
+
+.stat-number {
+  display: block;
+  font-size: 2rem;
+  font-weight: 700;
+  color: var(--ifm-color-primary);
+  line-height: 1;
+}
+
+.stat-label {
+  display: block;
+  font-size: 0.85rem;
+  color: var(--ifm-color-emphasis-600);
+  margin-top: 0.25rem;
+}
+
+.stats-subtitle {
+  margin: 1rem 0 0;
+  font-size: 0.9rem;
+  color: var(--ifm-color-emphasis-700);
+}
+
+@media (max-width: 480px) {
+  .stats-row {
+    gap: 1.25rem;
+  }
+
+  .stat-item--total {
+    width: 100%;
+    padding-right: 0;
+    border-right: none;
+    border-bottom: 2px solid var(--ifm-color-emphasis-300);
+    padding-bottom: 1rem;
+    margin-bottom: 0.25rem;
+  }
+
+  .stat-item--divider {
+    padding-left: 0;
+    border-left: none;
+  }
+
+  .stat-number {
+    font-size: 1.5rem;
+  }
+}
