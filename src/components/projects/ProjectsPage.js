@@ -4,25 +4,6 @@ import { kindLabels, domainLabels } from '../../data/projects/productTypes';
 import ProjectCard from './ProjectCard';
 import '../../css/ProjectsPage.css';
 
-// Future use: richer highlight cards for technologies, industries, and capabilities.
-// const highlights = [
-//   {
-//     title: "Technologies We Use",
-//     items: ["AI/ML", "IoT", "Web Development", "Data Visualization",
-//             "Speech Processing", "ETL Pipelines"],
-//   },
-//   {
-//     title: "Industries Served",
-//     items: ["Healthcare", "Research", "Education", "Aerospace",
-//             "Bioinformatics", "Digital Humanities"],
-//   },
-//   {
-//     title: "Core Capabilities",
-//     items: ["Data Processing", "Image Recognition", "Speech Evaluation",
-//             "Mobile Apps", "Scientific Visualization"],
-//   },
-// ];
-
 const statusLabels = {
   current: 'Active',
   stable: 'Stable & Supported',
