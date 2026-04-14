@@ -22,7 +22,7 @@ This umbrella page covers two related projects focused on SLU's high-performance
 - **Track:** Client-driven Product
 - **Current Tech Lead:** *No active team*
 - **Developers:**
-  - Vani Walvekar (alumni, prior tech lead) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/vani-walvekar1494)
+  - Vani Walvekar (alumni, prior tech lead) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/vaniwalvekar)
   - Atiqullah Asghari (alumni) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/aasghari01)
   - Ralph Federi Tan (alumni) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/RalphTan37)
 - **Start Date:** Aug, 2025
