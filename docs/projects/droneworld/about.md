@@ -26,7 +26,7 @@ Our team at OSS is dedicated to enhancing Drone World’s capabilities, includin
     - Darweshi Amerson (capstone) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/damerson1)
     - Noah Guzinski (capstone) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/nguzinski)
     - Valerie Galiano (capstone) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/Hoshi-Okami)
-    - Mohammad Al-Hanoosh (prior tech lead) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/mohamdlog)
+    - Mohammad Al-Hanoosh (alumni, prior tech lead) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/9LogM)
     - Yashaswini Shivalingaiah (alumni, prior tech lead) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/yashaswini-slu)
     - Hebron Bekele (alumni) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/hebronh)
     - Kaleb Yu (alumni) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/kalyus)
