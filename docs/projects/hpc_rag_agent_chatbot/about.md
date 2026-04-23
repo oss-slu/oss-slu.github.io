@@ -16,7 +16,7 @@ Developing an AI-powered chatbot using Retrieval-Augmented Generation (RAG) to a
 
 - **Source Code:** [https://github.com/oss-slu/hpc_rag_agent_chatbot](https://github.com/oss-slu/hpc_rag_agent_chatbot) [<img src="/img/git-alt.svg" alt="git" width="25" height="25" />](https://github.com/oss-slu/hpc_rag_agent_chatbot)
 - **Client:** SLU HPC Systems Team
-- **Current Tech Lead:** Vani Walvekar [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/vani-walvekar1494)
+- **Current Tech Lead:** Vani Walvekar [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/vaniwalvekar)
 - **Developers:**
 
 - **Start Date:** Aug, 2025

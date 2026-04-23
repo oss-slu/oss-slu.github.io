@@ -19,7 +19,7 @@ It chains together multiple molecular modeling and simulation tools, all coordin
 
 - **Source Code:** [https://github.com/oss-slu/earm_pipeline](https://github.com/oss-slu/earm_pipeline) [<img src="/img/git-alt.svg" alt="git" width="25" height="25" />](https://github.com/oss-slu/earm_pipeline)
 - **Client:** eARM Scientific Community
-- **Current Tech Lead:** Vani Walvekar [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/vani-walvekar1494)
+- **Current Tech Lead:** Vani Walvekar [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/vaniwalvekar)
 - **Developers:** Collaborators at SLU HPC team, with support from Filippo and Massimo
 - **Start Date:** Aug, 2025
 - **Technologies Used:**
