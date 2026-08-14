@@ -13,12 +13,13 @@ The OSS Cybersecurity team is the security and compliance arm of Open Source wit
 - **Source Code:** [https://github.com/oss-slu/oss_cybersecurity](https://github.com/oss-slu/oss_cybersecurity) [<img src="/img/git-alt.svg" alt="git" width="25" height="25" />](https://github.com/oss-slu/oss_cybersecurity)
 - **Status:** Active (and ongoing)
 - **Platforms:** Internal Developer Services
-- **Client:** Open Source with SLU
+- **Client:** Samuel Kann [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/dracpak)
 - **Track:** Internal Developer Services
-- **Current Tech Lead:** Samuel Kann [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/dracpak)
+- **Current Tech Lead:** Ahmed Bektic [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/ahmedbektic)
 - **Developers:**
+  - Samuel Kann (tech lead) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/dracpak)
   - Annie Henehan (capstone) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/ahenehan2)
-  - Dennis Sheynkerman (capstone) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/dennisshey)
+  - Dennis Sheynkerman (alumni) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/dennisshey)
   - Roemen Edwards (alumni) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/r0me777)
 - **Start Date:** August 2025
 - **Technologies Used:**

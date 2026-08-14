@@ -15,10 +15,11 @@ The OSS CI/CD & Automation team provides continuous integration and continuous d
 - **Platforms:** Internal Developer Services
 - **Client:** Open Source with SLU
 - **Track:** Internal Developer Services
-- **Current Tech Lead:** Henry Wang [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/ImJustHenry)
+- **Current Tech Lead:** Ahmed Bektic [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/ahmedbektic)
 - **Developers:**
-  - Justin Duong (capstone) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/justinduong5)
-  - Thomas Pautler (capstone) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/ThomasPautler952194)
+  - Henry Wang (alumni, prior tech lead) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/ImJustHenry)
+  - Justin Duong (alumni) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/justinduong5)
+  - Thomas Pautler (alumni) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/ThomasPautler952194)
   - Srinivasa Varma Penmetsa (alumni, prior tech lead) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/SrinivasaVarmaP)
   - Mehul Antony (alumni) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/Mehulantony)
 - **Start Date:** August 2025
