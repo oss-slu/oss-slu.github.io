@@ -412,6 +412,14 @@ const sidebars = {
                   type: 'doc',
                   id: 'projects/wheres_religion_mobile/about',
                 },
+                {
+                  type: 'doc',
+                  id: 'projects/oss_orb/about',
+                },
+                {
+                  type: 'doc',
+                  id: 'projects/enroll_dash/about',
+                },
               ]
             },
             {
