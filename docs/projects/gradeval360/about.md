@@ -13,10 +13,11 @@ GradEval360 is a centralized performance management platform for Saint Louis Uni
 - **Source Code:** [https://github.com/oss-slu/GradEval360](https://github.com/oss-slu/GradEval360) [<img src="/img/git-alt.svg" alt="git" width="25" height="25" />](https://github.com/oss-slu/GradEval360)
 - **Client:** SLU Graduate Assistant Management
 - **Track:** Client-driven Product
-- **Current Tech Lead:** Prem Kiran Polepalli [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/premkiran2)
+- **Current Tech Lead:** Bella Ott [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/bellao314) [<img src="/img/linkedin.svg" alt="linkedin" width="25" height="25" />](https://www.linkedin.com/in/bella-ott-68350a217/)
 - **Developers:**
   - Elizabeth Dreste (capstone) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/LilLizDog)
   - Darcy Mupenda (capstone) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/dmupenda)
+  - Prem Kiran Polepalli (alumni, tech lead) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/premkiran2)
 - **Start Date:** Jan, 2026
 - **Technologies Used:**
   - React 19, Vite, TailwindCSS, shadcn/ui (frontend)
