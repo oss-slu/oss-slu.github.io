@@ -1,7 +1,6 @@
 ---
 title: Building Mithridatium - Detecting Hidden Backdoors in ML Models
 description: A practical overview of Mithridatium, an open-source tool for detecting backdoors in pretrained image classification models.
-date: 2026-05-06T09:00:00-05:00
 slug: building-mithridatium
 authors: [pelumi]
 tags: [ai, cybersecurity, machine-learning, open-source]
