@@ -17,7 +17,7 @@ OSS Dev Analytics provides developer analytics and data-driven insights for open
 - **Track:** Internal Developer Services
 - **Current Tech Lead:** Justin DeKock [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/jdetok)
 - **Developers:**
-  - Hazel Caballero (prior tech lead) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/hcaballero2)
+  - Hazel Caballero (alumni, prior tech lead) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/hcaballero2)
   - Grace Gondela (capstone) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/ggondela1419)
   - Kiara Mathews (capstone) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/kiaramathews)
   - Dhyana Patel (capstone) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/dhyana6466)
