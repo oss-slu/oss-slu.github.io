@@ -119,6 +119,15 @@
       "research": true
     },
     {
+      "name": "Enroll Dash",
+      "url": "/projects/enroll_dash/about",
+      "description": "Enroll dash is a suite of online tools and dashboards for SLU's Office of Enrollment.",
+      "status": "current",
+      "image": "/img/projects/enroll-dash.png", "kind": "web-app", "domain": ["data"],
+      "research": false,
+      "github": "https://github.com/oss-slu/enroll-dash"
+    },
+    {
       "name": "ESP: Electronic Structure Parser",
       "url": "/projects/esp/about",
       "description": "ESP is a web application that allows the user to upload the ORCA/Gaussian data, and quickly extract relevant tabular results in a Word document.",
@@ -344,6 +353,17 @@
       "domain": ["devops"],
       "research": false,
       "github": "https://github.com/oss-slu/oss_infra_ops"
+    },
+    {
+      "name": "Open Source Repository Browser",
+      "url": "/projects/oss_orb/about",
+      "description": "OSS ORB builds a modern, scalable web architecture around the Open Source Repository Browser originally build by the UC OSPO Network.",
+      "status": "current",
+      "image": "/img/projects/oss-orb.png",
+      "kind": "web-app",
+      "domain": ["data"],
+      "research": false,
+      "github": "https://github.com/oss-slu/oss-orb"
     },
     {
       "name": "Pi4Micronaut",

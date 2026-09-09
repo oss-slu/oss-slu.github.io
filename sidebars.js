@@ -334,6 +334,10 @@ const sidebars = {
                 },
                 {
                   type: 'doc',
+                  id: 'projects/enroll_dash/about',
+                },
+                {
+                  type: 'doc',
                   id: 'projects/gradeval360/about',
                 },
                 {
@@ -379,6 +383,10 @@ const sidebars = {
                 {
                   type: 'doc',
                   id: 'projects/oss_infra_ops/about',
+                },
+                {
+                  type: 'doc',
+                  id: 'projects/oss_orb/about',
                 },
                 {
                   type: 'doc',
