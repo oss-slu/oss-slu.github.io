@@ -17,7 +17,13 @@ OSS Open Source Repository Browser aims to scale the work originally done by the
 - **Track:** Internal Developer Services
 - **Current Tech Lead:** Justin DeKock [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/jdetok)
 - **Developers:**
-  - TBD 
+  - Grace Gondela (capstone) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/ggondela1419)
+  - Bre Saffouri (capstone) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/bsaffouri)
+  - Denise Soriano (capstone) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/denise-soriano)
+  - Darcy Mupenda (capstone) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/dmupenda)
+  - Matthew Wolanski (capstone) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/mwolanski04)
+  - Hailey Gonzalez (capstone) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/Haileyboo111)
+
 - **Start Date:** August 2026
 - **Technologies Used:**
   - TBD
