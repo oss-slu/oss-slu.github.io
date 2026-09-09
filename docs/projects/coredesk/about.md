@@ -15,7 +15,9 @@ CoreDesk is a web-based work management tool that enables shared service provide
 - **Track:** Client-driven Product
 - **Current Tech Lead:** Bella Ott [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/bellao314) [<img src="/img/linkedin.svg" alt="linkedin" width="25" height="25" />](https://www.linkedin.com/in/bella-ott-68350a217/)
 - **Developers:**
-
+  - Khushi Chauhan (capstone)
+  - Nora El-Ruwie (capstone)
+  - Justin Zhang (capstone)
   - Yousuf Muhammud (alumni) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/Muhammudy)
   - Paul Ongkiko (alumni) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/paulongkiko)
   - Lakshmi Prasanna Mamillapalli (alumni, prior tech lead) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/lmamillapalli786) [<img src="/img/linkedin.svg" alt="linkedin" width="25" height="25" />](https://www.linkedin.com/in/lakshmiprasana784/)
