@@ -18,14 +18,11 @@ CoreDesk is a web-based work management tool that enables shared service provide
 
   - Yousuf Muhammud (alumni) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/Muhammudy)
   - Paul Ongkiko (alumni) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/paulongkiko)
-  - Lakshmi Prasanna Mamillapalli (alumni, tech lead) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/lmamillapalli786) [<img src="/img/linkedin.svg" alt="linkedin" width="25" height="25" />](https://www.linkedin.com/in/lakshmiprasana784/)
-  - Jack Crane (alumni, tech lead) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/jackcrane) [<img src="/img/linkedin.svg" alt="linkedin" width="25" height="25" />](https://www.linkedin.com/in/jackcranee/)
-
-  - Colin Sepher (capstone) (alumni) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/colinseper) [<img src="/img/linkedin.svg" alt="linkedin" width="25" height="25" />](https://www.linkedin.com/in/colin-seper/)
-
-  - Thomas Macas (capstone) (alumni) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/ThomasMacas) [<img src="/img/linkedin.svg" alt="linkedin" width="25" height="25" />](https://www.linkedin.com/in/thomas-macas-3730a7251/)
-
-  - Joi Laws (capstone) (alumni) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/lawsj) [<img src="/img/linkedin.svg" alt="linkedin" width="25" height="25" />](https://www.linkedin.com/in/joijanaelaws/)
+  - Lakshmi Prasanna Mamillapalli (alumni, prior tech lead) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/lmamillapalli786) [<img src="/img/linkedin.svg" alt="linkedin" width="25" height="25" />](https://www.linkedin.com/in/lakshmiprasana784/)
+  - Jack Crane (alumni, prior tech lead) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/jackcrane) [<img src="/img/linkedin.svg" alt="linkedin" width="25" height="25" />](https://www.linkedin.com/in/jackcranee/)
+  - Colin Sepher (alumni) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/colinseper) [<img src="/img/linkedin.svg" alt="linkedin" width="25" height="25" />](https://www.linkedin.com/in/colin-seper/)
+  - Thomas Macas (alumni) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/ThomasMacas) [<img src="/img/linkedin.svg" alt="linkedin" width="25" height="25" />](https://www.linkedin.com/in/thomas-macas-3730a7251/)
+  - Joi Laws (alumni) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/lawsj) [<img src="/img/linkedin.svg" alt="linkedin" width="25" height="25" />](https://www.linkedin.com/in/joijanaelaws/)
 
 - **Start Date:** Fall, 2025
 - **Adoption Date:** January, 2025
