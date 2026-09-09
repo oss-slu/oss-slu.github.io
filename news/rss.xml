@@ -4,7 +4,7 @@
         <title>Open Source with SLU Blog</title>
         <link>https://oss-slu.github.io/news</link>
         <description>Open Source with SLU Blog</description>
-        <lastBuildDate>Wed, 09 Sep 2026 22:01:39 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Sep 2026 22:17:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -12,7 +12,7 @@
             <title><![CDATA[Building Mithridatium - Detecting Hidden Backdoors in ML Models]]></title>
             <link>https://oss-slu.github.io/news/building-mithridatium</link>
             <guid>https://oss-slu.github.io/news/building-mithridatium</guid>
-            <pubDate>Wed, 09 Sep 2026 22:01:39 GMT</pubDate>
+            <pubDate>Wed, 09 Sep 2026 22:17:13 GMT</pubDate>
             <description><![CDATA[A practical overview of Mithridatium, an open-source tool for detecting backdoors in pretrained image classification models.]]></description>
             <content:encoded><![CDATA[<p>Mithridatium is an open-source ML security project developed to help users detect hidden backdoors in pretrained machine learning models. The project focuses on image classification models and provides a practical way to run several backdoor detection methods, generate reports, and make model integrity easier to evaluate before deployment.</p>
 <p><strong>What:</strong> Building Mithridatium - Detecting Hidden Backdoors in ML Models<br>
