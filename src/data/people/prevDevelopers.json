@@ -95,6 +95,11 @@
         "profileLink": "https://github.com/Brijitha1609"
     },
     {
+        "name": "Bryce Hayes",
+        "image": "",
+        "profileLink": "https://github.com/bhayes04"
+    },
+    {
         "name": "Bradley Sheldon",
         "image": "",
         "profileLink": "https://github.com/BradleySheldon"
@@ -118,6 +123,11 @@
         "name": "Chloe Biddle",
         "image": "",
         "profileLink": "https://github.com/cbiddle3"
+    },
+    {
+        "name": "Cole Patrick",
+        "image": "",
+        "profileLink": "https://github.com/colepatrick"
     },
     {
         "name": "Colin Bush",
@@ -315,6 +325,11 @@
         "profileLink": "https://github.com/mmehta2669"
     },
     {
+        "name": "Matthew Murawski",
+        "image": "",
+        "profileLink": "https://github.com/MatthewMurawski"
+    },
+    {
         "name": "Massimo Evelti",
         "image": "",
         "profileLink": "https://github.com/Massi-Papi"
@@ -395,6 +410,11 @@
         "profileLink": "https://github.com/RalphTan37"
     },
     {
+        "name": "Rawan Alhachami",
+        "image": "",
+        "profileLink": "https://github.com/rawana7912"
+    },
+    {
         "name": "Ramez Mosad",
         "image": "",
         "profileLink": "https://github.com/ramezmosad"
@@ -418,6 +438,11 @@
         "name": "Sai Kiran Reddy Beeram",
         "image": "",
         "profileLink": "https://github.com/saikiran0405"
+    },
+    {
+        "name": "Sahana Gujja",
+        "image": "",
+        "profileLink": "https://github.com/sahanagujja"
     },
     {
         "name": "Saiteja Gollapalli",
@@ -573,5 +598,10 @@
         "name": "Munazzah Rizwan Rakhangi",
         "image": "",
         "profileLink": "https://github.com/Munazzah-Rakhangi"
+    },
+    {
+        "name": "Zhihui Wu",
+        "image": "",
+        "profileLink": "https://github.com/Zhihuiwu646"
     }
 ]
