@@ -499,6 +499,17 @@
       "github": "https://github.com/oss-slu/TPEN-interfaces"
     },
     {
+      "name": "TULIP",
+      "url": "/projects/tulip/about",
+      "description": "TULIP is a unified legal intake portal for the SLU Law School's Legal Clinic, designed to streamline the intake process for clients seeking legal assistance.",
+      "status": "current",
+      "image": "/img/projects/tulip.png",
+      "kind": "web-app",
+      "domain": ["civic", "work-management"],
+      "research": false,
+      "github": "https://github.com/oss-slu/tulip"
+    },
+    {
       "name": "Where's Religion Desktop",
       "url": "/projects/wheres_religion_desktop/about",
       "description": "Where's Religion Desktop is a web app for ethnographers of 'Lived Religion' that enables detailed reflection and analysis of events captured with the Where's Religion Mobile app.",

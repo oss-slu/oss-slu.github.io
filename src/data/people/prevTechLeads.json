@@ -30,6 +30,11 @@
         "profileLink": "https://github.com/akurapati1"
     },
     {
+        "name": "Prem Kiran Polepalli",
+        "image": "",
+        "profileLink": "https://github.com/premkiran2"
+    },
+    {
         "name": "Supraja Mannava",
         "image": "",
         "profileLink": "https://github.com/suprajamannava17"
@@ -233,5 +238,10 @@
         "name": "Shahid Shabeer Malik",
         "image": "",
         "profileLink": "https://github.com/Shahid1Malik"
+    },
+    {
+        "name": "Jack Crane",
+        "image": "",
+        "profileLink": "https://github.com/jackcrane"
     }
 ]

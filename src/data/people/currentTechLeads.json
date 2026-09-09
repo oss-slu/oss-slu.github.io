@@ -10,11 +10,6 @@
         "profileLink": "https://github.com/madhuritha22"
     },
     {
-        "name": "Jack Crane",
-        "image": "",
-        "profileLink": "https://github.com/jackcrane"
-    },
-    {
         "name": "Vamsi Brahmadevi",
         "image": "",
         "profileLink": "https://github.com/vbramhadevi"
@@ -53,11 +48,6 @@
         "name": "Devayani Chakravarthi Konakalla",
         "image": "",
         "profileLink": "https://github.com/Devayani1612"
-    },
-    {
-        "name": "Prem Kiran Polepalli",
-        "image": "",
-        "profileLink": "https://github.com/premkiran2"
     },
     {
         "name": "Cole Patrick",
@@ -123,5 +113,10 @@
         "name": "Hazel Caballero",
         "image": "",
         "profileLink": "https://github.com/hcaballero2"
+    },
+    {
+        "name": "Bella Ott",
+        "image": "",
+        "profileLink": "https://github.com/bellao314"
     }
 ]
