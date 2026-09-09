@@ -45,11 +45,6 @@
     "profileLink": "https://github.com/j-heitz"
   },
   {
-    "name": "Bryce Hayes",
-    "image": "",
-    "profileLink": "https://github.com/bhayes04"
-  },
-  {
     "name": "Pascal Sikorski",
     "image": "",
     "profileLink": "https://github.com/Paskul"
@@ -58,11 +53,6 @@
     "name": "Henry Morgan",
     "image": "",
     "profileLink": "https://github.com/HMSLU"
-  },
-  {
-    "name": "Matthew Murawski",
-    "image": "",
-    "profileLink": "https://github.com/MatthewMurawski"
   },
   {
     "name": "Ahmed Bektc",
@@ -123,11 +113,6 @@
     "name": "Jake Bounds",
     "image": "",
     "profileLink": "https://github.com/lockermanwxlf"
-  },
-  {
-    "name": "Sahana Gujja",
-    "image": "",
-    "profileLink": "https://github.com/sahanagujja"
   },
   {
     "name": "Joel Aikkarakudiyil Joby",
@@ -215,11 +200,6 @@
     "profileLink": "https://github.com/ZukaiSagan"
   },
   {
-    "name": "Cole Patrick",
-    "image": "",
-    "profileLink": "https://github.com/colepatrick"
-  },
-  {
     "name": "Tori Willis",
     "image": "",
     "profileLink": "https://github.com/twillis8"
@@ -270,13 +250,33 @@
     "profileLink": "https://github.com/dkhurshid"
   },
   {
+    "name": "Alexander Myers",
+    "image": "",
+    "profileLink": "https://github.com/CosmicOriginDev"
+  },
+  {
+    "name": "Adrian Wehlen",
+    "image": "",
+    "profileLink": "https://github.com/AdrianWehlen"
+  },
+  {
+    "name": "William Kraus",
+    "image": "",
+    "profileLink": "https://github.com/27williamkraus"
+  },
+  {
+    "name": "Seth Senecal",
+    "image": "",
+    "profileLink": "https://github.com/ssenecal1"
+  },
+  {
+    "name": "Jafet Calderon",
+    "image": "",
+    "profileLink": "https://github.com/ja-c-31"
+  },
+  {
     "name": "Orhan Koylu",
     "image": "",
     "profileLink": "https://github.com/orhankoylu"
-  },
-  {
-    "name": "Rawan Alhachami",
-    "image": "",
-    "profileLink": "https://github.com/rawana7912"
   }
 ]
