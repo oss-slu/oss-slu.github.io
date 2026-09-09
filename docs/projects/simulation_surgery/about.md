@@ -18,12 +18,16 @@ By combining advanced 3D medical imaging, segmentation algorithms, and simulatio
 - **Track:** Client-driven Product
 - **License:** [MIT](https://opensource.org/license/mit)
 
-- **Current Tech Lead:** Sri Ram Duvvuri [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/sriram1302)
+- **Current Tech Lead:** Cole Patrick [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/colepatrick) [<img src="/img/linkedin.svg" alt="linkedin" width="25" height="25" />](https://www.linkedin.com/in/cole-patrick/)
 
 - **Developers:**
-  - Rawan Alhachami (capstone) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/rawana7912)
-  - Sahana Gujja (capstone) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/sahanagujja)
-  - Zhihui Wu (capstone) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/Zhihuiwu646)
+  - Adrian Wehlen (capstone) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/AdrianWehlen)
+  - Seth Senecal (capstone) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/ssenecal1)
+  - Dylan Reyes (capstone) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/DylAstralith)
+  - Sri Ram Duvvuri (alumni, prior tech lead) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/sriram1302)
+  - Rawan Alhachami (alumni) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/rawana7912)
+  - Sahana Gujja (alumni) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/sahanagujja)
+  - Zhihui Wu (alumni) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/Zhihuiwu646)
   - Justin Duong (alumni) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/justinduong5)
   
 
