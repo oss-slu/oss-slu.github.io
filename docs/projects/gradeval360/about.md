@@ -15,9 +15,9 @@ GradEval360 is a centralized performance management platform for Saint Louis Uni
 - **Track:** Client-driven Product
 - **Current Tech Lead:** Bella Ott [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/bellao314) [<img src="/img/linkedin.svg" alt="linkedin" width="25" height="25" />](https://www.linkedin.com/in/bella-ott-68350a217/)
 - **Developers:**
-  - Jada Harvey (capstone)
-  - Melody Neimeyer (capstone)
-  - Davin Pan (capstone)
+  - Jada Harvey (capstone) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/jadaharvey-cs)
+  - Melody Neimeyer (capstone) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/machineonamission)
+  - David Pan (capstone) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/DavidGuixinPan)
   - Elizabeth Dreste (alumni) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/LilLizDog)
   - Darcy Mupenda (alumni) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/dmupenda)
   - Prem Kiran Polepalli (alumni, prior tech lead) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/premkiran2)

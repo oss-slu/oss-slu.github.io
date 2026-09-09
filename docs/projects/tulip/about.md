@@ -15,9 +15,9 @@ custom_edit_url: null
 - **Track:** Client-driven Product
 - **Current Tech Lead:** Bella Ott [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/bellao314) [<img src="/img/linkedin.svg" alt="linkedin" width="25" height="25" />](https://www.linkedin.com/in/bella-ott-68350a217/)
 - **Developers:**
-  - Kiara Mathews (capstone)
-  - Emma McClelland (capstone)
-  - Lena Pham (capstone)
+  - Kiara Mathews (capstone) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/kiaramathews)
+  - Emma McClelland (capstone) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/emcclelland406)
+  - Lena Pham (capstone) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/lenaqhpham)
 - **Start Date:** Fall, 2026
 - **Adoption Date:** August, 2026
 - **Technologies Used:**
