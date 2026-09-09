@@ -406,6 +406,10 @@ const sidebars = {
                 },
                 {
                   type: 'doc',
+                  id: 'projects/tulip/about',
+                },
+                {
+                  type: 'doc',
                   id: 'projects/wheres_religion_desktop/about',
                 },
                 {
