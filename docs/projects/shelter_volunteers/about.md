@@ -16,10 +16,11 @@ Homeless shelters rely on volunteers' help. When inclement weather strikes, home
 - **Client** Tim Huffman (House Everyone StL)
 - **External Mentors** Women in Technology Group (WWT), GetHelp
 - **Track:** Client-driven Product
-- **Current Tech Lead:** Supraja Chitmilla [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/Supraja050202) [<img src="/img/linkedin.svg" alt="linkedin" width="25" height="25" />](https://www.linkedin.com/in/ch-supraja-8b58a5216/)
+- **Current Tech Lead:** [Mathew Shereni](https://mathewshereni.com/) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/MATHEW-SHERENI) [<img src="/img/linkedin.svg" alt="linkedin" width="25" height="25" />](https://www.linkedin.com/in/mathew-shereni-213130aa/)
 - **Developers:**
   - Danial Khurshid (capstone) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/dkhurshid)
   - Orhan Koylu (capstone) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/orhankoylu)
+  - Supraja Chitmilla (alumni, prior tech lead) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/Supraja050202) [<img src="/img/linkedin.svg" alt="linkedin" width="25" height="25" />](https://www.linkedin.com/in/ch-supraja-8b58a5216/)
   - Jake Bounds (alumni) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/lockermanwxlf)
   - Revateesa Dammalapati (alumni) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/Reva335)
   - Kate Holdener (prior tech lead, prior staff)

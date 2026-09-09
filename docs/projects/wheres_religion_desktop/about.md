@@ -14,10 +14,11 @@ Where's Religion? is conceptualized and designed for diverse users with interest
 - **Source Code:** [https://github.com/oss-slu/lrda_website](https://github.com/oss-slu/lrda_website) [<img src="/img/git-alt.svg" alt="git" width="25" height="25" />](https://github.com/oss-slu/lrda_website)
 - **Client:** Dr. Adam Park
 - **Track:** Client-driven Product
-- **Current Tech Lead:** [Jacob Maynard](https://jacobmaynard.dev) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/InfinityBowman) [<img src="/img/linkedin.svg" alt="linkedin" width="25" height="25" />](https://www.linkedin.com/in/jacob-maynard-283767230/)
+- **Current Tech Lead:** [Mathew Shereni](https://mathewshereni.com/) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/MATHEW-SHERENI) [<img src="/img/linkedin.svg" alt="linkedin" width="25" height="25" />](https://www.linkedin.com/in/mathew-shereni-213130aa/)
 - **Developers:**
   - Andres Castellanos Carrillo (capstone) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/andycaste2004)
   - Puneet Sontha (capstone) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/PunSon)
+  - [Jacob Maynard](https://jacobmaynard.dev) (alumni, prior tech lead) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/InfinityBowman) [<img src="/img/linkedin.svg" alt="linkedin" width="25" height="25" />](https://www.linkedin.com/in/jacob-maynard-283767230/)
   - [Yash Bhatia](https://yashb196.github.io/yashb196/) (alumni, prior senior developer) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/yashb196) [<img src="/img/linkedin.svg" alt="linkedin" width="25" height="25" />](https://www.linkedin.com/in/yashbhatia238/)
   - Hashir Hashir (alumni) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/mhashir03)
   - Zanxiang Wang (alumni, prior tech lead) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/BaloneyBoy97) [<img src="/img/linkedin.svg" alt="linkedin" width="25" height="25" />](https://www.linkedin.com/in/zanxiang-wang-352b112a0/)
