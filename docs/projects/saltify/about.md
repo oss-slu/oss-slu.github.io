@@ -17,9 +17,13 @@ _Note: careful review by a knowledgeable speech-language pathologist is required
   - [Dr. Sara Steele](https://www.slu.edu/doisy/faculty/steele-sara.php)
   - [Dr. Elizabeth Roepke](https://www.slu.edu/doisy/faculty/roepke-elizabeth.php)
 - **Track:** Client-driven Product
-- **Current Tech Lead:** Savikhya Kadiyala [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/Savikhya)
+- **Current Tech Lead:** Munashe Sam Mudabura [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/mudabs) [<img src="/img/linkedin.svg" alt="linkedin" width="25" height="25" />](https://www.linkedin.com/in/munashe-mudabura-468b9a235/)
+
 - **Developers:**
-  - Breona Saffouri (capstone) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/bsaffouri)
+  - Ramedan Ahmed (capstone) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/Remex9) [<img src="/img/linkedin.svg" alt="linkedin" width="25" height="25" />](https://www.linkedin.com/in/ramedan-ahmed-55851929b/)
+  - Mayokun Lawal (capstone) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/mayokunl) [<img src="/img/linkedin.svg" alt="linkedin" width="25" height="25" />](https://www.linkedin.com/in/oluwamayokun-lawal/)
+  - Savikhya Kadiyala (alumni, prior tech lead) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/Savikhya)
+  - Breona Saffouri (alumni, capstone) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/bsaffouri)
   - Risha Bhosekar (alumni) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/rbhosekar)
   - Leah Bragg (alumni) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/LeahBragg)
   - Megh Hareshkumar Patel (alumni) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/MeghPatel6)
