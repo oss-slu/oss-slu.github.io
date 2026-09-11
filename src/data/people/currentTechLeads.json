@@ -20,11 +20,6 @@
         "profileLink": "https://github.com/vbramhadevi"
     },
     {
-        "name": "Samuel Kann",
-        "image": "",
-        "profileLink": "https://github.com/dracpak"
-    },
-    {
         "name": "Leandru Martin",
         "image": "",
         "profileLink": "https://github.com/leandrumartin"
@@ -110,23 +105,18 @@
         "profileLink": "https://github.com/daisyNBN"
     },
     {
-        "name": "Henry Wang",
-        "image": "",
-        "profileLink": "https://github.com/ImJustHenry"
-    },
-    {
         "name": "Briana Huelsman",
         "image": "",
         "profileLink": "https://github.com/bhuelsman"
     },
     {
-        "name": "Daniel Awodeyi",
-        "image": "",
-        "profileLink": "https://github.com/AyoAwodeyi"
-    },
-    {
         "name": "Hazel Caballero",
         "image": "",
         "profileLink": "https://github.com/hcaballero2"
+    },
+    {
+        "name": "Ahmed Bektic",
+        "image": "",
+        "profileLink": "https://github.com/ahmedbektic"
     }
 ]
