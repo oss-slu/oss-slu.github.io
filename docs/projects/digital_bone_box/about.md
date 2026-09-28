@@ -18,12 +18,15 @@ The app will categorize the bones into modules such as the bony pelvis, lower li
 - **Source Code:** [https://github.com/oss-slu/DigitalBoneBox](https://github.com/oss-slu/DigitalBoneBox) [<img src="/img/git-alt.svg" alt="git" width="25" height="25" />](https://github.com/oss-slu/DigitalBoneBox)
 - **Client** Brian Elliot - Program Director, Clinical Health Sciences
 - **Track:** Client-driven Product
-- **Current Tech Lead:** Leandru Martin [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/leandrumartin) [<img src="/img/linkedin.svg" alt="linkedin" width="25" height="25" />](https://www.linkedin.com/in/leandru-martin/)
+- **Current Tech Lead:** Munashe Sam Mudabura [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/mudabs) [<img src="/img/linkedin.svg" alt="linkedin" width="25" height="25" />](https://www.linkedin.com/in/munashe-mudabura-468b9a235/)
 
 - **Developers:**
 
-  - Brehana Naidu (capstone) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/Brehana-Naidu)
-  - Jennifer Oishee (capstone) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/Joishee05) [<img src="/img/linkedin.svg" alt="linkedin" width="25" height="25" />](https://www.linkedin.com/in/jennifer-oishee/)
+  - Olasubomi  Adekunle (capstone) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/subomiade) [<img src="/img/linkedin.svg" alt="linkedin" width="25" height="25" />](https://www.linkedin.com/in/olasubomi-adekunle-91781b261/)
+  - Ramedan Ahmed (capstone) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/Remex9) [<img src="/img/linkedin.svg" alt="linkedin" width="25" height="25" />](https://www.linkedin.com/in/ramedan-ahmed-55851929b/)
+  - Leandru Martin (alumni, prior tech lead) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/leandrumartin) [<img src="/img/linkedin.svg" alt="linkedin" width="25" height="25" />](https://www.linkedin.com/in/leandru-martin/)
+  - Brehana Naidu (alumni, capstone) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/Brehana-Naidu)
+  - Jennifer Oishee (alumni, capstone) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/Joishee05) [<img src="/img/linkedin.svg" alt="linkedin" width="25" height="25" />](https://www.linkedin.com/in/jennifer-oishee/)
   - Wendy Onwuagana (alumni, prior tech lead) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/UcheWendy) [<img src="/img/linkedin.svg" alt="linkedin" width="25" height="25" />](https://www.linkedin.com/in/wendy-onwuagana-015a771b6/)
   - Taslima Aktar (alumni) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/Taktar)
   - Sasha Trejo-Arciles (alumni) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/strejoarciles)

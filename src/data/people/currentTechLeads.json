@@ -25,19 +25,9 @@
         "profileLink": "https://github.com/dracpak"
     },
     {
-        "name": "Leandru Martin",
-        "image": "",
-        "profileLink": "https://github.com/leandrumartin"
-    },
-    {
         "name": "Supraja Chitmilla",
         "image": "",
         "profileLink": "https://github.com/Supraja050202"
-    },
-    {
-        "name": "Savikhya Kadiyala",
-        "image": "",
-        "profileLink": "https://github.com/Savikhya"
     },
     {
         "name": "Jahnavi Darisetti",
@@ -73,11 +63,6 @@
         "name": "Jon Honeycutt",
         "image": "",
         "profileLink": "https://github.com/Cheezyrock"
-    },
-    {
-        "name": "Sameer Maayiz Sirajudeen",
-        "image": "",
-        "profileLink": "https://github.com/Smagen12"
     },
     {
         "name": "Mansi Gidugu",
@@ -123,5 +108,10 @@
         "name": "Hazel Caballero",
         "image": "",
         "profileLink": "https://github.com/hcaballero2"
+    },
+    {
+        "name": "Munashe Sam Mudabura",
+        "image": "",
+        "profileLink": "https://github.com/mudabs"
     }
 ]
