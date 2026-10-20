@@ -191,3 +191,14 @@ These resources are intended to make the project easier to explore, test, and co
 Mithridatium is currently focused on image classification models, but the broader idea is extendable. Similar integrity verification concepts could eventually be applied to other machine learning contexts, including language models and agentic AI systems.
 
 As AI systems become more widely used, model trust will become increasingly important. Mithridatium represents one step toward making pretrained model verification more accessible, practical, and transparent.
+
+## References / Citations
+
+The defenses discussed in this article are based on prior academic research in backdoor detection and model integrity verification.
+
+- STRIP: https://arxiv.org/abs/1902.06531
+- AEVA: https://arxiv.org/abs/2110.14880
+- FreeEagle: https://arxiv.org/abs/2302.14500
+- MMBD: https://arxiv.org/abs/2205.06900
+
+These papers inspired several of the ideas explored through the Mithridatium framework.
