@@ -226,6 +226,17 @@
   border-radius: 50%;
 }
 
+/* For portrait headshots framed tightly on the subject. `object-fit: cover`
+   crops equally from both ends, which on a tall photo cuts into the forehead.
+   Moving the crop window up trades a slight crop of the hair, which reads fine,
+   for one of the face, which does not.
+
+   Opt-in rather than applied to all headshots: the right amount depends on how
+   each photo was framed, so a global value would misframe the next one added. */
+.lead-image img.frame-top {
+  object-position: center 20%;
+}
+
 .lead-description {
   flex: 1;
   max-width: 800px;
