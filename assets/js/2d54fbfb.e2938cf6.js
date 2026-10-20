@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkopen_source_with_slu||=[]).push([[2518],{4559(t){t.exports=JSON.parse('{"tag":{"label":"project","permalink":"/news/tags/project","allTagsPath":"/news/tags","count":1,"unlisted":false},"listMetadata":{"permalink":"/news/tags/project","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);
