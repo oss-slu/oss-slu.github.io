@@ -334,6 +334,10 @@ const sidebars = {
                 },
                 {
                   type: 'doc',
+                  id: 'projects/geo_enricher/about',
+                },
+                {
+                  type: 'doc',
                   id: 'projects/gradeval360/about',
                 },
                 {
@@ -383,6 +387,10 @@ const sidebars = {
                 {
                   type: 'doc',
                   id: 'projects/pilot_data_synchronization/about',
+                },
+                {
+                  type: 'doc',
+                  id: 'projects/repoexplorer/about',
                 },
                 {
                   type: 'doc',

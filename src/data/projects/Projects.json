@@ -119,6 +119,15 @@
       "research": true
     },
     {
+      "name": "GeoEnricher",
+      "url": "/projects/geo_enricher/about",
+      "description": "GeoEnricher is a web tool for enriching datasets with geographic/demographic data provided by the US Census bureau",
+      "status": "current",
+      "image": "/img/projects/geo-enricher.png", "kind": "web-app", "domain": ["data"],
+      "research": false,
+      "github": "https://github.com/oss-slu/geo-enricher"
+    },
+    {
       "name": "ESP: Electronic Structure Parser",
       "url": "/projects/esp/about",
       "description": "ESP is a web application that allows the user to upload the ORCA/Gaussian data, and quickly extract relevant tabular results in a Word document.",
@@ -366,6 +375,17 @@
       "domain": ["aerospace"],
       "research": true,
       "github": "https://github.com/oss-slu/PilotDataSynchronization"
+    },
+    {
+      "name": "RepoExplorer",
+      "url": "/projects/repoexplorer/about",
+      "description": "OSS' fork of the UC OSPO Network's repoexplorer project is a scalable rebuild with a React frontend, Node/Express REST API backend, and a Postgres database fed by a Typescript CLI that scrapes Github and queries a local LLM to create university affiliation and project type prediction fields.",
+      "status": "current",
+      "image": "/img/projects/repoexplorer.png",
+      "kind": "web-app",
+      "domain": ["data"],
+      "research": false,
+      "github": "https://github.com/oss-slu/repoexplorer"
     },
     {
       "name": "Rerum Geolocator",
