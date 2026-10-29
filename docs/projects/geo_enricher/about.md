@@ -1,20 +1,20 @@
 ---
 id: about
-title: "OSS Open Source Repository Browser"
+title: "GeoEnricher"
 custom_edit_url: null
 ---
 
 ## Overview
 
-OSS Open Source Repository Browser aims to scale the work originally done by the UC OSPO Network for the web. The product gathers and aggregates Github data from universities and research institutions represented in CURIOSS. This data is visualized into interactive dashboards and queryable via advanced filtering features.
+GeoEnricher is a web tool for enriching a CSV/Excel dataset with geographic/demographic data fields from the US Census Bureau's [Geocoder API](https://geocoding.geo.census.gov/geocoder/) and the [American Community Survey (ACS)](https://www.census.gov/programs-surveys/acs/about.html)
 
 ### Information
 
-- **Source Code:** [https://github.com/oss-slu/oss-orb](https://github.com/oss-slu/oss-orb) [<img src="/img/git-alt.svg" alt="git" width="25" height="25" />](https://github.com/oss-slu/oss-orb)
+- **Source Code:** [https://github.com/oss-slu/geo-enricher](https://github.com/oss-slu/geo-enricher) [<img src="/img/git-alt.svg" alt="git" width="25" height="25" />](https://github.com/oss-slu/geo-enricher)
 - **Status:** Active (and ongoing)
 - **Platforms:** Web app
-- **Client:** UC OSPO Network (Contact: Emily Lovell)
-- **Track:** Internal Developer Services
+- **Client:** Enrollment Services (Contact: Ryan Klotz)
+- **Track:** Client-driven Product
 - **Current Tech Lead:** Justin DeKock [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/jdetok)
 - **Developers:**
   - Grace Gondela (capstone) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/ggondela1419)
@@ -26,8 +26,11 @@ OSS Open Source Repository Browser aims to scale the work originally done by the
 
 - **Start Date:** August 2026
 - **Technologies Used:**
-  - TBD
-- **License:** Not yet established
+  - Frontend: Typescript, React
+  - Backend: Typescript, Node, Express
+  - Database: Postgres
+    - ACS schema restored from [.dump file](https://backup.censusreporter.org/census-reporter-extracts/acs2024_5yr_backup.sql.gz) provided by the [Census Reporter](https://censusreporter.org/) project
+- **License:** BSD 3-Clause License
 
 ## Technical Information
 
