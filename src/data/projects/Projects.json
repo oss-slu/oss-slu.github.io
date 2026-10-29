@@ -119,13 +119,13 @@
       "research": true
     },
     {
-      "name": "Enroll Dash",
-      "url": "/projects/enroll_dash/about",
-      "description": "Enroll dash is a suite of online tools and dashboards for SLU's Office of Enrollment.",
+      "name": "GeoEnricher",
+      "url": "/projects/geo_enricher/about",
+      "description": "GeoEnricher is a web tool for enriching datasets with geographic/demographic data provided by the US Census bureau",
       "status": "current",
-      "image": "/img/projects/enroll-dash.png", "kind": "web-app", "domain": ["data"],
+      "image": "/img/projects/geo-enricher.png", "kind": "web-app", "domain": ["data"],
       "research": false,
-      "github": "https://github.com/oss-slu/enroll-dash"
+      "github": "https://github.com/oss-slu/geo-enricher"
     },
     {
       "name": "ESP: Electronic Structure Parser",
@@ -355,17 +355,6 @@
       "github": "https://github.com/oss-slu/oss_infra_ops"
     },
     {
-      "name": "Open Source Repository Browser",
-      "url": "/projects/oss_orb/about",
-      "description": "OSS ORB builds a modern, scalable web architecture around the Open Source Repository Browser originally build by the UC OSPO Network.",
-      "status": "current",
-      "image": "/img/projects/oss-orb.png",
-      "kind": "web-app",
-      "domain": ["data"],
-      "research": false,
-      "github": "https://github.com/oss-slu/oss-orb"
-    },
-    {
       "name": "Pi4Micronaut",
       "url": "/projects/pi4micronaut/about",
       "description": "Pi4Micronaut is a Java library crafted for developers who aim to build IoT applications leveraging the Raspberry Pi platform.",
@@ -386,6 +375,17 @@
       "domain": ["aerospace"],
       "research": true,
       "github": "https://github.com/oss-slu/PilotDataSynchronization"
+    },
+    {
+      "name": "RepoExplorer",
+      "url": "/projects/repoexplorer/about",
+      "description": "OSS' fork of the UC OSPO Network's repoexplorer project is a scalable rebuild with a React frontend, Node/Express REST API backend, and a Postgres database fed by a Typescript CLI that scrapes Github and queries a local LLM to create university affiliation and project type prediction fields.",
+      "status": "current",
+      "image": "/img/projects/repoexplorer.png",
+      "kind": "web-app",
+      "domain": ["data"],
+      "research": false,
+      "github": "https://github.com/oss-slu/repoexplorer"
     },
     {
       "name": "Rerum Geolocator",
