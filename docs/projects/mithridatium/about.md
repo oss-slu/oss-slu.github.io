@@ -36,11 +36,16 @@ Mithridatium supports multiple backdoor detection methods and provides structure
 - **Client** Dr. Reza Tourani
 - **Track:** Client-driven Product
 <!-- - **Staff Developer:** Staff Developer Name [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/username) [<img src="/img/linkedin.svg" alt="linkedin" width="25" height="25" />](https://www.linkedin.com/in/username/) -->
-- **Current Tech Lead:** Pelumi Oluwategbe [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/pelumitegbe)
+- **Current Tech Lead:** Addison Thurston [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/addithurston)
 - **Developers:**
-  - Payton Guffey [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/PGuffey)
-  - Gustavo Lucca [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/GustavoLucca)
-  - Will Phoenix [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/williamphoenix)
+  - Bryan Castro Hernandez (capstone) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/NotBryan1)
+  - Elijah Holman (capstone) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/eholman501)
+  - Henry Morgan (capstone) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/HMSLU)
+  - Ricky Truong (capstone) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/Kkori-n)
+  - Pelumi Oluwategbe (alumni, prior tech lead) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/pelumitegbe)
+  - Payton Guffey (alumni) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/PGuffey)
+  - Gustavo Lucca (alumni) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/GustavoLucca)
+  - Will Phoenix (alumni) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/williamphoenix)
 
 ## Technical Information
 
