@@ -334,7 +334,7 @@ const sidebars = {
                 },
                 {
                   type: 'doc',
-                  id: 'projects/enroll_dash/about',
+                  id: 'projects/geo-enricher/about',
                 },
                 {
                   type: 'doc',
@@ -386,11 +386,11 @@ const sidebars = {
                 },
                 {
                   type: 'doc',
-                  id: 'projects/oss_orb/about',
+                  id: 'projects/pilot_data_synchronization/about',
                 },
                 {
                   type: 'doc',
-                  id: 'projects/pilot_data_synchronization/about',
+                  id: 'projects/repoexplorer/about',
                 },
                 {
                   type: 'doc',
