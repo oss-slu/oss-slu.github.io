@@ -334,7 +334,7 @@ const sidebars = {
                 },
                 {
                   type: 'doc',
-                  id: 'projects/geo-enricher/about',
+                  id: 'projects/geo_enricher/about',
                 },
                 {
                   type: 'doc',
