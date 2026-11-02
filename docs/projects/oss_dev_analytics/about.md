@@ -15,11 +15,17 @@ OSS Dev Analytics provides developer analytics and data-driven insights for open
 - **Platforms:** Internal Developer Services
 - **Client:** Open Source with SLU
 - **Track:** Internal Developer Services
-- **Current Tech Lead:** Hazel Caballero [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/hcaballero2)
+- **Current Tech Lead:** Justin DeKock [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/jdetok)
 - **Developers:**
+  - Hazel Caballero (alumni, prior tech lead) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/hcaballero2)
   - Grace Gondela (capstone) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/ggondela1419)
-  - Kiara Mathews (capstone) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/kiaramathews)
-  - Dhyana Patel (capstone) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/dhyana6466)
+  - Bre Saffouri (capstone) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/bsaffouri)
+  - Denise Soriano (capstone) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/denise-soriano)
+  - Darcy Mupenda (capstone) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/dmupenda)
+  - Matthew Wolanski (capstone) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/mwolanski04)
+  - Hailey Gonzalez (capstone) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/Haileyboo111)
+  - Kiara Mathews (alumni) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/kiaramathews)
+  - Dhyana Patel (alumni) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/dhyana6466)
   - Kasi Viswanath Chilakala (alumni, prior tech lead) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/viswanathreddy1017)
   - Joli Muller (alumni) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/hollowtree11)
 - **Start Date:** August 2025
@@ -28,7 +34,7 @@ OSS Dev Analytics provides developer analytics and data-driven insights for open
   - Chart.js, Recharts (data visualization)
   - Python, Pandas, PyGithub (backend data processing)
   - Vitest (testing)
-- **License:** Not yet established
+- **License:** BSD 3-Clause License
 
 ## Technical Information
 
