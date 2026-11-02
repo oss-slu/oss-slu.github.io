@@ -303,7 +303,7 @@
     },
     {
       "name": "OSS CI/CD & Automation",
-      "url": "/projects/cicd_automation/about",
+      "url": "/projects/oss_cicd_automation/about",
       "description": "OSS CI/CD & Automation project provides continuous integration and continuous deployment (CI/CD) services to open source projects developed at SLU, including automated testing, deployment pipelines, and release management.",
       "status": "current",
       "image": "/img/projects/cicd_automation.png",
@@ -325,7 +325,7 @@
     },
     {
       "name": "OSS Dev Analytics",
-      "url": "/projects/dev_analytics/about",
+      "url": "/projects/oss_dev_analytics/about",
       "description": "OSS Dev Analytics project provides developer analytics and general data analytics support to open source projects developed at SLU.",
       "status": "current",
       "image": "/img/projects/dev_analytics.png",
@@ -336,7 +336,7 @@
     },
     {
       "name": "OSS Infra/Ops",
-      "url": "/projects/infra_ops/about",
+      "url": "/projects/oss_infra_ops/about",
       "description": "The OSS Infra/Ops project provides infrastructure and operations support for open source projects developed at SLU, including shared development environments, infrastructure as code support, instrumentation for observability, and development observability services.",
       "status": "current",
       "image": "/img/projects/infra_ops.png",

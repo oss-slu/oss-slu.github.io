@@ -17,10 +17,17 @@ The OSS Infra/Ops team provides infrastructure and operations support for open s
 - **Platforms:** Internal Developer Services
 - **Client:** Open Source with SLU
 - **Track:** Internal Developer Services
-- **Current Tech Lead:** Daniel Awodeyi [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/AyoAwodeyi)
+- **Current Tech Lead:** Ahmed Bektic [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/ahmedbektic)
 - **Developers:**
+  - Kysen Krishnaswamy (capstone) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/kysenkrish)
+  - Prabhnoor Singh (capstone) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/sprabhnoor)
+  - Annie Henehan (capstone) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/ahenehan2)
+  - Dawson Williams (capstone) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/DWilliams2003)
   - Hunter Cataldo (capstone) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/HuntC19)
-  - Joey Heitzler (capstone) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/j-heitz)
+  - Ryder Katz (capstone) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/ryderkatz)
+  - Michael Budzynski (capstone) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/mikeybud08)
+  - Daniel Awodeyi (alumni, prior tech lead) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/AyoAwodeyi)
+  - Joey Heitzler (alumni) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/j-heitz)
   - Ava Enke (alumni) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/sudoava)
   - Daniel Shown (project staff) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/kungfuchicken) [<img src="/img/linkedin.svg" alt="linkedin" width="25" height="25" />](https://www.linkedin.com/in/daniel.shown/)
 - **Start Date:** August 2025

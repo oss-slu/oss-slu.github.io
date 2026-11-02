@@ -40,11 +40,6 @@
     "profileLink": "https://github.com/Nyla-Hughes"
   },
   {
-    "name": "Theodore Heitzler",
-    "image": "",
-    "profileLink": "https://github.com/j-heitz"
-  },
-  {
     "name": "Pascal Sikorski",
     "image": "",
     "profileLink": "https://github.com/Paskul"
@@ -53,11 +48,6 @@
     "name": "Henry Morgan",
     "image": "",
     "profileLink": "https://github.com/HMSLU"
-  },
-  {
-    "name": "Ahmed Bektc",
-    "image": "",
-    "profileLink": "https://github.com/ahmedbektic"
   },
   {
     "name": "Mathieu Sze",
@@ -95,11 +85,6 @@
     "profileLink": "https://github.com/PunSon"
   },
   {
-    "name": "Justin Duong",
-    "image": "",
-    "profileLink": "https://github.com/justinduong5"
-  },
-  {
     "name": "Revateesa Dammalapati",
     "image": "",
     "profileLink": "https://github.com/Reva335"
@@ -130,11 +115,6 @@
     "profileLink": "https://github.com/Hbarsanti"
   },
   {
-    "name": "Dennis Sheynkerman",
-    "image": "",
-    "profileLink": "https://github.com/dennisshey"
-  },
-  {
     "name": "Elizabeth Dreste",
     "image": "",
     "profileLink": "https://github.com/LilLizDog"
@@ -153,11 +133,6 @@
     "name": "Yousuf Muhammud",
     "image": "",
     "profileLink": "https://github.com/Muhammudy"
-  },
-  {
-    "name": "Thomas Pautler",
-    "image": "",
-    "profileLink": "https://github.com/ThomasPautler952194"
   },
   {
     "name": "Joli Muller",
@@ -278,5 +253,30 @@
     "name": "Orhan Koylu",
     "image": "",
     "profileLink": "https://github.com/orhankoylu"
+  },
+  {
+    "name": "Kysen Krishnaswamy",
+    "image": "",
+    "profileLink": "https://github.com/kysenkrish"
+  },
+  {
+    "name": "Prabhnoor Singh",
+    "image": "",
+    "profileLink": "https://github.com/sprabhnoor"
+  },
+  {
+    "name": "Dawson Williams",
+    "image": "",
+    "profileLink": "https://github.com/DWilliams2003"
+  },
+  {
+    "name": "Ryder Katz",
+    "image": "",
+    "profileLink": "https://github.com/ryderkatz"
+  },
+  {
+    "name": "Michael Budzynski",
+    "image": "",
+    "profileLink": "https://github.com/mikeybud08"
   }
 ]
